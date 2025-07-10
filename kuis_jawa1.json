@@ -1,0 +1,527 @@
+[
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti gong kecil?",
+    "jawaban": "Bonang",
+    "kategori": "mudah",
+    "hint": "Terbuat dari logam dan dipukul dengan alat pemukul",
+    "hint2": "Biasa ditemukan dalam set gamelan Jawa Tengah"
+  },
+  {
+    "pertanyaan": "Upacara sunatan dalam budaya Jawa disebut...",
+    "jawaban": "Gusaran",
+    "kategori": "mudah",
+    "hint": "Merupakan tradisi penting untuk anak laki-laki",
+    "hint2": "Biasa disertai dengan selamatan"
+  },
+  {
+    "pertanyaan": "Apa nama pakaian adat Jawa untuk pria?",
+    "jawaban": "Beskap",
+    "kategori": "mudah",
+    "hint": "Sering dipakai dengan blangkon",
+    "hint2": "Biasa digunakan dalam acara resmi"
+  },
+  {
+    "pertanyaan": "Wayang yang terbuat dari kulit disebut...",
+    "jawaban": "Wayang Kulit",
+    "kategori": "mudah",
+    "hint": "Dimainkan oleh dalang",
+    "hint2": "Biasa menceritakan kisah Mahabharata atau Ramayana"
+  },
+  {
+    "pertanyaan": "Apa nama candi Buddha terbesar di Jawa?",
+    "jawaban": "Borobudur",
+    "kategori": "mudah",
+    "hint": "Terletak di Magelang",
+    "hint2": "Dibangun oleh wangsa Syailendra"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang dibawakan oleh penari perempuan?",
+    "jawaban": "Tari Gambyong",
+    "kategori": "sedang",
+    "hint": "Berasal dari Surakarta",
+    "hint2": "Gerakannya lemah gemulai"
+  },
+  {
+    "pertanyaan": "Apa nama sistem penanggalan tradisional Jawa?",
+    "jawaban": "Kalender Jawa",
+    "kategori": "sedang",
+    "hint": "Merupakan kombinasi kalender Islam dan Saka",
+    "hint2": "Diciptakan oleh Sultan Agung"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa yang berbentuk keris kecil?",
+    "jawaban": "Keris",
+    "kategori": "sedang",
+    "hint": "Memiliki pamor pada bilahnya",
+    "hint2": "Dipercaya memiliki kekuatan magis"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk memperingati usia kehamilan 7 bulan?",
+    "jawaban": "Tingkeban",
+    "kategori": "sedang",
+    "hint": "Disebut juga mitoni",
+    "hint2": "Biasa dilakukan dengan siraman"
+  },
+  {
+    "pertanyaan": "Apa nama lagu dolanan Jawa tentang burung?",
+    "jawaban": "Cublak-Cublak Suweng",
+    "kategori": "sedang",
+    "hint": "Biasa dinyanyikan sambil bermain permainan tradisional",
+    "hint2": "Menceritakan tentang harta yang tersembunyi"
+  },
+  {
+    "pertanyaan": "Siapakah penulis Serat Centhini?",
+    "jawaban": "R.Ng. Ranggawarsita",
+    "kategori": "sulit",
+    "hint": "Karya sastra Jawa abad ke-19",
+    "hint2": "Berisi ensiklopedia budaya Jawa"
+  },
+  {
+    "pertanyaan": "Apa nama falsafah Jawa yang berarti 'menerima apa adanya'?",
+    "jawaban": "Nrimo",
+    "kategori": "sulit",
+    "hint": "Bagian dari konsep 'nrimo ing pandum'",
+    "hint2": "Sering dikaitkan dengan sikap pasrah"
+  },
+  {
+    "pertanyaan": "Apa nama teknik pembuatan batik dengan menggunakan alat tembaga?",
+    "jawaban": "Batik Tulis",
+    "kategori": "sulit",
+    "hint": "Prosesnya lebih rumit daripada batik cap",
+    "hint2": "Menggunakan canting sebagai alatnya"
+  },
+  {
+    "pertanyaan": "Apa nama upacara pembersihan pusaka di Keraton Yogyakarta?",
+    "jawaban": "Jamasan",
+    "kategori": "sulit",
+    "hint": "Dilakukan setiap bulan Sura",
+    "hint2": "Termasuk ritual membersihkan keris dan tombak"
+  },
+  {
+    "pertanyaan": "Apa nama kitab yang berisi ajaran moral Jawa karya Yasadipura I?",
+    "jawaban": "Serat Wulangreh",
+    "kategori": "sulit",
+    "hint": "Berisi petuah tentang tata krama",
+    "hint2": "Ditulis pada masa Pakubuwono IV"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk limas?",
+    "jawaban": "Joglo",
+    "kategori": "mudah",
+    "hint": "Biasa dimiliki oleh orang yang mampu",
+    "hint2": "Memiliki empat tiang utama"
+  },
+  {
+    "pertanyaan": "Apa nama makanan tradisional Jawa dari nasi dan sayur dalam potongan kecil?",
+    "jawaban": "Nasi Liwet",
+    "kategori": "mudah",
+    "hint": "Biasa disajikan dengan ayam dan areh",
+    "hint2": "Khas dari Solo"
+  },
+  {
+    "pertanyaan": "Apa nama minuman tradisional Jawa dari jahe dan gula merah?",
+    "jawaban": "Wedang Jahe",
+    "kategori": "mudah",
+    "hint": "Dihidangkan panas",
+    "hint2": "Baik untuk menghangatkan badan"
+  },
+  {
+    "pertanyaan": "Apa nama wayang yang terbuat dari kayu?",
+    "jawaban": "Wayang Golek",
+    "kategori": "mudah",
+    "hint": "Biasa dimainkan di daerah Jawa Barat",
+    "hint2": "Boneka kayu dengan tangan yang bisa digerakkan"
+  },
+  {
+    "pertanyaan": "Apa nama kerajaan Hindu pertama di Jawa?",
+    "jawaban": "Kalingga",
+    "kategori": "mudah",
+    "hint": "Dipimpin oleh Ratu Shima",
+    "hint2": "Terletak di Jawa Tengah"
+  },
+  {
+    "pertanyaan": "Apa nama tarian keraton yang dibawakan oleh 9 penari putri?",
+    "jawaban": "Tari Bedhaya",
+    "kategori": "sedang",
+    "hint": "Biasa dipentaskan di keraton Yogyakarta dan Surakarta",
+    "hint2": "Mengiringi gending tertentu"
+  },
+  {
+    "pertanyaan": "Apa nama aksara tradisional Jawa?",
+    "jawaban": "Hanacaraka",
+    "kategori": "sedang",
+    "hint": "Juga disebut Carakan",
+    "hint2": "Terdiri dari 20 huruf dasar"
+  },
+  {
+    "pertanyaan": "Apa nama upacara pemotongan rambut pertama bayi dalam budaya Jawa?",
+    "jawaban": "Gugur Gunung",
+    "kategori": "sedang",
+    "hint": "Dilakukan saat bayi berusia 40 hari",
+    "hint2": "Termasuk dalam rangkaian upacara tingkeban"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang yang dimainkan oleh orang?",
+    "jawaban": "Wayang Orang",
+    "kategori": "sedang",
+    "hint": "Biasa dipentaskan dengan iringan gamelan",
+    "hint2": "Kostumnya menyerupai wayang kulit"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif tertentu?",
+    "jawaban": "Batik",
+    "kategori": "sedang",
+    "hint": "Dibuat dengan teknik canting atau cap",
+    "hint2": "Diakui UNESCO sebagai warisan budaya"
+  },
+  {
+    "pertanyaan": "Apa nama kitab yang berisi ramalan Jawa tentang akhir zaman?",
+    "jawaban": "Serat Kalatidha",
+    "kategori": "sulit",
+    "hint": "Karya R.Ng. Ranggawarsita",
+    "hint2": "Berisi tentang zaman edan"
+  },
+  {
+    "pertanyaan": "Apa nama falsafah Jawa tentang keseimbangan alam semesta?",
+    "jawaban": "Memayu Hayuning Bawana",
+    "kategori": "sulit",
+    "hint": "Artinya memperindah keindahan dunia",
+    "hint2": "Prinsip hidup harmoni dengan alam"
+  },
+  {
+    "pertanyaan": "Apa nama teknik menyanyikan tembang Jawa dengan ornamentasi tertentu?",
+    "jawaban": "Cengkok",
+    "kategori": "sulit",
+    "hint": "Khas dalam menyanyikan macapat",
+    "hint2": "Memiliki pola melodis yang khas"
+  },
+  {
+    "pertanyaan": "Apa nama ritual membersihkan diri sebelum upacara besar dalam budaya Jawa?",
+    "jawaban": "Padusan",
+    "kategori": "sulit",
+    "hint": "Biasa dilakukan menjelang Ramadan",
+    "hint2": "Berarti mandi atau membersihkan diri"
+  },
+  {
+    "pertanyaan": "Apa nama sistem pembagian waktu dalam tradisi Jawa berdasarkan pasaran?",
+    "jawaban": "Weton",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk menghitung hari kelahiran",
+    "hint2": "Terdiri dari 5 hari pasaran"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang menghasilkan nada tertinggi?",
+    "jawaban": "Saron panerus",
+    "kategori": "mudah",
+    "hint": "Ukurannya lebih kecil dari saron biasa",
+    "hint2": "Termasuk dalam keluarga balungan"
+  },
+  {
+    "pertanyaan": "Apa nama tari penyambutan tamu agung dari Jawa Timur?",
+    "jawaban": "Tari Remo",
+    "kategori": "mudah",
+    "hint": "Penari menggunakan selendang",
+    "hint2": "Biasa dibawakan oleh penari laki-laki"
+  },
+  {
+    "pertanyaan": "Apa nama pakaian adat Jawa untuk wanita?",
+    "jawaban": "Kebaya",
+    "kategori": "mudah",
+    "hint": "Dipakai dengan kain jarik",
+    "hint2": "Biasa digunakan dalam pernikahan"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tongkat?",
+    "jawaban": "Toya",
+    "kategori": "mudah",
+    "hint": "Digunakan dalam pencak silat",
+    "hint2": "Terbuat dari kayu atau bambu"
+  },
+  {
+    "pertanyaan": "Apa nama candi Hindu terbesar di Jawa?",
+    "jawaban": "Prambanan",
+    "kategori": "mudah",
+    "hint": "Terletak di perbatasan DIY-Jateng",
+    "hint2": "Didedikasikan untuk Trimurti"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam tradisi Jawa?",
+    "jawaban": "Surtanah",
+    "kategori": "sedang",
+    "hint": "Dilakukan pada hari ke-7 setelah kematian",
+    "hint2": "Termasuk dalam rangkaian selamatan"
+  },
+  {
+    "pertanyaan": "Apa nama tembang Jawa tentang nasihat hidup?",
+    "jawaban": "Macapat",
+    "kategori": "sedang",
+    "hint": "Memiliki berbagai metrum seperti Pucung dan Maskumambang",
+    "hint2": "Digunakan dalam pendidikan moral"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kekerabatan Jawa berdasarkan garis ibu?",
+    "jawaban": "Matrilineal",
+    "kategori": "sedang",
+    "hint": "Dianut oleh beberapa komunitas Jawa",
+    "hint2": "Warisan diturunkan ke anak perempuan"
+  },
+  {
+    "pertanyaan": "Apa nama ritual tolak bala dengan kembang setaman?",
+    "jawaban": "Ruwatan",
+    "kategori": "sedang",
+    "hint": "Biasa dilakukan untuk anak sukerta",
+    "hint2": "Menggunakan lakon wayang Murwakala"
+  },
+  {
+    "pertanyaan": "Apa nama seni ukir kayu tradisional Jawa?",
+    "jawaban": "Ukir Jepara",
+    "kategori": "sedang",
+    "hint": "Khas dari daerah pesisir utara Jawa",
+    "hint2": "Motifnya sering terinspirasi alam"
+  },
+  {
+    "pertanyaan": "Apa nama kitab hukum kerajaan Jawa kuno?",
+    "jawaban": "Kutara Manawa",
+    "kategori": "sulit",
+    "hint": "Digunakan pada era Majapahit",
+    "hint2": "Berisi tentang hukum pidana dan perdata"
+  },
+  {
+    "pertanyaan": "Apa nama falsafah Jawa tentang tiga unsur kehidupan?",
+    "jawaban": "Tri Hita Karana",
+    "kategori": "sulit",
+    "hint": "Berarti tiga penyebab kebahagiaan",
+    "hint2": "Meliputi hubungan dengan Tuhan, manusia, dan alam"
+  },
+  {
+    "pertanyaan": "Apa nama teknik pembuatan keris dengan lapisan logam berbeda?",
+    "jawaban": "Pamor",
+    "kategori": "sulit",
+    "hint": "Menghasilkan pola tertentu pada bilah keris",
+    "hint2": "Dibuat dengan teknik tempa khusus"
+  },
+  {
+    "pertanyaan": "Apa nama upacara penobatan raja Jawa?",
+    "jawaban": "Jumenengan",
+    "kategori": "sulit",
+    "hint": "Dilakukan di keraton dengan ritual khusus",
+    "hint2": "Termasuk pengukuhan gelar kebesaran"
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan Jawa kuno pada daun lontar?",
+    "jawaban": "Kropak",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk menulis naskah kuno",
+    "hint2": "Biasa disebut 'prasasti daun'"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan berbentuk gambang tapi terbuat dari logam?",
+    "jawaban": "Gender",
+    "kategori": "mudah",
+    "hint": "Memiliki bilah-bilah logam",
+    "hint2": "Dimainkan dengan dua pemukul"
+  },
+  {
+    "pertanyaan": "Apa nama tari tradisional Jawa tentang cerita panji?",
+    "jawaban": "Tari Topeng",
+    "kategori": "mudah",
+    "hint": "Penari mengenakan topeng karakter",
+    "hint2": "Berasal dari Cirebon"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kelahiran bayi dalam budaya Jawa?",
+    "jawaban": "Brokohan",
+    "kategori": "mudah",
+    "hint": "Dilakukan segera setelah bayi lahir",
+    "hint2": "Melibatkan pembagian berkat kepada tetangga"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pisau kecil?",
+    "jawaban": "Wedhung",
+    "kategori": "mudah",
+    "hint": "Sering digunakan sebagai alat sehari-hari",
+    "hint2": "Bentuknya mirip badik tapi lebih kecil"
+  },
+  {
+    "pertanyaan": "Apa nama candi di Jawa Timur yang menjadi makam Raja Airlangga?",
+    "jawaban": "Candi Belahan",
+    "kategori": "mudah",
+    "hint": "Terkenal dengan arca Airlangga sebagai Wisnu",
+    "hint2": "Terletak di lereng Gunung Penanggungan"
+  },
+  {
+    "pertanyaan": "Apa nama upacara bersih desa dalam tradisi Jawa?",
+    "jawaban": "Sadranan",
+    "kategori": "sedang",
+    "hint": "Biasa dilakukan sebelum musim tanam",
+    "hint2": "Termasuk ziarah ke makam leluhur"
+  },
+  {
+    "pertanyaan": "Apa nama tembang Jawa untuk mengiringi tari?",
+    "jawaban": "Gending",
+    "kategori": "sedang",
+    "hint": "Biasa dimainkan oleh gamelan",
+    "hint2": "Memiliki struktur tertentu seperti ladrang atau ketawang"
+  },
+  {
+    "pertanyaan": "Apa nama sistem pembagian warisan dalam hukum adat Jawa?",
+    "jawaban": "Dendha",
+    "kategori": "sedang",
+    "hint": "Mengatur pembagian harta warisan",
+    "hint2": "Biasa diputuskan oleh tetua adat"
+  },
+  {
+    "pertanyaan": "Apa nama ritual tolak bala dengan sesaji kepala kerbau?",
+    "jawaban": "Grebeg",
+    "kategori": "sedang",
+    "hint": "Biasa dilakukan oleh keraton",
+    "hint2": "Termasuk dalam perayaan hari besar Islam"
+  },
+  {
+    "pertanyaan": "Apa nama seni membuat patung tradisional Jawa?",
+    "jawaban": "Ukir Patung",
+    "kategori": "sedang",
+    "hint": "Khas dari daerah Muntilan",
+    "hint2": "Biasa menggambarkan tokoh wayang"
+  },
+  {
+    "pertanyaan": "Apa nama kitab yang berisi ajaran Sufi Jawa?",
+    "jawaban": "Serat Wirid Hidayat Jati",
+    "kategori": "sulit",
+    "hint": "Karya R.Ng. Ranggawarsita",
+    "hint2": "Berisi tentang tasawuf Jawa"
+  },
+  {
+    "pertanyaan": "Apa nama falsafah Jawa tentang empat unsur kematangan diri?",
+    "jawaban": "Sangkan Paraning Dumadi",
+    "kategori": "sulit",
+    "hint": "Berarti asal dan tujuan penciptaan",
+    "hint2": "Bagian dari ajaran Kejawen"
+  },
+  {
+    "pertanyaan": "Apa nama teknik pembuatan keris dengan tempaan lipatan logam?",
+    "jawaban": "Larasan",
+    "kategori": "sulit",
+    "hint": "Menentukan kualitas bilah keris",
+    "hint2": "Dibuat oleh empu khusus"
+  },
+  {
+    "pertanyaan": "Apa nama upacara penobatan ratu Jawa?",
+    "jawaban": "Tingalan Dalem",
+    "kategori": "sulit",
+    "hint": "Dilakukan setiap tahun ulang tahun penobatan",
+    "hint2": "Termasuk prosesi khusus di keraton"
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan Jawa kuno pada batu?",
+    "jawaban": "Prasasti",
+    "kategori": "sulit",
+    "hint": "Menggunakan aksara Kawi",
+    "hint2": "Biasa berisi penetapan sima"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti kendang kecil?",
+    "jawaban": "Ketipung",
+    "kategori": "mudah",
+    "hint": "Digunakan dalam gamelan Jawa gaya Surakarta",
+    "hint2": "Dimainkan dengan tangan"
+  },
+  {
+    "pertanyaan": "Apa nama tari tradisional Jawa tentang cerita Ramayana?",
+    "jawaban": "Tari Rama",
+    "kategori": "mudah",
+    "hint": "Biasa dipentaskan di Prambanan",
+    "hint2": "Menampilkan adegan perang melawan Rahwana"
+  },
+  {
+    "pertanyaan": "Apa nama upacara turun tanah bayi dalam budaya Jawa?",
+    "jawaban": "Tedhak Siten",
+    "kategori": "mudah",
+    "hint": "Dilakukan saat bayi berusia 7 bulan",
+    "hint2": "Termasuk prosesi menginjak tanah pertama kali"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tongkat berujung runcing?",
+    "jawaban": "Tombak",
+    "kategori": "mudah",
+    "hint": "Sering menjadi pusaka keraton",
+    "hint2": "Biasa dihiasi dengan ukiran"
+  },
+  {
+    "pertanyaan": "Apa nama candi di Jawa Tengah yang menjadi kompleks percandian Buddha?",
+    "jawaban": "Sewu",
+    "kategori": "mudah",
+    "hint": "Terletak dekat Prambanan",
+    "hint2": "Berarti 'seribu' dalam bahasa Jawa"
+  },
+  {
+    "pertanyaan": "Apa nama upacara syukur panen dalam tradisi Jawa?",
+    "jawaban": "Merti Desa",
+    "kategori": "sedang",
+    "hint": "Biasa dilakukan setahun sekali",
+    "hint2": "Termasuk kirab hasil bumi"
+  },
+  {
+    "pertanyaan": "Apa nama tembang Jawa untuk mengiringi wayang kulit?",
+    "jawaban": "Suluk",
+    "kategori": "sedang",
+    "hint": "Dinyanyikan oleh dalang",
+    "hint2": "Berisi petuah atau pengantar adegan"
+  },
+  {
+    "pertanyaan": "Apa nama sistem pengobatan tradisional Jawa?",
+    "jawaban": "Jamu",
+    "kategori": "sedang",
+    "hint": "Menggunakan bahan-bahan alami",
+    "hint2": "Diolah dari akar-akaran dan rempah"
+  },
+  {
+    "pertanyaan": "Apa nama ritual tolak bala dengan kembang setaman?",
+    "jawaban": "Ruwatan",
+    "kategori": "sedang",
+    "hint": "Biasa dilakukan untuk anak sukerta",
+    "hint2": "Menggunakan lakon wayang Murwakala"
+  },
+  {
+    "pertanyaan": "Apa nama seni membuat topeng tradisional Jawa?",
+    "jawaban": "Topeng Kayu",
+    "kategori": "sedang",
+    "hint": "Khas dari daerah Malang",
+    "hint2": "Biasa menggambarkan karakter wayang"
+  },
+  {
+    "pertanyaan": "Apa nama kitab yang berisi ajaran moral Jawa tentang kepemimpinan?",
+    "jawaban": "Serat Tripama",
+    "kategori": "sulit",
+    "hint": "Karya Mangkunegara IV",
+    "hint2": "Berisi tiga teladan kesatria"
+  },
+  {
+    "pertanyaan": "Apa nama falsafah Jawa tentang lima unsur kehidupan?",
+    "jawaban": "Pancasifat",
+    "kategori": "sulit",
+    "hint": "Meliputi cahya, geni, bayu, toya, dan bumi",
+    "hint2": "Bagian dari kosmologi Jawa"
+  },
+  {
+    "pertanyaan": "Apa nama teknik pembuatan keris dengan lapisan logam berbeda?",
+    "jawaban": "Pamor",
+    "kategori": "sulit",
+    "hint": "Menghasilkan pola tertentu pada bilah keris",
+    "hint2": "Dibuat dengan teknik tempa khusus"
+  },
+  {
+    "pertanyaan": "Apa nama upacara penobatan ratu Jawa?",
+    "jawaban": "Tingalan Dalem",
+    "kategori": "sulit",
+    "hint": "Dilakukan setiap tahun ulang tahun penobatan",
+    "hint2": "Termasuk prosesi khusus di keraton"
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan Jawa kuno pada kulit kayu?",
+    "jawaban": "Naskah Lontar",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk menulis naskah kuno",
+    "hint2": "Biasa disebut 'prasasti daun'"
+  }
+]

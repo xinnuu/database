@@ -1,0 +1,674 @@
+[
+  {
+    "pertanyaan": "Apa nama upacara pembersihan pusaka di Keraton Surakarta?",
+    "jawaban": "Jamasan",
+    "kategori": "sedang",
+    "hint": "Dilakukan setiap bulan Sura",
+    "hint2": "Termasuk membersihkan keris dan tombak pusaka"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti xylophone dari bambu?",
+    "jawaban": "Gambang",
+    "kategori": "mudah",
+    "hint": "Memiliki bilah-bilah bambu",
+    "hint2": "Sering mengiringi lagu-lagu dolanan"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa Timur yang energik?",
+    "jawaban": "Tari Remo",
+    "kategori": "mudah",
+    "hint": "Sering dipentaskan untuk menyambut tamu",
+    "hint2": "Penari menggunakan selendang"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tongkat dengan mata tiga?",
+    "jawaban": "Trisula",
+    "kategori": "sedang",
+    "hint": "Sering dikaitkan dengan dewa Siwa",
+    "hint2": "Digunakan dalam ritual tertentu"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kelahiran bayi dalam budaya Jawa pada hari ke-5?",
+    "jawaban": "Sepasaran",
+    "kategori": "sedang",
+    "hint": "Termasuk memberi nama bayi",
+    "hint2": "Dilakukan dengan selamatan kecil"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif geometris?",
+    "jawaban": "Lurik",
+    "kategori": "mudah",
+    "hint": "Biasa digunakan untuk pakaian sehari-hari",
+    "hint2": "Motifnya berupa garis-garis"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran bulan?",
+    "jawaban": "Kalender Hijriyah Jawa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk menentukan hari-hari penting Islam",
+    "hint2": "Kombinasi sistem Islam dan tradisi Jawa"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk limas?",
+    "jawaban": "Joglo",
+    "kategori": "mudah",
+    "hint": "Biasa dimiliki oleh orang mampu",
+    "hint2": "Memiliki empat tiang utama"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita Panji?",
+    "jawaban": "Wayang Gedhog",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Timur",
+    "hint2": "Menggunakan boneka wayang khusus"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk memperingati usia kehamilan 4 bulan?",
+    "jawaban": "Nglolosi",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian tingkeban",
+    "hint2": "Dilakukan dengan siraman"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti gong berukuran sedang?",
+    "jawaban": "Kempul",
+    "kategori": "mudah",
+    "hint": "Bagian dari instrumen pencon",
+    "hint2": "Memberi aksen dalam gending"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Menak?",
+    "jawaban": "Tari Topeng Menak",
+    "kategori": "sedang",
+    "hint": "Berasal dari Yogyakarta",
+    "hint2": "Menggunakan topeng karakter"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pisau belati?",
+    "jawaban": "Kujang",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Barat",
+    "hint2": "Bilahnya memiliki lekukan khas"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-40?",
+    "jawaban": "Nempati",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah meninggalkan dunia"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Yogyakarta?",
+    "jawaban": "Batik Parang",
+    "kategori": "mudah",
+    "hint": "Motifnya berupa garis-garis miring",
+    "hint2": "Dulu hanya boleh dipakai keraton"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran matahari?",
+    "jawaban": "Kalender Saka",
+    "kategori": "sulit",
+    "hint": "Digunakan sebelum Islam masuk",
+    "hint2": "Masih dipakai dalam penentuan Tahun Baru Saka"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk pelana?",
+    "jawaban": "Limasan",
+    "kategori": "mudah",
+    "hint": "Biasa dimiliki oleh masyarakat umum",
+    "hint2": "Atapnya berbentuk seperti limas terpotong"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita Islam?",
+    "jawaban": "Wayang Sadat",
+    "kategori": "sedang",
+    "hint": "Dikembangkan untuk penyebaran Islam",
+    "hint2": "Menggunakan boneka wayang khusus"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk memperingati usia kehamilan 8 bulan?",
+    "jawaban": "Nglolosi",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian tingkeban",
+    "hint2": "Dilakukan dengan siraman"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti gong berukuran besar?",
+    "jawaban": "Gong Ageng",
+    "kategori": "mudah",
+    "hint": "Memberi penanda akhir gending",
+    "hint2": "Biasa digantung pada rancakan"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Arjuna?",
+    "jawaban": "Tari Arjuna Wiwaha",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Menggunakan properti panah"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pedang lurus?",
+    "jawaban": "Pedang",
+    "kategori": "mudah",
+    "hint": "Biasa digunakan prajurit keraton",
+    "hint2": "Bilahnya lurus dan tajam kedua sisi"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-100?",
+    "jawaban": "Nyatus",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mencapai alam akhirat"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Solo?",
+    "jawaban": "Batik Sidomukti",
+    "kategori": "mudah",
+    "hint": "Motifnya berupa simbol-simbol kemakmuran",
+    "hint2": "Sering dipakai pengantin"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa kombinasi Saka dan Islam?",
+    "jawaban": "Kalender Jawa",
+    "kategori": "sulit",
+    "hint": "Diciptakan oleh Sultan Agung",
+    "hint2": "Masih digunakan untuk penanggalan tradisional"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk joglo kecil?",
+    "jawaban": "Joglo Sinom",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk paviliun",
+    "hint2": "Atapnya bertingkat dua"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Jawa?",
+    "jawaban": "Wayang Kancil",
+    "kategori": "sedang",
+    "hint": "Mengambil tokoh binatang",
+    "hint2": "Banyak mengandung pesan moral"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk memperingati usia kehamilan 9 bulan?",
+    "jawaban": "Nglolosi",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian tingkeban",
+    "hint2": "Dilakukan dengan siraman"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti drum kecil?",
+    "jawaban": "Ketipung",
+    "kategori": "mudah",
+    "hint": "Digunakan dalam gamelan gaya Surakarta",
+    "hint2": "Dimainkan dengan tangan"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Srikandi?",
+    "jawaban": "Tari Srikandi",
+    "kategori": "sedang",
+    "hint": "Berasal dari Yogyakarta",
+    "hint2": "Menggunakan properti panah"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pedang melengkung?",
+    "jawaban": "Pedang Melengkung",
+    "kategori": "mudah",
+    "hint": "Biasa digunakan prajurit keraton",
+    "hint2": "Bilahnya melengkung seperti keris besar"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-1000?",
+    "jawaban": "Nyewu",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mencapai nirwana"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Pekalongan?",
+    "jawaban": "Batik Pekalongan",
+    "kategori": "mudah",
+    "hint": "Motifnya banyak dipengaruhi alam",
+    "hint2": "Warnanya cerah dan beragam"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran bintang?",
+    "jawaban": "Kalender Pranata Mangsa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk pertanian tradisional",
+    "hint2": "Memiliki 12 mangsa (musim)"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk limas terpotong?",
+    "jawaban": "Kampung",
+    "kategori": "mudah",
+    "hint": "Biasa dimiliki masyarakat biasa",
+    "hint2": "Atapnya sederhana tanpa tiang utama"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita Islam lokal?",
+    "jawaban": "Wayang Menak",
+    "kategori": "sedang",
+    "hint": "Mengambil tokoh Amir Hamzah",
+    "hint2": "Dikembangkan untuk dakwah Islam"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk bayi yang baru belajar berjalan?",
+    "jawaban": "Tedhak Siten",
+    "kategori": "sedang",
+    "hint": "Termasuk menginjakkan kaki di tanah",
+    "hint2": "Dilakukan saat usia sekitar 7 bulan"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti saron kecil?",
+    "jawaban": "Peking",
+    "kategori": "mudah",
+    "hint": "Menghasilkan nada tertinggi dalam keluarga balungan",
+    "hint2": "Bilahnya lebih kecil dari saron"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Gatotkaca?",
+    "jawaban": "Tari Gatotkaca",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Menggunakan properti sayap"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tombak bermata tiga?",
+    "jawaban": "Trisula Tombak",
+    "kategori": "sedang",
+    "hint": "Sering dikaitkan dengan dewa Siwa",
+    "hint2": "Digunakan dalam ritual tertentu"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-3?",
+    "jawaban": "Nelung Dina",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mulai meninggalkan dunia"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Cirebon?",
+    "jawaban": "Batik Megamendung",
+    "kategori": "mudah",
+    "hint": "Motifnya berupa awan-awanan",
+    "hint2": "Banyak dipengaruhi budaya Tionghoa"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran planet?",
+    "jawaban": "Kalender Pawukon",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk menentukan hari baik",
+    "hint2": "Memiliki siklus 210 hari"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk kombinasi?",
+    "jawaban": "Joglo Limasan",
+    "kategori": "sedang",
+    "hint": "Gabungan joglo dan limasan",
+    "hint2": "Biasa digunakan untuk rumah besar"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Banyumas?",
+    "jawaban": "Wayang Banyumas",
+    "kategori": "sedang",
+    "hint": "Menggunakan bahasa Jawa ngapak",
+    "hint2": "Gaya pertunjukannya khas"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk bayi yang baru tumbuh gigi?",
+    "jawaban": "Gogogan",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat gigi pertama muncul"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti gender kecil?",
+    "jawaban": "Slenthem",
+    "kategori": "mudah",
+    "hint": "Menghasilkan nada rendah",
+    "hint2": "Termasuk keluarga gender"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Hanoman?",
+    "jawaban": "Tari Hanoman",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Menggunakan properti ekor monyet"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk cakram?",
+    "jawaban": "Cakra",
+    "kategori": "sedang",
+    "hint": "Sering dikaitkan dengan dewa Wisnu",
+    "hint2": "Digunakan sebagai senjata lempar"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-7?",
+    "jawaban": "Mitung Dina",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mulai meninggalkan keluarga"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Madura?",
+    "jawaban": "Batik Madura",
+    "kategori": "mudah",
+    "hint": "Motifnya tegas dan warna-warni",
+    "hint2": "Banyak menggunakan warna merah dan hijau"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran matahari dan bulan?",
+    "jawaban": "Kalender Saka-Sura",
+    "kategori": "sulit",
+    "hint": "Gabungan sistem Saka dan Hijriyah",
+    "hint2": "Digunakan untuk penanggalan upacara"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk limas bertingkat?",
+    "jawaban": "Joglo Mangkurat",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk bangunan penting",
+    "hint2": "Atapnya bertingkat tiga"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Surakarta?",
+    "jawaban": "Wayang Wong Solo",
+    "kategori": "sedang",
+    "hint": "Dimainkan oleh manusia",
+    "hint2": "Kostumnya menyerupai wayang kulit"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk anak yang baru bisa membaca?",
+    "jawaban": "Tingkeban",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat anak mulai belajar"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti kendang besar?",
+    "jawaban": "Kendang Ageng",
+    "kategori": "mudah",
+    "hint": "Digunakan sebagai pemimpin irama",
+    "hint2": "Dimainkan dengan dua tangan"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Kresna?",
+    "jawaban": "Tari Kresna",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Menggunakan properti cakra"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tongkat bermata ganda?",
+    "jawaban": "Toya Gada",
+    "kategori": "sedang",
+    "hint": "Sering dikaitkan dengan tokoh Bima",
+    "hint2": "Digunakan dalam pencak silat"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-40?",
+    "jawaban": "Nempati",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah meninggalkan dunia"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Lasem?",
+    "jawaban": "Batik Lasem",
+    "kategori": "mudah",
+    "hint": "Motifnya banyak dipengaruhi Tionghoa",
+    "hint2": "Warna merahnya khas"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran bintang dan planet?",
+    "jawaban": "Kalender Pranata Mangsa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk pertanian tradisional",
+    "hint2": "Memiliki 12 mangsa (musim)"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk kombinasi limas dan joglo?",
+    "jawaban": "Joglo Sinom",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk paviliun",
+    "hint2": "Atapnya bertingkat dua"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Yogyakarta?",
+    "jawaban": "Wayang Wong Yogya",
+    "kategori": "sedang",
+    "hint": "Dimainkan oleh manusia",
+    "hint2": "Kostumnya menyerupai wayang kulit"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk anak yang baru bisa menulis?",
+    "jawaban": "Tingkeban",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat anak mulai belajar"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti rebab tetapi lebih kecil?",
+    "jawaban": "Siter",
+    "kategori": "mudah",
+    "hint": "Dimainkan dengan dipetik",
+    "hint2": "Termasuk keluarga kordofon"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Sumbadra?",
+    "jawaban": "Tari Sumbadra",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Gerakannya lemah gemulai"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pisau bermata ganda?",
+    "jawaban": "Kudi",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan petani",
+    "hint2": "Bentuknya seperti arit kecil"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-100?",
+    "jawaban": "Nyatus",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mencapai alam akhirat"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Tuban?",
+    "jawaban": "Batik Gedog",
+    "kategori": "mudah",
+    "hint": "Dibuat dengan teknik tenun dan batik",
+    "hint2": "Bahan dasarnya dari kapas"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran bulan dan musim?",
+    "jawaban": "Kalender Pranata Mangsa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk pertanian tradisional",
+    "hint2": "Memiliki 12 mangsa (musim)"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk kombinasi joglo dan kampung?",
+    "jawaban": "Joglo Jompongan",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk rumah besar",
+    "hint2": "Atapnya sederhana tetapi megah"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Banyuwangi?",
+    "jawaban": "Wayang Krucil",
+    "kategori": "sedang",
+    "hint": "Menggunakan boneka wayang kecil",
+    "hint2": "Biasa menceritakan kisah Panji"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk anak yang baru bisa berhitung?",
+    "jawaban": "Tingkeban",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat anak mulai belajar"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti gendang kecil?",
+    "jawaban": "Ketipung",
+    "kategori": "mudah",
+    "hint": "Digunakan dalam gamelan gaya Surakarta",
+    "hint2": "Dimainkan dengan tangan"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Arimbi?",
+    "jawaban": "Tari Arimbi",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Gerakannya menggambarkan tokoh raksasa"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk tombak bermata satu?",
+    "jawaban": "Tombak",
+    "kategori": "mudah",
+    "hint": "Biasa digunakan prajurit keraton",
+    "hint2": "Bilahnya lurus dan tajam"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-1000?",
+    "jawaban": "Nyewu",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mencapai nirwana"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Indramayu?",
+    "jawaban": "Batik Paoman",
+    "kategori": "mudah",
+    "hint": "Motifnya banyak menggambarkan alam",
+    "hint2": "Warnanya cerah dan beragam"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran matahari, bulan, dan bintang?",
+    "jawaban": "Kalender Pranata Mangsa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk pertanian tradisional",
+    "hint2": "Memiliki 12 mangsa (musim)"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk kombinasi limas dan kampung?",
+    "jawaban": "Limasan Trajumas",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk rumah penduduk",
+    "hint2": "Atapnya sederhana tetapi kokoh"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Cirebon?",
+    "jawaban": "Wayang Cirebon",
+    "kategori": "sedang",
+    "hint": "Menggunakan gaya khas Cirebon",
+    "hint2": "Biasa menceritakan kisah Menak"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk anak yang baru bisa membaca Al-Quran?",
+    "jawaban": "Khataman",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat anak menyelesaikan belajar"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti kendang berpasangan?",
+    "jawaban": "Kendang Ciblon",
+    "kategori": "mudah",
+    "hint": "Digunakan untuk irama cepat",
+    "hint2": "Dimainkan dengan teknik khusus"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Sembadra?",
+    "jawaban": "Tari Sembadra",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Gerakannya lemah gemulai"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk pedang bermata satu?",
+    "jawaban": "Pedang",
+    "kategori": "mudah",
+    "hint": "Biasa digunakan prajurit keraton",
+    "hint2": "Bilahnya lurus dan tajam"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-3?",
+    "jawaban": "Nelung Dina",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mulai meninggalkan dunia"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Garut?",
+    "jawaban": "Batik Garutan",
+    "kategori": "mudah",
+    "hint": "Motifnya geometris sederhana",
+    "hint2": "Warnanya didominasi indigo"
+  },
+  {
+    "pertanyaan": "Apa nama sistem kalender Jawa berdasarkan peredaran matahari dan musim?",
+    "jawaban": "Kalender Pranata Mangsa",
+    "kategori": "sulit",
+    "hint": "Digunakan untuk pertanian tradisional",
+    "hint2": "Memiliki 12 mangsa (musim)"
+  },
+  {
+    "pertanyaan": "Apa nama rumah tradisional Jawa dengan atap berbentuk kombinasi joglo dan limasan?",
+    "jawaban": "Joglo Limasan",
+    "kategori": "sedang",
+    "hint": "Biasa digunakan untuk rumah besar",
+    "hint2": "Atapnya megah dan kokoh"
+  },
+  {
+    "pertanyaan": "Apa nama seni pertunjukan wayang dengan cerita lokal Semarang?",
+    "jawaban": "Wayang Potehi",
+    "kategori": "sedang",
+    "hint": "Dipengaruhi budaya Tionghoa",
+    "hint2": "Menggunakan boneka wayang kecil"
+  },
+  {
+    "pertanyaan": "Apa nama upacara tradisional Jawa untuk anak yang baru bisa menulis Arab?",
+    "jawaban": "Khataman",
+    "kategori": "sedang",
+    "hint": "Termasuk selamatan kecil",
+    "hint2": "Dilakukan saat anak menyelesaikan belajar"
+  },
+  {
+    "pertanyaan": "Apa nama alat musik gamelan yang berbentuk seperti rebab tetapi lebih besar?",
+    "jawaban": "Rebab",
+    "kategori": "mudah",
+    "hint": "Dimainkan dengan digesek",
+    "hint2": "Termasuk keluarga chordofon"
+  },
+  {
+    "pertanyaan": "Apa nama tarian tradisional Jawa yang menggambarkan cerita Banowati?",
+    "jawaban": "Tari Banowati",
+    "kategori": "sedang",
+    "hint": "Berasal dari Jawa Tengah",
+    "hint2": "Gerakannya menggambarkan ratu"
+  },
+  {
+    "pertanyaan": "Apa nama senjata tradisional Jawa berbentuk keris bermata dua?",
+    "jawaban": "Keris Luk",
+    "kategori": "sedang",
+    "hint": "Bilahnya berkelok-kelok",
+    "hint2": "Jumlah luk-nya selalu ganjil"
+  },
+  {
+    "pertanyaan": "Apa nama upacara kematian dalam budaya Jawa pada hari ke-7?",
+    "jawaban": "Mitung Dina",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam rangkaian selamatan",
+    "hint2": "Diyakini sebagai waktu arwah mulai meninggalkan keluarga"
+  },
+  {
+    "pertanyaan": "Apa nama kain tradisional Jawa dengan motif batik khas Banyumas?",
+    "jawaban": "Batik Banyumasan",
+    "kategori": "mudah",
+    "hint": "Motifnya sederhana dan tegas",
+    "hint2": "Warnanya didominasi coklat dan hitam"
+  }
+]

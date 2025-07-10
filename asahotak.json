@@ -1,0 +1,702 @@
+[
+  {
+    "soal": "Nama panglima tertinggi Pasukan Sekutu pada Perang Dunia II?",
+    "jawaban": "Eisenhower"
+  },
+  {
+    "soal": "Planet terbesar di tata surya kita?",
+    "jawaban": "Jupiter"
+  },
+  {
+    "soal": "Ibukota negara Jepang?",
+    "jawaban": "Tokyo"
+  },
+  {
+    "soal": "Penemu teori relativitas?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil"
+  },
+  {
+    "soal": "Lambang kimia untuk emas?",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Penulis novel 'Laskar Pelangi'?",
+    "jawaban": "Andrea Hirata"
+  },
+  {
+    "soal": "Negara terkecil di dunia?",
+    "jawaban": "Vatikan"
+  },
+  {
+    "soal": "Binatang yang dikenal sebagai 'Raja Hutan'?",
+    "jawaban": "Singa"
+  },
+  {
+    "soal": "Mata uang resmi negara Inggris?",
+    "jawaban": "Pound Sterling"
+  },
+  {
+    "soal": "Benda langit yang dikenal sebagai 'Bintang Kejora'?",
+    "jawaban": "Venus"
+  },
+  {
+    "soal": "Nama tokoh utama dalam cerita 'Sherlock Holmes'?",
+    "jawaban": "Sherlock Holmes"
+  },
+  {
+    "soal": "Ibukota negara Australia?",
+    "jawaban": "Canberra"
+  },
+  {
+    "soal": "Penemu lampu pijar?",
+    "jawaban": "Thomas Edison"
+  },
+  {
+    "soal": "Nama benua yang juga merupakan negara?",
+    "jawaban": "Australia"
+  },
+  {
+    "soal": "Bahasa resmi negara Brasil?",
+    "jawaban": "Portugis"
+  },
+  {
+    "soal": "Nama gunung tertinggi di dunia?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "soal": "Presiden pertama Indonesia?",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Hewan yang memiliki punuk di punggungnya?",
+    "jawaban": "Unta"
+  },
+  {
+    "soal": "Nama satelit alami Bumi?",
+    "jawaban": "Bulan"
+  },
+  {
+    "soal": "Negara penghasil kopi terbesar di dunia?",
+    "jawaban": "Brasil"
+  },
+  {
+    "soal": "Nama pahlawan nasional Indonesia yang dikenal sebagai 'Bapak Pendidikan'?",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "soal": "Ibukota negara Mesir?",
+    "jawaban": "Kairo"
+  },
+  {
+    "soal": "Nama tokoh fiksi yang hidup di dunia bawah laut dalam cerita Jules Verne?",
+    "jawaban": "Kapten Nemo"
+  },
+  {
+    "soal": "Organ tubuh manusia yang berfungsi untuk memompa darah?",
+    "jawaban": "Jantung"
+  },
+  {
+    "soal": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell"
+  },
+  {
+    "soal": "Apa nama mata uang resmi negara Jepang?",
+    "jawaban": "Yen"
+  },
+  {
+    "soal": "Di benua mana terdapat Gurun Sahara?",
+    "jawaban": "Afrika"
+  },
+  {
+    "soal": "Siapa pelukis terkenal yang menciptakan lukisan 'Mona Lisa'?",
+    "jawaban": "Leonardo da Vinci"
+  },
+  {
+    "soal": "Apa nama ibukota Kanada?",
+    "jawaban": "Ottawa"
+  },
+  {
+    "soal": "Berapa jumlah sisi pada segi enam?",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Siapa penulis drama 'Romeo dan Juliet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa nama elemen kimia dengan simbol 'O'?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "soal": "Negara mana yang berbentuk seperti sepatu bot?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "Apa nama sungai yang mengalir melalui kota Paris?",
+    "jawaban": "Sungai Seine"
+  },
+  {
+    "soal": "Siapa ilmuwan yang menemukan hukum gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Apa nama gunung berapi terkenal di Italia yang meletus tahun 79 M?",
+    "jawaban": "Gunung Vesuvius"
+  },
+  {
+    "soal": "Apa nama pahlawan Indonesia yang dikenal dengan 'Proklamator'?",
+    "jawaban": "Soekarno dan Hatta"
+  },
+  {
+    "soal": "Apa ibukota negara Spanyol?",
+    "jawaban": "Madrid"
+  },
+  {
+    "soal": "Apa nama planet yang dikenal dengan cincinnya?",
+    "jawaban": "Saturnus"
+  },
+  {
+    "soal": "Siapa pencipta karakter 'Superman'?",
+    "jawaban": "Jerry Siegel dan Joe Shuster"
+  },
+  {
+    "soal": "Apa nama hewan tercepat di darat?",
+    "jawaban": "Cheetah"
+  },
+  {
+    "soal": "Apa nama festival lari maraton tertua di dunia?",
+    "jawaban": "Boston Marathon"
+  },
+  {
+    "soal": "Siapa komposer musik klasik yang menciptakan 'Für Elise'?",
+    "jawaban": "Ludwig van Beethoven"
+  },
+  {
+    "soal": "Apa nama pulau terbesar di dunia?",
+    "jawaban": "Greenland"
+  },
+  {
+    "soal": "Apa nama bunga nasional Jepang?",
+    "jawaban": "Sakura"
+  },
+  {
+    "soal": "Siapa ilmuwan wanita yang memenangkan Nobel dua kali?",
+    "jawaban": "Marie Curie"
+  },
+  {
+    "soal": "Apa nama patung terkenal di Rio de Janeiro, Brasil?",
+    "jawaban": "Patung Kristus Penebus"
+  },
+  {
+    "soal": "Apa nama bahasa pemrograman yang dibuat oleh Guido van Rossum?",
+    "jawaban": "Python"
+  },
+  {
+    "soal": "Apa nama makanan tradisional Indonesia dari fermentasi kedelai?",
+    "jawaban": "Tempe"
+  },
+  {
+    "soal": "Siapa penulis novel '1984'?",
+    "jawaban": "George Orwell"
+  },
+  {
+    "soal": "Apa nama satelit milik planet Mars?",
+    "jawaban": "Phobos dan Deimos"
+  },
+  {
+    "soal": "Apa nama istana presiden Indonesia di Bogor?",
+    "jawaban": "Istana Bogor"
+  },
+  {
+    "soal": "Apa nama senjata tradisional dari Jawa Barat?",
+    "jawaban": "Kujang"
+  },
+  {
+    "soal": "Siapa penyanyi legendaris yang dijuluki 'King of Pop'?",
+    "jawaban": "Michael Jackson"
+  },
+  {
+    "soal": "Apa nama danau terdalam di dunia?",
+    "jawaban": "Danau Baikal"
+  },
+  {
+    "soal": "Apa nama tokoh wayang yang dikenal sebagai 'penasihat' Pandawa?",
+    "jawaban": "Semar"
+  },
+  {
+    "soal": "Apa nama festival film tertua di dunia?",
+    "jawaban": "Venice Film Festival"
+  },
+  {
+    "soal": "Siapa pendiri perusahaan Microsoft?",
+    "jawaban": "Bill Gates"
+  },
+  {
+    "soal": "Apa nama samudra terkecil di dunia?",
+    "jawaban": "Samudra Arktik"
+  },
+  {
+    "soal": "Apa nama tarian tradisional dari Bali yang menceritakan kisah Ramayana?",
+    "jawaban": "Tari Kecak"
+  },
+  {
+    "soal": "Siapa pemain sepakbola yang dijuluki 'Si Jenius' dari Argentina?",
+    "jawaban": "Diego Maradona"
+  },
+  {
+    "soal": "Apa nama kitab suci agama Hindu?",
+    "jawaban": "Wedha"
+  },
+  {
+    "soal": "Apa nama hewan yang memiliki kemampuan mengubah warna kulit?",
+    "jawaban": "Bunglon"
+  },
+  {
+    "soal": "Siapa penemu mesin uap modern?",
+    "jawaban": "James Watt"
+  },
+  {
+    "soal": "Apa nama lagu kebangsaan Prancis?",
+    "jawaban": "La Marseillaise"
+  },
+  {
+    "soal": "Apa nama seni bela diri asal Jepang yang menggunakan pedang bambu?",
+    "jawaban": "Kendo"
+  },
+  {
+    "soal": "Siapa pelukis Indonesia terkenal dengan gaya ekspresionisnya?",
+    "jawaban": "Affandi"
+  },
+  {
+    "soal": "Apa nama makanan khas Padang yang terbuat dari daging sapi?",
+    "jawaban": "Rendang"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di Afrika?",
+    "jawaban": "Gunung Kilimanjaro"
+  },
+  {
+    "soal": "Siapa ilmuwan yang merumuskan hukum 'E=mc²'?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Apa nama bandara internasional di Jakarta?",
+    "jawaban": "Soekarno-Hatta"
+  },
+  {
+    "soal": "Apa nama festival musik terbesar di dunia?",
+    "jawaban": "Glastonbury Festival"
+  },
+  {
+    "soal": "Siapa pencipta karakter 'Doraemon'?",
+    "jawaban": "Fujiko F. Fujio"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di Asia?",
+    "jawaban": "Sungai Yangtze"
+  },
+  {
+    "soal": "Apa nama proses ketika tumbuhan membuat makanan menggunakan sinar matahari?",
+    "jawaban": "Fotosintesis"
+  },
+  {
+    "soal": "Siapa CEO Tesla dan SpaceX yang juga membeli platform Twitter?",
+    "jawaban": "Elon Musk"
+  },
+  {
+    "soal": "Apa nama dewa petir dalam mitologi Nordik?",
+    "jawaban": "Thor"
+  },
+  {
+    "soal": "Berapa banyak warna dalam pelangi menurut spektrum cahaya tampak?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Apa nama senjata ikonik Naruto yang berbentuk pisau besar?",
+    "jawaban": "Kunai"
+  },
+  {
+    "soal": "Di negara mana terletak Menara Pisa yang miring?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "Apa nama algoritma Google untuk peringkat pencarian?",
+    "jawaban": "PageRank"
+  },
+  {
+    "soal": "Siapa pencipta serial anime 'One Piece'?",
+    "jawaban": "Eiichiro Oda"
+  },
+  {
+    "soal": "Apa nama fenomena ketika bulan menutupi matahari secara sempurna?",
+    "jawaban": "Gerhana Matahari Total"
+  },
+  {
+    "soal": "Apa nama logam cair yang digunakan dalam termometer?",
+    "jawaban": "Raksa"
+  },
+  {
+    "soal": "Siapa ilmuwan yang pertama kali mengobservasi sel dengan mikroskop?",
+    "jawaban": "Robert Hooke"
+  },
+  {
+    "soal": "Apa nama platform streaming musik yang logo-nya hijau dengan not musik?",
+    "jawaban": "Spotify"
+  },
+  {
+    "soal": "Apa nama karakter utama dalam game 'The Legend of Zelda'?",
+    "jawaban": "Link"
+  },
+  {
+    "soal": "Di kota mana film 'Transformer' pertama kali menemukan AllSpark?",
+    "jawaban": "Detroit"
+  },
+  {
+    "soal": "Apa nama teknik bernyanyi dengan suara pecah-pecah alunan nada?",
+    "jawaban": "Vibrato"
+  },
+  {
+    "soal": "Siapa penemu WWW (World Wide Web)?",
+    "jawaban": "Tim Berners-Lee"
+  },
+  {
+    "soal": "Apa nama senyawa kimia yang memberi rasa pedas pada cabai?",
+    "jawaban": "Kapsaisin"
+  },
+  {
+    "soal": "Apa nama sistem operasi open-source yang menjadi dasar Android?",
+    "jawaban": "Linux"
+  },
+  {
+    "soal": "Siapa penulis buku 'Atomic Habits'?",
+    "jawaban": "James Clear"
+  },
+  {
+    "soal": "Apa nama permainan papan yang menggunakan uang palsu dan properti?",
+    "jawaban": "Monopoli"
+  },
+  {
+    "soal": "Apa nama elemen terkecil dalam game 'Minecraft'?",
+    "jawaban": "Pixel"
+  },
+  {
+    "soal": "Siapa penyanyi yang mempopulerkan lagu 'Bohemian Rhapsody'?",
+    "jawaban": "Queen"
+  },
+  {
+    "soal": "Apa nama teknik melipat kertas asal Jepang?",
+    "jawaban": "Origami"
+  },
+  {
+    "soal": "Apa nama satuan terkecil dalam blockchain Bitcoin?",
+    "jawaban": "Satoshi"
+  },
+  {
+    "soal": "Siapa aktor yang memerankan Iron Man dalam MCU?",
+    "jawaban": "Robert Downey Jr."
+  },
+  {
+    "soal": "Apa nama bahasa pemrograman yang digunakan untuk membuat website interaktif?",
+    "jawaban": "JavaScript"
+  },
+  {
+    "soal": "Apa nama fenomena ketika bintang meledak di akhir hidupnya?",
+    "jawaban": "Supernova"
+  },
+  {
+    "soal": "Siapa pendiri perusahaan Amazon?",
+    "jawaban": "Jeff Bezos"
+  },
+  {
+    "soal": "Apa nama alat untuk mengukur kekuatan gempa?",
+    "jawaban": "Seismograf"
+  },
+  {
+    "soal": "Apa nama karakter robot dalam film 'Star Wars' yang berbentuk kubah?",
+    "jawaban": "R2-D2"
+  },
+  {
+    "soal": "Siapa ilmuwan yang menemukan struktur DNA berbentuk heliks ganda?",
+    "jawaban": "Watson dan Crick"
+  },
+  {
+    "soal": "Apa nama teknik menanam tanpa tanah menggunakan air bernutrisi?",
+    "jawaban": "Hidroponik"
+  },
+  {
+    "soal": "Apa nama aplikasi edit foto yang populer dengan filter 'kucing'?",
+    "jawaban": "Snapchat"
+  },
+  {
+    "soal": "Siapa pencipta karakter 'Hello Kitty'?",
+    "jawaban": "Yuko Shimizu"
+  },
+  {
+    "soal": "Apa nama teori yang menjelaskan asal-usul alam semesta?",
+    "jawaban": "Big Bang"
+  },
+  {
+    "soal": "Apa nama sistem pengenal suara di iPhone buatan Apple?",
+    "jawaban": "Siri"
+  },
+  {
+    "soal": "Siapa penulis novel 'The Hunger Games'?",
+    "jawaban": "Suzanne Collins"
+  },
+  {
+    "soal": "Apa nama jaringan sosial profesional yang menggunakan logo biru?",
+    "jawaban": "LinkedIn"
+  },
+  {
+    "soal": "Apa nama teknik memasak dengan uap panas dari Tiongkok?",
+    "jawaban": "Dimsum"
+  },
+  {
+    "soal": "Siapa ilmuwan yang menemukan vaksin polio pertama?",
+    "jawaban": "Jonas Salk"
+  },
+  {
+    "soal": "Apa nama planet kerdil yang sebelumnya dianggap planet ke-9?",
+    "jawaban": "Pluto"
+  },
+  {
+    "soal": "Apa nama senyawa yang membuat warna daun hijau?",
+    "jawaban": "Klorofil"
+  },
+  {
+    "soal": "Siapa penemu algoritma Google PageRank bersama Larry Page?",
+    "jawaban": "Sergey Brin"
+  },
+  {
+    "soal": "Apa nama teknik mewarnai rambut dengan pola terang-gelap?",
+    "jawaban": "Balayage"
+  },
+  {
+    "soal": "Apa nama sistem pembayaran digital milik Gojek?",
+    "jawaban": "Gopay"
+  },
+  {
+    "soal": "Siapa pencipta game 'Super Mario'?",
+    "jawaban": "Shigeru Miyamoto"
+  },
+  {
+    "soal": "Apa nama zat yang memberi warna ungu pada kubis merah?",
+    "jawaban": "Antosianin"
+  },
+  {
+    "soal": "Apa nama platform video pendik yang populer di kalangan Gen-Z?",
+    "jawaban": "TikTok"
+  },
+  {
+    "soal": "Siapa penemu lampu lalu lintas?",
+    "jawaban": "Garrett Morgan"
+  },
+  {
+    "soal": "Apa nama teknik fotografi yang membekukan gerakan cepat?",
+    "jawaban": "High-Speed Photography"
+  },
+  {
+    "soal": "Apa nama ibukota provinsi Jawa Timur?",
+    "jawaban": "Surabaya"
+  },
+  {
+    "soal": "Siapa pencipta lagu kebangsaan Indonesia Raya?",
+    "jawaban": "W.R. Supratman"
+  },
+  {
+    "soal": "Berapa jumlah provinsi di Indonesia saat ini?",
+    "jawaban": "38"
+  },
+  {
+    "soal": "Apa nama bandara internasional di Bali?",
+    "jawaban": "I Gusti Ngurah Rai"
+  },
+  {
+    "soal": "Siapa presiden Indonesia pertama yang dipilih secara langsung oleh rakyat?",
+    "jawaban": "Susilo Bambang Yudhoyono"
+  },
+  {
+    "soal": "Apa nama mata uang resmi Malaysia?",
+    "jawaban": "Ringgit"
+  },
+  {
+    "soal": "Di benua mana negara Mesir berada?",
+    "jawaban": "Afrika"
+  },
+  {
+    "soal": "Apa nama danau terbesar di Indonesia?",
+    "jawaban": "Danau Toba"
+  },
+  {
+    "soal": "Siapa penemu bola lampu pijar?",
+    "jawaban": "Thomas Alva Edison"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di Indonesia?",
+    "jawaban": "Puncak Jaya"
+  },
+  {
+    "soal": "Apa nama satelit alam bumi?",
+    "jawaban": "Bulan"
+  },
+  {
+    "soal": "Siapa penulis novel Laskar Pelangi?",
+    "jawaban": "Andrea Hirata"
+  },
+  {
+    "soal": "Apa nama alat untuk mengukur kekuatan gempa?",
+    "jawaban": "Seismograf"
+  },
+  {
+    "soal": "Apa nama ibukota negara Thailand?",
+    "jawaban": "Bangkok"
+  },
+  {
+    "soal": "Siapa ilmuwan yang menemukan teori relativitas?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di Indonesia?",
+    "jawaban": "Sungai Kapuas"
+  },
+  {
+    "soal": "Apa nama makanan khas Padang yang terbuat dari daging sapi?",
+    "jawaban": "Rendang"
+  },
+  {
+    "soal": "Siapa pelukis terkenal asal Indonesia yang memiliki gaya khas melukis dengan jari?",
+    "jawaban": "Affandi"
+  },
+  {
+    "soal": "Apa nama pulau terbesar kedua di Indonesia setelah Papua?",
+    "jawaban": "Kalimantan"
+  },
+  {
+    "soal": "Apa nama tarian tradisional dari Bali yang menceritakan kisah Ramayana?",
+    "jawaban": "Tari Kecak"
+  },
+  {
+    "soal": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell"
+  },
+  {
+    "soal": "Apa nama candi Buddha terbesar di dunia yang terletak di Indonesia?",
+    "jawaban": "Borobudur"
+  },
+  {
+    "soal": "Apa nama ibukota provinsi Aceh?",
+    "jawaban": "Banda Aceh"
+  },
+  {
+    "soal": "Siapa tokoh wayang yang dikenal sebagai punakawan?",
+    "jawaban": "Semar"
+  },
+  {
+    "soal": "Apa nama alat musik tradisional Jawa yang terbuat dari bambu?",
+    "jawaban": "Angklung"
+  },
+  {
+    "soal": "Apa nama festival tahunan yang terkenal di Jepang dengan bunga sakura?",
+    "jawaban": "Hanami"
+  },
+  {
+    "soal": "Siapa pencipta karakter Mickey Mouse?",
+    "jawaban": "Walt Disney"
+  },
+  {
+    "soal": "Apa nama makanan fermentasi dari kedelai yang berasal dari Jepang?",
+    "jawaban": "Miso"
+  },
+  {
+    "soal": "Apa nama ibukota negara Korea Selatan?",
+    "jawaban": "Seoul"
+  },
+  {
+    "soal": "Siapa ilmuwan yang menemukan hukum gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Apa nama senjata tradisional dari Sulawesi Selatan?",
+    "jawaban": "Badik"
+  },
+  {
+    "soal": "Apa nama planet terkecil di tata surya?",
+    "jawaban": "Merkurius"
+  },
+  {
+    "soal": "Siapa penulis buku Harry Potter?",
+    "jawaban": "J.K. Rowling"
+  },
+  {
+    "soal": "Apa nama makanan khas Yogyakarta yang terbuat dari nasi goreng dengan ayam?",
+    "jawaban": "Gudeg"
+  },
+  {
+    "soal": "Apa nama ibukota provinsi Sumatera Barat?",
+    "jawaban": "Padang"
+  },
+  {
+    "soal": "Siapa pahlawan nasional Indonesia dari Maluku yang melawan Belanda?",
+    "jawaban": "Pattimura"
+  },
+  {
+    "soal": "Apa nama alat untuk mengukur suhu tubuh?",
+    "jawaban": "Termometer"
+  },
+  {
+    "soal": "Apa nama tarian tradisional dari Jawa Tengah yang menceritakan kisah Ramayana?",
+    "jawaban": "Tari Wayang"
+  },
+  {
+    "soal": "Siapa penemu pesawat terbang pertama?",
+    "jawaban": "Wright Bersaudara"
+  },
+  {
+    "soal": "Apa nama sungai yang melintasi kota London?",
+    "jawaban": "Sungai Thames"
+  },
+  {
+    "soal": "Apa nama makanan khas Betawi yang terbuat dari sayur dan kuah kental?",
+    "jawaban": "Ketoprak"
+  },
+  {
+    "soal": "Siapa presiden Amerika Serikat pertama?",
+    "jawaban": "George Washington"
+  },
+  {
+    "soal": "Apa nama alat musik tradisional dari Minangkabau?",
+    "jawaban": "Talempong"
+  },
+  {
+    "soal": "Apa nama festival lari maraton tahunan di Boston?",
+    "jawaban": "Boston Marathon"
+  },
+  {
+    "soal": "Siapa pencipta lagu 'Bengawan Solo'?",
+    "jawaban": "Gesang"
+  },
+  {
+    "soal": "Apa nama ibukota provinsi Papua?",
+    "jawaban": "Jayapura"
+  },
+  {
+    "soal": "Apa nama senyawa kimia yang membuat cabai pedas?",
+    "jawaban": "Kapsaisin"
+  },
+  {
+    "soal": "Siapa ilmuwan wanita pertama yang memenangkan Hadiah Nobel?",
+    "jawaban": "Marie Curie"
+  },
+  {
+    "soal": "Apa nama candi Hindu terbesar di Indonesia?",
+    "jawaban": "Prambanan"
+  },
+  {
+    "soal": "Apa nama makanan tradisional dari Madura yang terbuat dari daging kambing?",
+    "jawaban": "Sate Madura"
+  }
+]

@@ -1,0 +1,382 @@
+{
+  "cerita_rakyat": [
+    {
+      "judul": "Asal Usul Selat Bali",
+      "asal": "Bali",
+      "cerita_lengkap": "Dahulu kala, ada seorang brahmana sakti bernama Sidi Mantra yang memiliki anak bernama Manik Angkeran. Karena keserakahan mencuri harta ayahnya, Manik Angkeran dipenggal oleh ular naga penjaga harta. Sidi Mantra yang berduka memohon Dewa untuk menghidupkannya kembali dengan syarat tidak boleh bertemu lagi. Sebuah garis digambar di tanah yang kemudian menjadi Selat Bali, memisahkan mereka selamanya.",
+      "pesan_moral": "Keserakahan akan merugikan diri sendiri",
+      "tokoh": ["Sidi Mantra", "Manik Angkeran", "Naga Besukih"]
+    },
+    {
+      "judul": "Si Kelingking",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Kisah anak kecil seukuran kelingking yang lahir dari buah ajaib. Meski kecil, ia sangat pemberani. Suatu hari ia menyelamatkan desa dari raksasa dengan cara masuk ke perut raksasa dan mengacaukan isi perutnya sampai raksasa mati. Desa pun selamat berkat Si Kelingking.",
+      "pesan_moral": "Ukuran bukanlah segalanya",
+      "tokoh": ["Si Kelingking", "Raksasa", "Orang Tua Angkat"]
+    },
+    {
+      "judul": "Putri Niwerigading",
+      "asal": "Nusa Tenggara Timur",
+      "cerita_lengkap": "Putri cantik dari kerajaan Kupang yang jatuh cinta pada pemuda miskin bernama Umbu Nggaang. Raja tidak setuju dan mengusir Umbu Nggaang. Putri Niwerigading meninggal karena kesedihan. Dari kuburnya tumbuh pohon asam yang buahnya selalu berpasangan, melambangkan cinta mereka yang tak terpisahkan.",
+      "pesan_moral": "Cinta sejati tak mengenal status",
+      "tokoh": ["Putri Niwerigading", "Umbu Nggaang", "Raja Kupang"]
+    },
+    {
+      "judul": "Legenda Ular N'daung",
+      "asal": "Sumatera Utara",
+      "cerita_lengkap": "Seorang ibu yang kesepian memelihara ular besar bernama N'daung. Ketika warga ketakutan dan membunuh N'daung, sang ibu sangat berduka. Darah N'daung mengalir menjadi sungai yang airnya bisa menyembuhkan penyakit. Kini sungai itu disebut Sungai N'daung.",
+      "pesan_moral": "Kasih sayang seorang ibu tak terbatas",
+      "tokoh": ["Ibu Tua", "Ular N'daung", "Warga Desa"]
+    },
+    {
+      "judul": "Asal Mula Padi",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Dewi Sri adalah dewi kesuburan yang sangat dicintai rakyat. Ketika ia meninggal, dari tubuhnya tumbuh tanaman padi. Rambutnya menjadi tanaman jagung, matanya menjadi kacang-kacangan, dan tubuhnya menjadi tanaman padi. Sejak itu manusia mengenal pertanian.",
+      "pesan_moral": "Hargailah makanan sebagai anugerah",
+      "tokoh": ["Dewi Sri", "Batara Guru", "Petani Pertama"]
+    },
+    {
+      "judul": "Si Lancang",
+      "asal": "Riau",
+      "cerita_lengkap": "Pemuda miskin bernama Si Lancang menjadi kaya setelah menemukan harta karun. Ia menjadi sombong dan malu mengakui ibunya yang miskin. Ketika ibunya mengutuk, perahu Si Lancang tenggelam dan ia berubah menjadi batu di tengah sungai sebagai pelajaran bagi orang sombong.",
+      "pesan_moral": "Jangan lupa daratan ketika sudah sukses",
+      "tokoh": ["Si Lancang", "Ibu Si Lancang", "Warga Desa"]
+    },
+    {
+      "judul": "Legenda Telaga Sarangan",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Pangeran dari Kerajaan Mataram jatuh cinta pada putri cantik bernama Dewi Sarangan. Karena statusnya berbeda, mereka tidak bisa bersatu. Sang putri melompat ke danau dan berubah menjadi ikan. Pangeran yang sedih menunggu di tepi danau yang kemudian dikenal sebagai Telaga Sarangan.",
+      "pesan_moral": "Cinta tak selalu berakhir bahagia",
+      "tokoh": ["Pangeran Mataram", "Dewi Sarangan", "Raja Mataram"]
+    },
+    {
+      "judul": "Asal Usul Reog Ponorogo",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Prabu Kelana Sewandana dari Kerajaan Bantarangin mencari calon istri. Dalam perjalanan, patihnya Bujangganong bertemu dengan Singa Barong yang melambangkan kekuatan alam. Tarian pertemuan mereka kemudian menjadi seni Reog yang terkenal hingga kini.",
+      "pesan_moral": "Kekuatan harus diimbangi dengan kebijaksanaan",
+      "tokoh": ["Prabu Kelana Sewandana", "Bujangganong", "Singa Barong"]
+    },
+    {
+      "judul": "Si Pitung (versi lengkap)",
+      "asal": "Jakarta",
+      "cerita_lengkap": "Pitung adalah jawara silat dari Rawa Belong yang membela rakyat kecil dari tuan tanah Belanda. Dengan ilmu kebal, ia merampok orang kaya untuk dibagikan ke rakyat miskin. Belanda akhirnya menangkapnya dengan tipu daya menggunakan paku berkarat yang bisa menembus kekebalannya. Sebelum meninggal, Pitung sempat mewariskan ilmu pada murid-muridnya.",
+      "pesan_moral": "Perjuangan untuk keadilan sosial",
+      "tokoh": ["Si Pitung", "Haji Naipin (guru)", "Tuan Tanah Belanda", "Schout Heyne"]
+    },
+    {
+      "judul": "Legenda Gunung Tangkuban Perahu (versi lengkap)",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Sangkuriang tanpa sengaja membunuh ayahnya Tumang yang sebenarnya adalah titisan dewa. Ibunya, Dayang Sumbi, marah dan memukul kepalanya hingga lupa ingatan. Bertahun kemudian, Sangkuriang jatuh cinta pada Dayang Sumbi tanpa tahu itu ibunya. Saat Dayang Sumbi menyadari, ia memberi syarat mustahil: membangun danau dan perahu semalam. Ketika hampir berhasil, Dayang Sumbi mengelabui dengan kain merah di timur. Sangkuriang marah dan menendang perahu yang menjadi Gunung Tangkuban Perahu.",
+      "pesan_moral": "Dosa masa lalu akan kembali menghantui",
+      "tokoh": ["Sangkuriang", "Dayang Sumbi", "Tumang"]
+    },
+    {
+      "judul": "Terjadinya Gunung Krakatau",
+      "asal": "Selat Sunda",
+      "cerita_lengkap": "Dahulu ada putri cantik bernama Krakatau yang ditawan raja jahat. Kekasihnya, Batara Guru, berusaha menyelamatkan tapi terlambat. Dalam kesedihan, Batara Guru mengutuk daerah itu menjadi gunung berapi. Letusannya yang dahsyat tahun 1883 membentuk pulau-pulau kecil di sekitarnya.",
+      "pesan_moral": "Kesedihan mendalam bisa menghancurkan",
+      "tokoh": ["Putri Krakatau", "Batara Guru", "Raja Jahat"]
+    },
+    {
+      "judul": "Legenda Candi Muara Takus",
+      "asal": "Riau",
+      "cerita_lengkap": "Putri Cantik bernama Takus dikutuk menjadi candi karena menolak cinta raja yang kejam. Air mata yang terus mengalir membentuk Sungai Kampar. Candi ini menjadi bukti cinta sejati yang berakhir tragis.",
+      "pesan_moral": "Cinta tak boleh dipaksakan",
+      "tokoh": ["Putri Takus", "Raja Kejam", "Pendeta Budha"]
+    },
+    {
+      "judul": "Asal Mula Kota Semarang",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Pangeran Pandanaran menemukan pohon asam yang sangat besar (asem arang) saat membuka wilayah baru. Daerah itu kemudian disebut Semarang. Ia membangun kota dengan sistem irigasi canggih dan menjadi penguasa yang bijaksana.",
+      "pesan_moral": "Kepemimpinan yang visioner",
+      "tokoh": ["Pangeran Pandanaran", "Sunan Kalijaga", "Warga"]
+    },
+    {
+      "judul": "Legenda Telaga Biru",
+      "asal": "Kalimantan Barat",
+      "cerita_lengkap": "Seorang gadis bernama Biru dikorbankan untuk menghentikan wabah penyakit. Air matanya membentuk telaga berwarna biru. Ajaibnya, air telaga bisa menyembuhkan penyakit. Kini Telaga Biru menjadi tempat ziarah.",
+      "pesan_moral": "Pengorbanan untuk kebaikan bersama",
+      "tokoh": ["Gadis Biru", "Kepala Suku", "Dukun"]
+    },
+    {
+      "judul": "Kisah Si Mata Empat",
+      "asal": "Sumatera Selatan",
+      "cerita_lengkap": "Anak ajaib bernama Si Mata Empat (memiliki dua pasang mata) bisa melihat makhluk halus. Ia membantu warga melawan roh jahat. Ketika dewasa, matanya yang ajaib menghilang karena sudah tidak dibutuhkan lagi.",
+      "pesan_moral": "Setiap kelebihan ada tujuannya",
+      "tokoh": ["Si Mata Empat", "Orang Tua", "Roh Penunggu"]
+    },
+    {
+      "judul": "Asal Usul Tari Kecak",
+      "asal": "Bali",
+      "cerita_lengkap": "Dikisahkan Rama dan Shinta dalam epos Ramayana melawan Rahwana. Para monyet membantu Rama dengan membentuk lingkaran sambil berteriak \"cak cak cak\". Tarian ini kemudian menjadi Tari Kecak yang terkenal.",
+      "pesan_moral": "Kekuatan persatuan melawan kejahatan",
+      "tokoh": ["Rama", "Shinta", "Rahwana", "Hanoman"]
+    },
+    {
+      "judul": "Legenda Batu Bagga",
+      "asal": "Sulawesi Selatan",
+      "cerita_lengkap": "Pemuda miskin bernama Bagga dikutuk menjadi batu karena mencuri kayu di hutan keramat. Batu itu bisa berbicara dan memperingatkan warga untuk tidak mencuri. Kini menjadi tempat permohonan.",
+      "pesan_moral": "Hargai hak orang lain",
+      "tokoh": ["Bagga", "Penjaga Hutan", "Warga"]
+    },
+    {
+      "judul": "Kisah Si Bungsu dan Ikan Ajaib",
+      "asal": "Maluku",
+      "cerita_lengkap": "Anak bungsu yang baik hati mendapat hadiah ikan ajaib dari nelayan tua. Ikan itu bisa berbicara dan mengabulkan permintaan. Kakak-kakaknya yang iri membunuh ikan itu, tapi justru mendapat bencana. Si Bungsu yang tetap baik hati akhirnya hidup bahagia.",
+      "pesan_moral": "Jangan iri pada keberuntungan orang",
+      "tokoh": ["Si Bungsu", "Ikan Ajaib", "Kakak-kakak"]
+    },
+    {
+      "judul": "Asal Mula Tari Saman",
+      "asal": "Aceh",
+      "cerita_lengkap": "Syekh Saman menciptakan tarian untuk menyebarkan Islam di Gayo. Gerakannya yang dinamis menggambarkan alam dan ayat-ayat Al-Quran. Tarian ini menjadi media dakwah yang indah.",
+      "pesan_moral": "Seni sebagai sarana kebaikan",
+      "tokoh": ["Syekh Saman", "Murid-murid", "Masyarakat Gayo"]
+    },
+    {
+      "judul": "Legenda Putri Duyung Rote",
+      "asal": "NTT",
+      "cerita_lengkap": "Putri duyung bernama Oesoko sering membantu nelayan yang tersesat. Suatu hari ia jatuh cinta pada pemuda desa. Karena tidak mungkin bersatu, Oesoko memberikan kalung ajaib yang bisa mencegah badai sebelum pergi untuk selamanya.",
+      "pesan_moral": "Cinta sejati kadang harus melepaskan",
+      "tokoh": ["Oesoko", "Pemuda Desa", "Nelayan"]
+    },
+    {
+      "judul": "Kisah Si Bongkok dari Jambi",
+      "asal": "Jambi",
+      "cerita_lengkap": "Pemuda bongkok yang baik hati membantu nenek penyihir tanpa pamrih. Sebagai hadiah, nenek itu menyembuhkan kebongkokannya dan memberinya harta. Pemuda itu kemudian membangun desa menjadi makmur.",
+      "pesan_moral": "Kebaikan hati akan dibalas",
+      "tokoh": ["Si Bongkok", "Nenek Penyihir", "Warga Desa"]
+    },
+    {
+      "judul": "Asal Usul Danau Lipan",
+      "asal": "Kalimantan Timur",
+      "cerita_lengkap": "Desa dilanda wabah lipan berbisa. Seorang gadis bernama Lipan berkorban dengan menari sampai mati untuk mengusir wabah. Air mata warga membentuk danau yang kemudian dinamakan Danau Lipan.",
+      "pesan_moral": "Pengorbanan seorang pahlawan",
+      "tokoh": ["Gadis Lipan", "Kepala Suku", "Warga"]
+    },
+    {
+      "judul": "Legenda Batu Gantung",
+      "asal": "Sumatera Utara",
+      "cerita_lengkap": "Putri Seruni bunuh diri dengan melompat dari tebing karena cintanya tidak direstui. Jasadnya berubah menjadi batu yang menggantung di tebing. Kini menjadi objek wisata di Parapat.",
+      "pesan_moral": "Jangan mengambil jalan pintas dalam masalah",
+      "tokoh": ["Putri Seruni", "Kekasih", "Raja"]
+    },
+    {
+      "judul": "Kisah Si Bebek Emas",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Janda miskin merawat bebek emas ajaib yang bisa bertelur emas. Tetangga serakah mencuri bebek itu, tapi bebek berubah menjadi biasa di tangan si serakah. Si janda yang ikhlas akhirnya mendapat kembali bebeknya.",
+      "pesan_moral": "Ketamakan akan merugikan diri sendiri",
+      "tokoh": ["Janda Miskin", "Si Bebek Emas", "Tetangga Serakah"]
+    },
+    {
+      "judul": "Asal Mula Pantai Parangtritis",
+      "asal": "Yogyakarta",
+      "cerita_lengkap": "Putri Ratu Kidul jatuh cinta pada Panembahan Senopati. Sebagai bukti cinta, sang putri menciptakan pantai berpasir hitam dengan ombak besar. Pantai ini menjadi gerbang kerajaan gaib Ratu Kidul.",
+      "pesan_moral": "Cinta bisa menciptakan keindahan",
+      "tokoh": ["Ratu Kidul", "Panembahan Senopati", "Pengawal"]
+    },
+    {
+      "judul": "Legenda Batu Raden",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Kisah cinta terlarang antara putri bangsawan dan pengembara miskin. Ketika ketahuan, mereka dikutuk menjadi batu yang saling berhadapan. Kini menjadi objek wisata di Banyumas.",
+      "pesan_moral": "Cinta tak mengenal status sosial",
+      "tokoh": ["Putri", "Pengembara", "Ayah Putri"]
+    },
+    {
+      "judul": "Kisah Si Kera dan Kura-Kura",
+      "asal": "Kalimantan",
+      "cerita_lengkap": "Kera yang licik menipu kura-kura dalam perlombaan memetik buah. Kura-kura yang sabar akhirnya menang dengan kecerdikannya sendiri. Kera yang serakah terjatuh dari pohon.",
+      "pesan_moral": "Kesabaran dan kecerdikan mengalahkan kelicikan",
+      "tokoh": ["Si Kera", "Kura-Kura", "Hakim Gajah"]
+    },
+    {
+      "judul": "Asal Usul Tari Piring",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Masyarakat Minang menciptakan tarian syukur setelah panen besar. Piring-piring yang diinjak tidak pecah melambangkan kekuatan dan persatuan. Tarian ini menjadi simbol budaya Minangkabau.",
+      "pesan_moral": "Syukuri setiap nikmat",
+      "tokoh": ["Petani", "Pemimpin Adat", "Penari"]
+    },
+    {
+      "judul": "Legenda Gua Sunyaragi",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Pangeran Cirebon bersemedi di gua ini untuk mendapat wahyu. Dalam mimpinya bertemu Sunan Gunung Jati yang memberinya petunjuk membangun kerajaan. Gua ini kemudian menjadi tempat spiritual.",
+      "pesan_moral": "Kebijaksanaan datang dari ketenangan",
+      "tokoh": ["Pangeran", "Sunan Gunung Jati", "Prajurit"]
+    },
+    {
+      "judul": "Kisah Si Gundul dan Kera Sakti",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Anak laki-laki gundul yang baik hati mendapat bantuan kera sakti. Bersama mereka melawan penyamun yang mengganggu desa. Kera itu ternyata jelmaan seorang pertapa.",
+      "pesan_moral": "Kebaikan akan mendapat pertolongan",
+      "tokoh": ["Si Gundul", "Kera Sakti", "Penyamun"]
+    },
+    {
+      "judul": "Asal Mula Tari Tor-Tor",
+      "asal": "Sumatera Utara",
+      "cerita_lengkap": "Tarian ritual Batak untuk berkomunikasi dengan roh leluhur. Gerakannya yang khas melambangkan doa dan penghormatan. Kini menjadi tarian penyambutan tamu.",
+      "pesan_moral": "Hormati leluhur dan tradisi",
+      "tokoh": ["Dukun", "Penari", "Roh Leluhur"]
+    },
+    {
+      "judul": "Legenda Batu Balai",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Batu besar tempat bermusyawarah masyarakat Minang. Konon batu ini bisa memutuskan perkara dengan adil. Yang bersalah akan merasa panas duduk di atasnya.",
+      "pesan_moral": "Keadilan adalah dasar kehidupan",
+      "tokoh": ["Pemimpin Adat", "Warga", "Tetua"]
+    },
+    {
+      "judul": "Kisah Si Lancang Kuning",
+      "asal": "Riau",
+      "cerita_lengkap": "Perahu hantu yang muncul di Selat Melaka. Konon adalah perahu Si Lancang yang dikutuk ibunya. Muncul sebagai pertanda akan ada badai besar.",
+      "pesan_moral": "Dosa kepada ibu sangat berat",
+      "tokoh": ["Si Lancang", "Ibu", "Nelayan"]
+    },
+    {
+      "judul": "Asal Usul Tari Jaipong",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Gugum Gumbira menciptakan tarian ini untuk menghidupkan kembali kesenian Sunda. Gabungan dari ketuk tilu, wayang golek, dan pencak silat. Menjadi ikon budaya Jawa Barat.",
+      "pesan_moral": "Kreativitas melestarikan budaya",
+      "tokoh": ["Gugum Gumbira", "Penari", "Musisi"]
+    },
+    {
+      "judul": "Legenda Batu Cinta",
+      "asal": "Sulawesi Utara",
+      "cerita_lengkap": "Dua batu berbentuk manusia saling berhadapan di pantai. Konon adalah sepasang kekasih yang dikutuk karena cinta terlarang. Air laut yang memisahkan mereka tak pernah surut.",
+      "pesan_moral": "Cinta harus pada tempatnya",
+      "tokoh": ["Pemuda", "Gadis", "Orang Tua"]
+    },
+    {
+      "judul": "Kisah Si Miskin dan Pohon Ajaib",
+      "asal": "Nusa Tenggara Barat",
+      "cerita_lengkap": "Pria miskin yang baik hati merawat pohon tua. Pohon itu memberinya buah emas. Tetangga serakah menebang pohon, tapi hanya mendapat malapetaka.",
+      "pesan_moral": "Jaga alam dengan baik",
+      "tokoh": ["Si Miskin", "Pohon Ajaib", "Tetangga Serakah"]
+    },
+    {
+      "judul": "Asal Mula Tari Kipas",
+      "asal": "Sulawesi Selatan",
+      "cerita_lengkap": "Putri kerajaan menciptakan tarian dengan kipas untuk menolak lamaran pangeran yang tidak dicintainya. Gerakan kipas yang indah menjadi simbol penolakan halus.",
+      "pesan_moral": "Menolak dengan cara yang elegan",
+      "tokoh": ["Putri", "Pangeran", "Dayang-dayang"]
+    },
+    {
+      "judul": "Legenda Batu Lumut",
+      "asal": "Bangka Belitung",
+      "cerita_lengkap": "Batu besar ditumbuhi lumut ajaib yang bisa menyembuhkan. Konon berasal dari jubah tabib kerajaan yang dikutuk karena keserakahan. Kini menjadi objek wisata.",
+      "pesan_moral": "Keserakahan merusak karunia",
+      "tokoh": ["Tabib", "Raja", "Warga"]
+    },
+    {
+      "judul": "Kisah Si Buta dari Gua Hantu",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Pria buta yang tinggal di gua angker ternyata adalah pertapa sakti. Ia membantu warga melawan perampok dengan kemampuannya \"melihat\" tanpa mata.",
+      "pesan_moral": "Jangan menilai dari fisik saja",
+      "tokoh": ["Si Buta", "Perampok", "Warga"]
+    },
+    {
+      "judul": "Asal Usul Tari Serimpi",
+      "asal": "Yogyakarta",
+      "cerita_lengkap": "Tarian keraton yang menggambarkan pertempuran antara nafsu baik dan buruk. Penari bergerak lembut seperti mimpi, melambangkan keseimbangan hidup.",
+      "pesan_moral": "Kendalikan nafsu untuk hidup harmonis",
+      "tokoh": ["Penari", "Raja", "Guru Tari"]
+    },
+    {
+      "judul": "Legenda Batu Belah",
+      "asal": "Riau",
+      "cerita_lengkap": "Batu besar yang bisa membelah diri untuk menelan orang jahat. Seorang anak durhaka yang tidak mengakui ibunya dikisahkan ditelan batu ini.",
+      "pesan_moral": "Berbakti kepada orang tua",
+      "tokoh": ["Anak Durhaka", "Ibu", "Warga"]
+    },
+    {
+      "judul": "Kisah Si Penyumpit Ajaib",
+      "asal": "Kalimantan",
+      "cerita_lengkap": "Pemuda Dayak mendapat sumpit ajaib dari roh hutan. Dengan sumpit ini ia melindungi desa dari binatang buas dan penjajah. Ketika misi selesai, sumpit itu kembali ke hutan.",
+      "pesan_moral": "Gunakan kelebihan untuk kebaikan",
+      "tokoh": ["Pemuda", "Roh Hutan", "Kepala Suku"]
+    },
+    {
+      "judul": "Asal Mula Tari Topeng",
+      "asal": "Cirebon",
+      "cerita_lengkap": "Sunan Gunung Jati menciptakan tarian dengan topeng untuk menyebarkan Islam. Setiap topeng melambangkan sifat manusia: baik, jahat, licik, dan bijaksana.",
+      "pesan_moral": "Manusia punya banyak wajah",
+      "tokoh": ["Sunan Gunung Jati", "Penari", "Wali"]
+    },
+    {
+      "judul": "Legenda Batu Kagungan",
+      "asal": "Lampung",
+      "cerita_lengkap": "Batu keramat peninggalan kerajaan tua. Konon bisa mendatangkan hujan jika diadakan ritual. Warga percaya batu ini adalah jelmaan putri kerajaan.",
+      "pesan_moral": "Hormati warisan leluhur",
+      "tokoh": ["Putri", "Raja", "Pendeta"]
+    },
+    {
+      "judul": "Kisah Si Tanduk Emas",
+      "asal": "Sulawesi Tengah",
+      "cerita_lengkap": "Rusa bertanduk emas membantu gadis miskin. Ketika pemburu mengejar rusa, gadis itu melindunginya. Sebagai balasan, rusa memberinya bulu yang bisa menjadi emas.",
+      "pesan_moral": "Jagalah mereka yang membantu kita",
+      "tokoh": ["Gadis", "Rusa Emas", "Pemburu"]
+    },
+    {
+      "judul": "Asal Usul Tari Payung",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Tarian yang melambangkan perlindungan cinta. Payung yang dibuka melambangkan perlindungan suami pada istri. Gerakannya lembut penuh makna.",
+      "pesan_moral": "Cinta membutuhkan perlindungan",
+      "tokoh": ["Seorang Suami", "Istri", "Penari"]
+    },
+    {
+      "judul": "Legenda Batu Lesung",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Lesung penumbuk padi yang dikutuk menjadi batu karena digunakan untuk berjudi. Kini menjadi peringatan agar alat-alat rumah tangga tidak disalahgunakan.",
+      "pesan_moral": "Gunakan sesuatu sesuai fungsinya",
+      "tokoh": ["Warga", "Pemadat", "Tetua Desa"]
+    },
+    {
+      "judul": "Kisah Si Anak Harimau",
+      "asal": "Sumatera Selatan",
+      "cerita_lengkap": "Anak manusia yang dibesarkan harimau. Ketika dewasa ia bisa berbicara dengan binatang. Ia menjadi penengah antara manusia dan hutan.",
+      "pesan_moral": "Hidup harmonis dengan alam",
+      "tokoh": ["Si Anak", "Harimau", "Warga Desa"]
+    },
+    {
+      "judul": "Asal Mula Tari Lilin",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Gadis yang kehilangan cincin tunangannya mencarinya di malam hari dengan lilin. Gerakannya yang anggap menjadi dasar tarian lilin yang indah.",
+      "pesan_moral": "Kesabaran dalam mencari yang hilang",
+      "tokoh": ["Gadis", "Tunangan", "Sahabat"]
+    },
+    {
+      "judul": "Legenda Batu Golog",
+      "asal": "NTB",
+      "cerita_lengkap": "Batu berbentuk gong raksasa yang bisa berbunyi sendiri saat akan terjadi bencana. Warga percaya ini adalah peringatan dari leluhur.",
+      "pesan_moral": "Waspada terhadap tanda-tanda alam",
+      "tokoh": ["Tetua Desa", "Warga", "Leluhur"]
+    },
+    {
+      "judul": "Kisah Si Matahari Kecil",
+      "asal": "Papua",
+      "cerita_lengkap": "Anak kecil yang bisa mengeluarkan cahaya dari tangannya. Ia menerangi desa saat bulan gelap. Ketika dewasa, cahayanya hilang karena desa sudah mendapat penerangan.",
+      "pesan_moral": "Setiap masa ada pahlawannya",
+      "tokoh": ["Si Matahari", "Orang Tua", "Warga"]
+    },
+    {
+      "judul": "Asal Usul Tari Gandrung",
+      "asal": "Banyuwangi",
+      "cerita_lengkap": "Tarian untuk menyambut panen dan mengusir roh jahat. Penari wanita dengan kostum warna-warni menari dengan lincah diiringi musik khas Osing.",
+      "pesan_moral": "Bersyukur atas hasil bumi",
+      "tokoh": ["Penari", "Petani", "Pemusik"]
+    },
+    {
+      "judul": "Legenda Batu Kura-Kura",
+      "asal": "Bali",
+      "cerita_lengkap": "Kura-kura sakti yang dikutuk menjadi batu karena melawan perintah dewa. Sebelum menjadi batu, ia memperingatkan warga untuk hidup rukun.",
+      "pesan_moral": "Patuhi aturan yang berlaku",
+      "tokoh": ["Kura-Kura", "Dewa", "Warga"]
+    },
+    {
+      "judul": "Kisah Si Bunga Anggrek",
+      "asal": "Kalimantan",
+      "cerita_lengkap": "Gadis cantik yang berubah menjadi bunga anggrek karena menolak perjodohan. Bunga itu hanya mekar di tempat yang penuh cinta.",
+      "pesan_moral": "Cinta tidak bisa dipaksakan",
+      "tokoh": ["Gadis", "Orang Tua", "Kekasih"]
+    }
+  ]
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "pertanyaan": "Apa kepanjangan dari CPU?",
+    "pilihan": [
+      "A. Central Process Unit",
+      "B. Central Processing Unit",
+      "C. Central Peripheral Unit",
+      "D. Central Protocol Unit"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Ini adalah komponen utama yang menjalankan instruksi pada komputer.",
+    "hint2": "Biasanya disebut juga sebagai 'otak' komputer.",
+    "deskripsi": "CPU (Central Processing Unit) adalah komponen utama komputer yang bertugas menjalankan perintah dan memproses data."
+  },
+  {
+    "pertanyaan": "Apa fungsi utama RAM?",
+    "pilihan": [
+      "A. Menyimpan data secara permanen",
+      "B. Memproses grafis",
+      "C. Menyimpan data sementara saat komputer menyala",
+      "D. Menghubungkan perangkat jaringan"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Data di sini hilang saat komputer dimatikan.",
+    "hint2": "Semakin besar kapasitasnya, semakin cepat komputer bekerja.",
+    "deskripsi": "RAM (Random Access Memory) berfungsi untuk menyimpan data sementara saat komputer sedang beroperasi."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'WWW' di internet?",
+    "pilihan": [
+      "A. Wide World Web",
+      "B. World Wide Web",
+      "C. Web World Wide",
+      "D. World Web Wide"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Diciptakan oleh Tim Berners-Lee.",
+    "hint2": "Merupakan sistem dokumen hypertext yang saling terhubung.",
+    "deskripsi": "WWW (World Wide Web) adalah sistem informasi yang memungkinkan pengaksesan dokumen hypertext melalui internet."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat yang digunakan untuk mengakses internet secara nirkabel?",
+    "pilihan": [
+      "A. Modem",
+      "B. Router",
+      "C. Switch",
+      "D. Harddisk"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya memiliki antena.",
+    "hint2": "Menggunakan sinyal Wi-Fi.",
+    "deskripsi": "Router adalah perangkat yang mengirimkan data antar jaringan, termasuk menyediakan akses internet nirkabel (Wi-Fi)."
+  },
+  {
+    "pertanyaan": "Apa singkatan dari 'PDF'?",
+    "pilihan": [
+      "A. Portable Document Format",
+      "B. Personal Data File",
+      "C. Printed Document Format",
+      "D. Public Data Format"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Dikembangkan oleh Adobe.",
+    "hint2": "Berkas jenis ini bisa dibuka di berbagai perangkat.",
+    "deskripsi": "PDF (Portable Document Format) adalah format berkas yang digunakan untuk menyimpan dokumen dengan tampilan yang konsisten."
+  },
+  {
+    "pertanyaan": "Apa nama sistem operasi yang dikembangkan oleh Microsoft?",
+    "pilihan": [
+      "A. macOS",
+      "B. Linux",
+      "C. Windows",
+      "D. Android"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Versi populernya antara lain Windows 10 dan Windows 11.",
+    "hint2": "Logo-nya berupa jendela berwarna.",
+    "deskripsi": "Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat untuk mencetak dokumen?",
+    "pilihan": [
+      "A. Scanner",
+      "B. Printer",
+      "C. Monitor",
+      "D. Proyektor"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Ada yang menggunakan tinta atau laser.",
+    "hint2": "Hasilnya bisa berupa kertas berisi teks/gambar.",
+    "deskripsi": "Printer adalah perangkat output yang digunakan untuk mencetak dokumen digital ke dalam bentuk fisik."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'USB'?",
+    "pilihan": [
+      "A. Universal Serial Bus",
+      "B. Unified System Bus",
+      "C. Universal System Board",
+      "D. Unified Serial Board"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Digunakan untuk menghubungkan perangkat seperti flashdisk.",
+    "hint2": "Biasanya berbentuk port kecil di komputer/laptop.",
+    "deskripsi": "USB (Universal Serial Bus) adalah standar koneksi untuk menghubungkan perangkat eksternal ke komputer."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat penyimpanan data portabel?",
+    "pilihan": [
+      "A. RAM",
+      "B. CPU",
+      "C. Flashdisk",
+      "D. Motherboard"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya berukuran kecil dan menggunakan port USB.",
+    "hint2": "Dapat menyimpan file seperti dokumen, musik, dan video.",
+    "deskripsi": "Flashdisk adalah perangkat penyimpanan data portabel yang menggunakan memori flash."
+  },
+  {
+    "pertanyaan": "Apa fungsi mouse pada komputer?",
+    "pilihan": [
+      "A. Memproses data",
+      "B. Menampilkan gambar",
+      "C. Menggerakkan kursor di layar",
+      "D. Mencetak dokumen"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya memiliki 2 tombol dan scroll wheel.",
+    "hint2": "Bekerja dengan mendeteksi gerakan di permukaan datar.",
+    "deskripsi": "Mouse adalah perangkat input yang digunakan untuk mengontrol kursor di layar komputer."
+  },
+  {
+    "pertanyaan": "Apa nama layanan email yang dikembangkan oleh Google?",
+    "pilihan": [
+      "A. Outlook",
+      "B. Yahoo Mail",
+      "C. Gmail",
+      "D. ProtonMail"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Memiliki logo berbentuk amplop dengan warna merah-kuning-hijau-biru.",
+    "hint2": "Biasanya terintegrasi dengan akun Google.",
+    "deskripsi": "Gmail adalah layanan email gratis yang dikembangkan oleh Google."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'Wi-Fi'?",
+    "pilihan": [
+      "A. Wireless Fidelity",
+      "B. Wired Fiber",
+      "C. Wireless Fiber",
+      "D. Wired Fidelity"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Digunakan untuk koneksi internet tanpa kabel.",
+    "hint2": "Biasanya tersedia di kafe, bandara, dan rumah.",
+    "deskripsi": "Wi-Fi (Wireless Fidelity) adalah teknologi jaringan nirkabel yang memungkinkan perangkat terhubung ke internet."
+  },
+  {
+    "pertanyaan": "Apa nama sistem operasi untuk ponsel yang dikembangkan oleh Google?",
+    "pilihan": [
+      "A. iOS",
+      "B. Windows Phone",
+      "C. Android",
+      "D. BlackBerry OS"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Logo-nya berupa robot hijau.",
+    "hint2": "Digunakan oleh banyak merek ponsel seperti Samsung dan Xiaomi.",
+    "deskripsi": "Android adalah sistem operasi mobile berbasis Linux yang dikembangkan oleh Google."
+  },
+  {
+    "pertanyaan": "Apa fungsi tombol 'Ctrl + C' pada keyboard?",
+    "pilihan": [
+      "A. Menyimpan dokumen",
+      "B. Menyalin teks atau file",
+      "C. Memotong teks atau file",
+      "D. Menutup aplikasi"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya digunakan bersama 'Ctrl + V'.",
+    "hint2": "Merupakan salah satu shortcut paling umum.",
+    "deskripsi": "Ctrl + C adalah shortcut keyboard untuk menyalin (copy) teks atau file yang dipilih."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat untuk memasukkan suara ke komputer?",
+    "pilihan": [
+      "A. Speaker",
+      "B. Microphone",
+      "C. Headphone",
+      "D. Monitor"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Digunakan saat rekam suara atau video call.",
+    "hint2": "Biasanya terhubung via USB atau jack audio.",
+    "deskripsi": "Microphone adalah perangkat input yang mengubah suara menjadi sinyal digital."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'URL'?",
+    "pilihan": [
+      "A. Universal Resource Locator",
+      "B. Uniform Resource Locator",
+      "C. Unified Resource Link",
+      "D. Universal Reference Link"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Contohnya: https://www.google.com.",
+    "hint2": "Digunakan untuk mengakses halaman web.",
+    "deskripsi": "URL (Uniform Resource Locator) adalah alamat unik yang mengarah ke suatu halaman web di internet."
+  },
+  {
+    "pertanyaan": "Apa nama browser yang dikembangkan oleh Apple?",
+    "pilihan": [
+      "A. Chrome",
+      "B. Firefox",
+      "C. Edge",
+      "D. Safari"
+    ],
+    "jawaban": "D",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya default di perangkat Mac dan iPhone.",
+    "hint2": "Logo-nya berupa kompas.",
+    "deskripsi": "Safari adalah peramban web yang dikembangkan oleh Apple untuk perangkat macOS dan iOS."
+  },
+  {
+    "pertanyaan": "Apa fungsi tombol 'Enter' pada keyboard?",
+    "pilihan": [
+      "A. Menghapus teks",
+      "B. Membatalkan perintah",
+      "C. Memulai baris baru atau menjalankan perintah",
+      "D. Mengganti huruf kapital"
+    ],
+    "jawaban": "C",
+    "kategori": "sangat mudah",
+    "hint": "Sering digunakan untuk mengirim pesan atau mencari di Google.",
+    "hint2": "Biasanya terletak di sebelah tombol huruf.",
+    "deskripsi": "Tombol Enter digunakan untuk membuat baris baru (seperti di Word) atau menjalankan perintah (seperti di browser)."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat untuk menampilkan gambar dari komputer?",
+    "pilihan": [
+      "A. Printer",
+      "B. Monitor",
+      "C. Scanner",
+      "D. Speaker"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya berupa layar LCD/LED.",
+    "hint2": "Menghubungkannya via kabel HDMI atau VGA.",
+    "deskripsi": "Monitor adalah perangkat output yang menampilkan gambar/video dari komputer."
+  },
+  {
+    "pertanyaan": "Apa singkatan dari 'HTML'?",
+    "pilihan": [
+      "A. HyperText Markup Language",
+      "B. HighText Machine Language",
+      "C. Hyperlink Text Management Language",
+      "D. HighTech Media Link"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Digunakan untuk membuat halaman web.",
+    "hint2": "Menggunakan tag seperti <p>, <h1>, dan <div>.",
+    "deskripsi": "HTML (HyperText Markup Language) adalah bahasa markup standar untuk membuat halaman web."
+  },
+  {
+    "pertanyaan": "Apa nama perangkat untuk memindai dokumen ke bentuk digital?",
+    "pilihan": [
+      "A. Printer",
+      "B. Scanner",
+      "C. Projector",
+      "D. Harddisk"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Mengubah kertas menjadi file gambar/PDF.",
+    "hint2": "Biasanya terhubung via USB.",
+    "deskripsi": "Scanner adalah perangkat yang mengubah dokumen fisik menjadi bentuk digital."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'OS' di dunia IT?",
+    "pilihan": [
+      "A. Office System",
+      "B. Operating System",
+      "C. Optical Storage",
+      "D. Online Service"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Contohnya Windows, macOS, dan Linux.",
+    "hint2": "Tanpa ini, komputer tidak bisa berjalan.",
+    "deskripsi": "OS (Operating System) adalah perangkat lunak yang mengelola sumber daya hardware dan software komputer."
+  },
+  {
+    "pertanyaan": "Apa fungsi utama firewall?",
+    "pilihan": [
+      "A. Mempercepat internet",
+      "B. Mencegah serangan siber",
+      "C. Menyimpan data",
+      "D. Mencetak dokumen"
+    ],
+    "jawaban": "B",
+    "kategori": "sangat mudah",
+    "hint": "Bisa berupa perangkat lunak atau hardware.",
+    "hint2": "Memantau lalu lintas jaringan.",
+    "deskripsi": "Firewall adalah sistem keamanan yang memblokir akses tidak sah ke/dari jaringan."
+  },
+  {
+    "pertanyaan": "Apa nama alat untuk mengukur kecepatan internet?",
+    "pilihan": [
+      "A. Speedtest",
+      "B. Power Meter",
+      "C. Thermometer",
+      "D. Voltage Tester"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Biasanya dilakukan via website atau aplikasi.",
+    "hint2": "Menghitung Mbps (Megabit per second).",
+    "deskripsi": "Speedtest adalah alat untuk mengukur kecepatan unduh (download) dan unggah (upload) internet."
+  },
+  {
+    "pertanyaan": "Apa singkatan dari 'VPN'?",
+    "pilihan": [
+      "A. Virtual Private Network",
+      "B. Visual Public Network",
+      "C. Virtual Public Node",
+      "D. Visual Private Node"
+    ],
+    "jawaban": "A",
+    "kategori": "sangat mudah",
+    "hint": "Digunakan untuk mengamankan koneksi internet.",
+    "hint2": "Bisa menyembunyikan lokasi asli pengguna.",
+    "deskripsi": "VPN (Virtual Private Network) adalah teknologi yang mengenkripsi koneksi internet untuk meningkatkan privasi dan keamanan."
+  },
+  {
+    "pertanyaan": "Apa fungsi dari SSD (Solid State Drive)?",
+    "pilihan": [
+      "A. Menyimpan data sementara saat komputer menyala",
+      "B. Menyimpan data secara permanen dengan kecepatan tinggi",
+      "C. Memproses grafis untuk game",
+      "D. Menghubungkan komputer ke internet"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Tidak memiliki bagian bergerak seperti HDD.",
+    "hint2": "Lebih cepat dan tahan guncangan dibanding HDD.",
+    "deskripsi": "SSD adalah media penyimpanan data yang menggunakan memori flash, lebih cepat dan handal dibanding HDD."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'cloud computing'?",
+    "pilihan": [
+      "A. Penggunaan komputer berbasis awan literal",
+      "B. Penyimpanan dan pengolahan data via internet",
+      "C. Teknologi pendingin untuk server",
+      "D. Sistem operasi khusus untuk meteorologi"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Contoh layanannya: Google Drive, AWS.",
+    "hint2": "Memungkinkan akses data dari mana saja.",
+    "deskripsi": "Cloud computing adalah penyediaan layanan komputasi (seperti server, penyimpanan, database) via internet."
+  },
+  {
+    "pertanyaan": "Apa kepanjangan dari 'HTTP'?",
+    "pilihan": [
+      "A. HyperText Transfer Protocol",
+      "B. High-Level Text Transmission Protocol",
+      "C. Hyperlink Text Technical Process",
+      "D. Hardware Testing Transmission Protocol"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Digunakan saat mengakses website.",
+    "hint2": "Versi amannya disebut HTTPS.",
+    "deskripsi": "HTTP (HyperText Transfer Protocol) adalah protokol untuk mengirim dan menerima data di web."
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang digunakan untuk membuat halaman web interaktif?",
+    "pilihan": [
+      "A. Python",
+      "B. JavaScript",
+      "C. C++",
+      "D. SQL"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Dijalankan di browser pengguna.",
+    "hint2": "Bisa membuat animasi dan form dinamis.",
+    "deskripsi": "JavaScript adalah bahasa pemrograman yang memungkinkan interaktivitas di halaman web."
+  },
+  {
+    "pertanyaan": "Apa fungsi dari 'cache' di browser?",
+    "pilihan": [
+      "A. Menyimpan riwayat pencarian",
+      "B. Menyimpan sementara data website untuk akses lebih cepat",
+      "C. Menghapus cookie secara otomatis",
+      "D. Memblokir iklan"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Membuat loading ulang halaman lebih cepat.",
+    "hint2": "Bisa dibersihkan melalui pengaturan browser.",
+    "deskripsi": "Cache browser menyimpan salinan file website (seperti gambar) untuk mempercepat akses berikutnya."
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan oleh perintah 'Ping' di jaringan komputer?",
+    "pilihan": [
+      "A. Mengirim pesan teks",
+      "B. Mengecek konektivitas ke suatu alamat IP",
+      "C. Menginstal software",
+      "D. Mematikan komputer remote"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Mengukur waktu respon (ms).",
+    "hint2": "Contoh: ping google.com.",
+    "deskripsi": "Ping adalah perintah untuk menguji apakah suatu perangkat dapat terhubung ke jaringan/Internet."
+  },
+  {
+    "pertanyaan": "Apa itu 'phishing' dalam keamanan cyber?",
+    "pilihan": [
+      "A. Teknik memperbaiki jaringan",
+      "B. Serangan dengan mengelabui korban via email/website palsu",
+      "C. Metode enkripsi data",
+      "D. Alat untuk scan virus"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Sering meniru situs bank atau layanan populer.",
+    "hint2": "Bertujuan mencuri data sensitif seperti password.",
+    "deskripsi": "Phishing adalah upaya penipuan dengan menyamar sebagai entitas tepercaya untuk mencuri informasi."
+  },
+  {
+    "pertanyaan": "Apa fungsi utama 'GPU'?",
+    "pilihan": [
+      "A. Menyimpan data",
+      "B. Memproses grafis dan video",
+      "C. Mengelola koneksi internet",
+      "D. Menjalankan sistem operasi"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Penting untuk game dan desain grafis.",
+    "hint2": "Contoh merek: NVIDIA, AMD.",
+    "deskripsi": "GPU (Graphics Processing Unit) adalah prosesor khusus untuk menangani rendering gambar/grafis."
+  },
+  {
+    "pertanyaan": "Apa itu 'open-source software'?",
+    "pilihan": [
+      "A. Software berbayar dengan kode terenkripsi",
+      "B. Software yang kode sumbernya bisa diakses dan dimodifikasi publik",
+      "C. Software eksklusif untuk perusahaan",
+      "D. Software tanpa fitur update"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Contoh: Linux, Firefox.",
+    "hint2": "Biasanya gratis dan dikembangkan komunitas.",
+    "deskripsi": "Open-source adalah software yang kode pemrogramannya terbuka untuk dilihat, diubah, dan didistribusikan ulang."
+  },
+  {
+    "pertanyaan": "Apa kepanjangan dari 'IoT'?",
+    "pilihan": [
+      "A. Internet of Things",
+      "B. International Online Technology",
+      "C. Integrated Optical Transmission",
+      "D. Interactive Operating Tool"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Contoh: smart lamp, smart TV.",
+    "hint2": "Menghubungkan perangkat fisik ke internet.",
+    "deskripsi": "IoT (Internet of Things) adalah konsep dimana perangkat sehari-hari terhubung ke internet untuk pertukaran data."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'BIOS' pada komputer?",
+    "pilihan": [
+      "A. Menjalankan game berat",
+      "B. Mengatur hardware dasar sebelum OS dimuat",
+      "C. Menyimpan dokumen pengguna",
+      "D. Mengelola koneksi Wi-Fi"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Muncul saat pertama kali menyalakan PC.",
+    "hint2": "Bisa diakses dengan tombol seperti F2/DEL.",
+    "deskripsi": "BIOS (Basic Input/Output System) adalah firmware yang menginisialisasi hardware saat komputer dinyalakan."
+  },
+  {
+    "pertanyaan": "Apa itu 'malware'?",
+    "pilihan": [
+      "A. Hardware yang rusak",
+      "B. Software perusak (virus, spyware, dll)",
+      "C. Alat pembersih keyboard",
+      "D. Sistem operasi lawas"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Bisa menyebar via email atau download.",
+    "hint2": "Contoh: ransomware, trojan.",
+    "deskripsi": "Malware (malicious software) adalah program berbahaya yang dirancang untuk merusak atau mencuri data."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'DNS' di internet?",
+    "pilihan": [
+      "A. Mengubah nama domain menjadi alamat IP",
+      "B. Mempercepat download",
+      "C. Mengenkripsi data",
+      "D. Membuat website"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Tanpa ini, kita harus menghafal IP seperti 172.217.0.142 untuk Google.",
+    "hint2": "Contoh layanan: Google DNS (8.8.8.8).",
+    "deskripsi": "DNS (Domain Name System) adalah sistem yang menerjemahkan nama domain (contoh.com) ke alamat IP."
+  },
+  {
+    "pertanyaan": "Apa itu 'firewall'?",
+    "pilihan": [
+      "A. Perangkat untuk memblokir akses jaringan tidak sah",
+      "B. Software pengedit video",
+      "C. Teknologi layar sentuh",
+      "D. Sistem penyimpanan cloud"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Bisa berupa hardware atau software.",
+    "hint2": "Mencegah serangan hacker.",
+    "deskripsi": "Firewall adalah sistem keamanan yang memantau dan mengontrol lalu lintas jaringan berdasarkan aturan tertentu."
+  },
+  {
+    "pertanyaan": "Apa kepanjangan dari 'VPN'?",
+    "pilihan": [
+      "A. Virtual Private Network",
+      "B. Visual Public Network",
+      "C. Verified Personal Node",
+      "D. Virtual Protocol Number"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Digunakan untuk mengamankan koneksi atau mengakses konten terblokir.",
+    "hint2": "Menyembunyikan alamat IP asli.",
+    "deskripsi": "VPN (Virtual Private Network) membuat koneksi aman dan terenkripsi melalui jaringan publik seperti internet."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'Ctrl + Z' pada keyboard?",
+    "pilihan": [
+      "A. Membatalkan perintah terakhir (undo)",
+      "B. Menyalin teks",
+      "C. Menyimpan dokumen",
+      "D. Mencetak dokumen"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Sering digunakan di aplikasi pengeditan.",
+    "hint2": "Kebalikannya adalah Ctrl + Y (redo).",
+    "deskripsi": "Ctrl + Z adalah shortcut untuk undo (membatalkan aksi terakhir) di hampir semua software."
+  },
+  {
+    "pertanyaan": "Apa itu 'spyware'?",
+    "pilihan": [
+      "A. Software untuk edit foto",
+      "B. Program yang memata-matai aktivitas pengguna",
+      "C. Alat pembersih cache",
+      "D. Sistem operasi open-source"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Bisa mencuri password atau kebiasaan browsing.",
+    "hint2": "Termasuk jenis malware.",
+    "deskripsi": "Spyware adalah software yang diam-diam mengumpulkan informasi pengguna tanpa izin."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'cookie' di browser web?",
+    "pilihan": [
+      "A. Menyimpan preferensi situs dan data login",
+      "B. Mempercepat koneksi internet",
+      "C. Menghapus virus",
+      "D. Memblokir iklan"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Muncul saat pertama kali mengunjungi website.",
+    "hint2": "Bisa dihapus melalui pengaturan browser.",
+    "deskripsi": "Cookie adalah file kecil yang menyimpan data aktivitas pengguna di suatu website, seperti login atau preferensi."
+  },
+  {
+    "pertanyaan": "Apa itu 'ransomware'?",
+    "pilihan": [
+      "A. Software untuk streaming video",
+      "B. Malware yang mengenkripsi data dan meminta tebusan",
+      "C. Alat backup data",
+      "D. Sistem pembayaran online"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Korban harus bayar (biasanya dengan crypto) untuk membuka data.",
+    "hint2": "Serangan terkenal: WannaCry.",
+    "deskripsi": "Ransomware adalah malware yang mengunci atau mengenkripsi data korban dan meminta uang tebusan."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'Task Manager' di Windows?",
+    "pilihan": [
+      "A. Mengedit dokumen teks",
+      "B. Memantau dan mengelola aplikasi yang berjalan",
+      "C. Menginstal driver hardware",
+      "D. Membuat partisi harddisk"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Bisa diakses dengan Ctrl + Shift + Esc.",
+    "hint2": "Menampilkan penggunaan CPU, RAM, dll.",
+    "deskripsi": "Task Manager adalah tool untuk melihat/menutup aplikasi, proses, serta memantau kinerja sistem."
+  },
+  {
+    "pertanyaan": "Apa itu 'machine learning'?",
+    "pilihan": [
+      "A. Cara komputer belajar dari data tanpa diprogram eksplisit",
+      "B. Teknik memperbaiki mesin fisik",
+      "C. Metode mengajar programming",
+      "D. Sistem operasi robot"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Digunakan untuk AI seperti rekomendasi produk atau chatbot.",
+    "hint2": "Membutuhkan dataset besar.",
+    "deskripsi": "Machine learning adalah cabang AI dimana sistem belajar dari pola data untuk membuat prediksi/keputusan."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'CAPTCHA'?",
+    "pilihan": [
+      "A. Mempercepat loading website",
+      "B. Membedakan manusia dan bot dengan tes sederhana",
+      "C. Mengkompres file gambar",
+      "D. Menghasilkan password acak"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Contoh: memilih gambar dengan traffic light.",
+    "hint2": "Dirancang untuk mencegah spam.",
+    "deskripsi": "CAPTCHA (Completely Automated Public Turing test) adalah tes untuk memverifikasi bahwa pengguna adalah manusia."
+  },
+  {
+    "pertanyaan": "Apa itu 'blockchain'?",
+    "pilihan": [
+      "A. Teknologi penyimpanan data terdesentralisasi",
+      "B. Jenis virus komputer",
+      "C. Sistem operasi mobile",
+      "D. Bahasa pemrograman"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Dasar dari cryptocurrency seperti Bitcoin.",
+    "hint2": "Data disimpan dalam 'blok' yang terhubung.",
+    "deskripsi": "Blockchain adalah sistem database terdistribusi yang mencatat transaksi secara transparan dan aman."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'two-factor authentication (2FA)'?",
+    "pilihan": [
+      "A. Mempercepat koneksi internet",
+      "B. Menambah lapisan keamanan dengan dua metode verifikasi",
+      "C. Menggandakan penyimpanan cloud",
+      "D. Membackup data otomatis"
+    ],
+    "jawaban": "B",
+    "kategori": "mudah",
+    "hint": "Contoh: password + kode SMS/OTP.",
+    "hint2": "Digunakan oleh bank dan layanan penting.",
+    "deskripsi": "2FA adalah metode autentikasi yang membutuhkan dua bukti identitas (sesuatu yang diketahui + dimiliki) untuk login."
+  },
+  {
+    "pertanyaan": "Apa itu 'API' dalam pemrograman?",
+    "pilihan": [
+      "A. Antarmuka untuk menghubungkan sistem/layanan berbeda",
+      "B. Bahasa pemrograman baru",
+      "C. Alat edit video",
+      "D. Penyedia layanan internet"
+    ],
+    "jawaban": "A",
+    "kategori": "mudah",
+    "hint": "Memungkinkan aplikasi berkomunikasi dengan eksternal.",
+    "hint2": "Contoh: API Google Maps untuk embed peta.",
+    "deskripsi": "API (Application Programming Interface) adalah sekumpulan protokol untuk integrasi antar software."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'load balancing' dalam jaringan komputer?",
+    "pilihan": [
+      "A. Teknik untuk meratakan beban trafik antar server",
+      "B. Metode meningkatkan kecepatan internet individu",
+      "C. Proses membackup data secara otomatis",
+      "D. Cara mengoptimalkan penggunaan RAM"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Digunakan untuk menghindari overload pada satu server.",
+    "hint2": "Biasanya menggunakan algoritma round-robin atau least connections.",
+    "deskripsi": "Load balancing adalah teknik distribusi beban kerja secara merata across multiple servers untuk meningkatkan reliability dan kapasitas."
+  },
+  {
+    "pertanyaan": "Apa itu 'SQL injection'?",
+    "pilihan": [
+      "A. Teknik mempercepat query database",
+      "B. Serangan dengan menyisipkan kode SQL berbahaya melalui input user",
+      "C. Metode backup database otomatis",
+      "D. Cara mengimpor data ke SQL Server"
+    ],
+    "jawaban": "B",
+    "kategori": "sedang",
+    "hint": "Termasuk dalam OWASP Top 10 vulnerabilities.",
+    "hint2": "Dicegah dengan parameterized queries.",
+    "deskripsi": "SQL injection adalah teknik eksploitasi keamanan dimana attacker menyisipkan perintah SQL malicious melalui form input."
+  },
+  {
+    "pertanyaan": "Apa fungsi utama dari 'reverse proxy'?",
+    "pilihan": [
+      "A. Menyembunyikan identitas client",
+      "B. Meneruskan request client ke server internal dengan anonimitas",
+      "C. Memblokir semua traffic masuk",
+      "D. Menggandakan bandwidth internet"
+    ],
+    "jawaban": "B",
+    "kategori": "sedang",
+    "hint": "Sering digunakan bersama load balancer.",
+    "hint2": "Contoh software: Nginx, HAProxy.",
+    "deskripsi": "Reverse proxy menerima request dari client dan meneruskannya ke server backend, sekaligus menyembunyikan arsitektur internal."
+  },
+  {
+    "pertanyaan": "Apa perbedaan utama antara 'symmetric' dan 'asymmetric encryption'?",
+    "pilihan": [
+      "A. Symmetric menggunakan 1 kunci, asymmetric menggunakan 2 kunci (public/private)",
+      "B. Symmetric untuk email, asymmetric untuk database",
+      "C. Symmetric lebih lambat dari asymmetric",
+      "D. Asymmetric hanya digunakan untuk blockchain"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Contoh symmetric: AES, asymmetric: RSA.",
+    "hint2": "SSL/TLS menggunakan keduanya secara kombinasi.",
+    "deskripsi": "Symmetric encryption menggunakan single key untuk enkripsi-dekripsi, sedangkan asymmetric menggunakan public key untuk enkripsi dan private key untuk dekripsi."
+  },
+  {
+    "pertanyaan": "Apa itu 'CI/CD' dalam pengembangan software?",
+    "pilihan": [
+      "A. Continuous Integration/Continuous Deployment",
+      "B. Computer Interface/Code Debugging",
+      "C. Cyber Infrastructure/Cloud Development",
+      "D. Centralized Input/Compiled Data"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Bagian dari DevOps practices.",
+    "hint2": "Tools populer: Jenkins, GitHub Actions.",
+    "deskripsi": "CI/CD adalah metodologi untuk mengotomatisasi pengintegrasian kode dan deployment ke production environment."
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan oleh 'containerization'?",
+    "pilihan": [
+      "A. Mengemas aplikasi beserta dependencies-nya dalam lingkungan terisolasi",
+      "B. Mengkompres file executable",
+      "C. Membuat virtual machine baru",
+      "D. Mengoptimalkan penggunaan CPU"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Teknologi yang populer: Docker.",
+    "hint2": "Lebih ringan dibanding virtual machine.",
+    "deskripsi": "Containerization memungkinkan aplikasi berjalan konsisten di berbagai environment dengan mengisolasi dependencies."
+  },
+  {
+    "pertanyaan": "Apa itu 'NoSQL database'?",
+    "pilihan": [
+      "A. Database yang tidak memerlukan schema tetap",
+      "B. Database yang hanya bisa diakses offline",
+      "C. Sistem manajemen database lawas",
+      "D. Database tanpa backup otomatis"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Cocok untuk unstructured data.",
+    "hint2": "Contoh: MongoDB, Cassandra.",
+    "deskripsi": "NoSQL database menyimpan data dalam format flexible (document, key-value, dll) tanpa relasi tabel tetap seperti SQL."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'Kubernetes'?",
+    "pilihan": [
+      "A. Mengelola dan mengotomatisasi deployment container",
+      "B. Membuat virtual private network",
+      "C. Mengedit kode sumber aplikasi",
+      "D. Memantau kecepatan internet"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Dikenal juga sebagai K8s.",
+    "hint2": "Bekerja dengan container seperti Docker.",
+    "deskripsi": "Kubernetes adalah sistem orkestrasi untuk mengelola aplikasi yang di-containerize dalam skala besar."
+  },
+  {
+    "pertanyaan": "Apa itu 'REST API'?",
+    "pilihan": [
+      "A. Arsitektur API yang menggunakan HTTP requests untuk komunikasi",
+      "B. Protokol khusus untuk transfer file besar",
+      "C. Sistem keamanan untuk enkripsi data",
+      "D. Bahasa pemrograman untuk web"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Menggunakan metode seperti GET, POST, PUT, DELETE.",
+    "hint2": "Data format umum: JSON/XML.",
+    "deskripsi": "REST (Representational State Transfer) adalah gaya arsitektur untuk mendesain networked applications berbasis HTTP."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud 'zero-day vulnerability'?",
+    "pilihan": [
+      "A. Celah keamanan yang belum ada patch-nya",
+      "B. Bug yang muncul saat hari libur",
+      "C. Sistem tanpa firewall",
+      "D. Serangan yang terjadi tepat pukul 00:00"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Sangat berbahaya karena belum diketahui vendor.",
+    "hint2": "Contoh: EternalBlue (NSA leaks).",
+    "deskripsi": "Zero-day vulnerability adalah kelemahan software yang dieksploitasi sebelum developer sempat merilis patch."
+  },
+  {
+    "pertanyaan": "Apa itu 'GraphQL'?",
+    "pilihan": [
+      "A. Bahasa query untuk API yang lebih fleksibel dari REST",
+      "B. Library untuk machine learning",
+      "C. Protokol transfer file",
+      "D. Sistem manajemen database relational"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Dikembangkan oleh Facebook.",
+    "hint2": "Client bisa menentukan data apa yang dibutuhkan.",
+    "deskripsi": "GraphQL adalah query language untuk API yang memungkinkan client meminta data spesifik dalam satu request."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'OAuth'?",
+    "pilihan": [
+      "A. Protokol otorisasi untuk delegated access",
+      "B. Mengenkripsi harddisk",
+      "C. Membuat database relational",
+      "D. Sistem operasi open-source"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Digunakan saat login dengan 'Continue with Google/Facebook'.",
+    "hint2": "Versi terbaru: OAuth 2.0.",
+    "deskripsi": "OAuth adalah framework yang memungkinkan aplikasi mendapatkan limited access ke user account tanpa membagikan password."
+  },
+  {
+    "pertanyaan": "Apa itu 'microservices architecture'?",
+    "pilihan": [
+      "A. Membangun aplikasi sebagai kumpulan layanan kecil yang independen",
+      "B. Menggunakan komputer berukuran fisik kecil",
+      "C. Metode pengembangan software tanpa testing",
+      "D. Arsitektur untuk game low-spec"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Kebalikan dari monolithic architecture.",
+    "hint2": "Contoh perusahaan pengguna: Netflix, Amazon.",
+    "deskripsi": "Microservices adalah pola arsitektur dimana aplikasi terdiri dari service-service kecil yang berkomunikasi via API."
+  },
+  {
+    "pertanyaan": "Apa tujuan 'sharding' dalam database?",
+    "pilihan": [
+      "A. Mempartisi data ke beberapa server untuk meningkatkan skalabilitas",
+      "B. Mengkompres data agar hemat penyimpanan",
+      "C. Menghapus data duplikat",
+      "D. Membackup data otomatis"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Sering digunakan dalam sistem distributed.",
+    "hint2": "Diterapkan oleh MongoDB, PostgreSQL.",
+    "deskripsi": "Sharding adalah teknik memecah dataset besar menjadi bagian kecil (shards) yang disimpan di server berbeda."
+  },
+  {
+    "pertanyaan": "Apa itu 'serverless computing'?",
+    "pilihan": [
+      "A. Model cloud dimana penyedia mengelola infrastruktur secara otomatis",
+      "B. Menjalankan server tanpa internet",
+      "C. Arsitektur tanpa database",
+      "D. Komputasi tanpa sistem operasi"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Developer hanya fokus pada kode (Function as a Service).",
+    "hint2": "Contoh: AWS Lambda, Azure Functions.",
+    "deskripsi": "Serverless computing memungkinkan eksekusi kode tanpa mengelola server, dengan scaling otomatis berbasis event."
+  },
+  {
+    "pertanyaan": "Apa peran 'message broker' dalam sistem terdistribusi?",
+    "pilihan": [
+      "A. Menjadi perantara pertukaran pesan antar aplikasi",
+      "B. Mengenkripsi semua komunikasi jaringan",
+      "C. Memblokir spam email",
+      "D. Mengkonversi format data"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Menggunakan protokol seperti AMQP, MQTT.",
+    "hint2": "Contoh tools: RabbitMQ, Apache Kafka.",
+    "deskripsi": "Message broker memfasilitasi komunikasi asynchronous antar komponen sistem dengan model publish-subscribe atau queue."
+  },
+  {
+    "pertanyaan": "Apa itu 'blue-green deployment'?",
+    "pilihan": [
+      "A. Strategi release dengan dua environment identik untuk mengurangi downtime",
+      "B. Metode desain UI dengan warna biru-hijau",
+      "C. Teknik debugging visual",
+      "D. Sistem backup berbasis warna"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Satu environment aktif (blue), yang lain standby (green).",
+    "hint2": "Digunakan untuk rollback cepat jika ada error.",
+    "deskripsi": "Blue-green deployment adalah teknik release dimana dua production environment identik disiapkan untuk switch instan."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'CDN' (Content Delivery Network)?",
+    "pilihan": [
+      "A. Mendistribusikan konten melalui server geografis terdekat dengan pengguna",
+      "B. Mengkompres video streaming",
+      "C. Memblokir konten ilegal",
+      "D. Menyimpan backup website"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Meningkatkan kecepatan loading website global.",
+    "hint2": "Contoh penyedia: Cloudflare, Akamai.",
+    "deskripsi": "CDN adalah jaringan server terdistribusi yang menyimpan cache konten untuk mengurangi latency berdasarkan lokasi user."
+  },
+  {
+    "pertanyaan": "Apa itu 'idempotent operation' dalam pemrograman?",
+    "pilihan": [
+      "A. Operasi yang dilakukan sekali atau berkali-kali memberikan hasil sama",
+      "B. Operasi yang hanya bisa dijalankan satu kali",
+      "C. Fungsi matematika dalam machine learning",
+      "D. Proses generate ID unik"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Contoh: HTTP PUT dan DELETE seharusnya idempotent.",
+    "hint2": "Penting untuk error handling dan retry logic.",
+    "deskripsi": "Operasi idempotent adalah operasi yang efek akhirnya sama meskipun dieksekusi multiple times (contoh: mengupdate resource dengan nilai fixed)."
+  },
+  {
+    "pertanyaan": "Apa tujuan 'circuit breaker pattern' dalam microservices?",
+    "pilihan": [
+      "A. Mencegah cascade failure dengan 'memutus sirkuit' saat service gagal",
+      "B. Menghemat listrik pada data center",
+      "C. Memproteksi dari serangan DDOS",
+      "D. Mengatur aliran data serial"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Diimplementasikan oleh library seperti Hystrix (Netflix).",
+    "hint2": "Memiliki states: closed, open, half-open.",
+    "deskripsi": "Circuit breaker adalah design pattern untuk mendeteksi kegagalan dan menghentikan sementara request ke service yang bermasalah."
+  },
+  {
+    "pertanyaan": "Apa itu 'JWT' (JSON Web Token)?",
+    "pilihan": [
+      "A. Standar untuk securely transmit informasi antar parties sebagai JSON object",
+      "B. Alat debugging JavaScript",
+      "C. Template desain website",
+      "D. Jenis database NoSQL"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Sering digunakan untuk autentikasi stateless.",
+    "hint2": "Terdiri dari header, payload, dan signature.",
+    "deskripsi": "JWT adalah compact token format yang digunakan untuk securely transmit informasi antara client dan server."
+  },
+  {
+    "pertanyaan": "Apa perbedaan 'horizontal' dan 'vertical scaling'?",
+    "pilihan": [
+      "A. Horizontal: menambah server, vertical: upgrade spesifikasi server",
+      "B. Horizontal: upgrade CPU, vertical: upgrade RAM",
+      "C. Horizontal: untuk database, vertical: untuk aplikasi",
+      "D. Horizontal: on-premise, vertical: cloud"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Horizontal scaling lebih umum di cloud computing.",
+    "hint2": "Vertical scaling memiliki batas maksimum hardware.",
+    "deskripsi": "Horizontal scaling menambah node/server baru, sedangkan vertical scaling meningkatkan resources (CPU/RAM) pada server existing."
+  },
+  {
+    "pertanyaan": "Apa itu 'eventual consistency' dalam distributed systems?",
+    "pilihan": [
+      "A. Model dimana sistem akan konsisten setelah beberapa waktu tanpa update",
+      "B. Konsistensi data yang dijamin seketika",
+      "C. Teknik backup otomatis",
+      "D. Metode kompresi data"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Digunakan oleh database seperti Cassandra.",
+    "hint2": "Tradeoff untuk availability dan partition tolerance (CAP theorem).",
+    "deskripsi": "Eventual consistency memastikan bahwa jika tidak ada update baru, semua read akan mengembalikan nilai konsisten terakhir."
+  },
+  {
+    "pertanyaan": "Apa fungsi 'service mesh' dalam arsitektur microservices?",
+    "pilihan": [
+      "A. Mengelola komunikasi service-to-service dengan features seperti load balancing dan encryption",
+      "B. Menyediakan UI untuk monitoring",
+      "C. Menggabungkan semua microservices menjadi satu",
+      "D. Menggantikan API gateway"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Contoh implementasi: Istio, Linkerd.",
+    "hint2": "Menggunakan sidecar proxy (seperti Envoy).",
+    "deskripsi": "Service mesh adalah infrastruktur layer yang menangani komunikasi antar microservices dengan fitur observability, security, dan reliability."
+  },
+  {
+    "pertanyaan": "Apa itu 'idempotency key' dalam REST API?",
+    "pilihan": [
+      "A. Unique identifier untuk mencegah eksekusi ganda operasi non-idempotent",
+      "B. Kunci enkripsi untuk HTTPS",
+      "C. Password administrator API",
+      "D. Token untuk rate limiting"
+    ],
+    "jawaban": "A",
+    "kategori": "sedang",
+    "hint": "Sering digunakan pada payment processing.",
+    "hint2": "Client-generated string yang unik per request.",
+    "deskripsi": "Idempotency key memungkinkan client mengulang request yang sama (misal karena timeout) tanpa efek duplikat (contoh: double charge)."
+  },
+  {
+    "pertanyaan": "Dalam CAP theorem, apa implikasi memilih 'Consistency' dan 'Partition Tolerance' (CP) untuk sebuah distributed database?",
+    "pilihan": [
+      "A. Sistem akan menolak write operation selama partition terjadi",
+      "B. Sistem akan tetap available tetapi mungkin return stale data",
+      "C. Sistem akan otomatis menghentikan semua operasi read/write",
+      "D. Sistem akan mengorbankan durability untuk mempertahankan consistency"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Contoh database CP: MongoDB (dengan konfigurasi tertentu), HBase",
+    "hint2": "Tradeoff-nya adalah availability selama network partition",
+    "deskripsi": "Sistem CP akan menjaga consistency dengan mengorbankan availability selama partition terjadi (misal: menolak write sampai partition teratasi)."
+  },
+  {
+    "pertanyaan": "Apa perbedaan mendasar antara 'virtualization' dan 'containerization' dalam hal kernel utilization?",
+    "pilihan": [
+      "A. Container berbagi OS host kernel, sedangkan VM menjalankan kernel terisolasi",
+      "B. VM menggunakan kernel yang lebih ringan dibanding container",
+      "C. Container membutuhkan kernel khusus yang berbeda dari host",
+      "D. Virtualization tidak memerlukan kernel sama sekali"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Container bergantung pada kernel feature seperti cgroups dan namespaces",
+    "hint2": "VM memerlukan hypervisor untuk virtualisasi hardware",
+    "deskripsi": "Container berjalan di atas kernel host yang sama (shared kernel), sedangkan VM menjalankan kernel terpisah melalui virtualisasi hardware."
+  },
+  {
+    "pertanyaan": "Dalam konteks garbage collection, apa yang dimaksud dengan 'stop-the-world event'?",
+    "pilihan": [
+      "A. Kondisi dimana semua thread aplikasi di-pause untuk GC execution",
+      "B. Saat garbage collector hanya bekerja pada memory yang tidak digunakan",
+      "C. Proses kompresi memory setelah GC selesai",
+      "D. Error yang terjadi ketika GC tidak bisa mengelola memory"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Masalah utama dalam GC latency-sensitive applications",
+    "hint2": "ZGC dan Shenandoah mencoba meminimalkan ini",
+    "deskripsi": "'Stop-the-world' adalah pause dimana JVM menghentikan eksekusi aplikasi untuk menyelesaikan garbage collection cycle."
+  },
+  {
+    "pertanyaan": "Apa tujuan dari 'vector clocks' dalam distributed systems?",
+    "pilihan": [
+      "A. Melacak causality relationship antar events tanpa synchronized clocks",
+      "B. Mengukur kecepatan processing tiap node",
+      "C. Mengurutkan semua event secara global linear",
+      "D. Menyinkronkan waktu fisik antar server"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Digunakan dalam database seperti Dynamo",
+    "hint2": "Alternatif dari Lamport timestamps",
+    "deskripsi": "Vector clocks memungkinkan penentuan hubungan causal (happened-before) antar events di sistem terdistribusi tanpa ketergantungan pada physical clocks."
+  },
+  {
+    "pertanyaan": "Dalam konteks database, apa itu 'write amplification' dan kapan biasanya terjadi?",
+    "pilihan": [
+      "A. Fenomena dimana write operation menyebabkan lebih banyak I/O fisik daripada logical write",
+      "B. Proses replikasi data ke semua node cluster",
+      "C. Bug yang menyebabkan data tertulis berkali-kali",
+      "D. Teknik untuk meningkatkan write throughput"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Masalah utama di SSD karena cara flash memory bekerja",
+    "hint2": "LSM-tree databases lebih rentan mengalami ini",
+    "deskripsi": "Write amplification terjadi ketika data aktual yang ditulis ke storage lebih besar dari data logisnya (contoh: karena garbage collection di SSDs atau compaction di LSM-trees)."
+  },
+  {
+    "pertanyaan": "Bagaimana 'consistent hashing' memecahkan masalah redistribusi data ketika node ditambah/dihapus di distributed system?",
+    "pilihan": [
+      "A. Hanya memerlukan redistribusi K/n keys dimana K=total keys dan n=total nodes",
+      "B. Menggunakan algoritma sorting untuk mengurutkan semua data",
+      "C. Menyimpan semua data di setiap node",
+      "D. Memerlukan redistribusi seluruh dataset"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Digunakan oleh Dynamo, Cassandra, dan load balancers",
+    "hint2": "Menggunakan hash ring conceptual model",
+    "deskripsi": "Consistent hashing meminimalkan redistribusi data dengan memetakan keys dan nodes ke hash ring, sehingga hanya keys adjacent ke node yang terpengaruh saat perubahan membership."
+  },
+  {
+    "pertanyaan": "Apa perbedaan antara 'serializable' dan 'linearizable' consistency models?",
+    "pilihan": [
+      "A. Serializable menjamin kesan eksekusi serial tanpa batasan real-time, linearizable menambah constraint real-time",
+      "B. Linearizable adalah subset dari serializable",
+      "C. Serializable hanya berlaku untuk single-node systems",
+      "D. Keduanya identik dalam distributed systems"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Linearizable = serializable + real-time ordering",
+    "hint2": "Linearizability kadang disebut 'strong consistency'",
+    "deskripsi": "Serializable isolation menjamin transaksi terlihat seperti dijalankan secara berurutan, sementara linearizability menambah persyaratan bahwa operasi harus terlihat segera (real-time) bagi semua observer."
+  },
+  {
+    "pertanyaan": "Dalam konteks CPU architecture, apa itu 'speculative execution' dan apa risikonya?",
+    "pilihan": [
+      "A. Teknik mengeksekusi instruksi sebelum diketahui dibutuhkan, berisiko side-channel attacks seperti Meltdown/Spectre",
+      "B. Memproses data secara paralel, berisiko race conditions",
+      "C. Menjalankan multiple OS secara bersamaan, berisiko memory corruption",
+      "D. Mengoptimisasi branch prediction, berisiko buffer overflow"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Ditemukan di hampir semua CPU modern",
+    "hint2": "Vulnerability yang dieksploitasi tanpa perlu malware",
+    "deskripsi": "Speculative execution meningkatkan performa dengan mengeksekusi instruksi sebelum branch resolution, tetapi dapat membocorkan data melalui side-channel attacks."
+  },
+  {
+    "pertanyaan": "Apa itu 'tail latency amplification' dalam sistem terdistribusi?",
+    "pilihan": [
+      "A. Fenomena dimana latency tinggi di satu node menyebabkan latency lebih tinggi di sistem secara keseluruhan",
+      "B. Teknik untuk mengukur latency jaringan",
+      "C. Bug pada network switch yang memperlambat packet forwarding",
+      "D. Masalah clock synchronization"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Masalah utama di sistem dengan high fan-out requests",
+    "hint2": "Sering diatasi dengan hedging/tail-tolerant designs",
+    "deskripsi": "Tail latency amplification terjadi ketika sistem harus menunggu respon dari node terlambat (misal: 99th percentile slow) sehingga memperburuk latency keseluruhan."
+  },
+  {
+    "pertanyaan": "Bagaimana 'segmented logs' (seperti di Kafka) mengatasi masalah performa dibanding single log file?",
+    "pilihan": [
+      "A. Memungkinkan parallel I/O, retention policies per segment, dan compaction efisien",
+      "B. Menggunakan lebih sedikit memory",
+      "C. Menyimpan data dalam format terenkripsi",
+      "D. Membatasi ukuran total log"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Setiap segment memiliki offset range sendiri",
+    "hint2": "Memungkinkan teknik seperti log compaction",
+    "deskripsi": "Segmented logs memecah log besar menjadi file-file kecil yang bisa diakses paralel, di-compact, atau dihapus secara independen berdasarkan retention policy."
+  },
+  {
+    "pertanyaan": "Apa itu 'stripe parity' dalam RAID dan mengapa lebih efisien daripada mirroring penuh?",
+    "pilihan": [
+      "A. Teknik menyimpan parity information secara terdistribusi dengan overhead storage lebih rendah daripada duplikasi penuh",
+      "B. Metode enkripsi data di multiple disks",
+      "C. Cara mengatur data di SSD untuk wear leveling",
+      "D. Protokol replikasi database"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Digunakan di RAID 5/6",
+    "hint2": "Overhead storage = 1/N untuk RAID 5 (N=jumlah disks)",
+    "deskripsi": "Stripe parity (seperti di RAID 5) mendistribusikan parity blocks di semua disk, memberikan fault tolerance dengan overhead storage lebih rendah dibanding mirroring (RAID 1)."
+  },
+  {
+    "pertanyaan": "Dalam konteks database indexing, apa keuntungan 'fractal tree indexes' dibanding B-trees untuk workload write-intensive?",
+    "pilihan": [
+      "A. Mengurangi random I/O dengan buffering writes di internal nodes",
+      "B. Menggunakan lebih sedikit memory",
+      "C. Tidak memerlukan rebalancing",
+      "D. Kompresi data yang lebih baik"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Diterapkan di TokuDB",
+    "hint2": "Menggunakan teknik message buffers",
+    "deskripsi": "Fractal trees (seperti B^ε-trees) mengurangi disk seeks dengan mengakumulasi writes di internal node buffers sebelum melakukan I/O besar secara sequential."
+  },
+  {
+    "pertanyaan": "Apa itu 'false sharing' dalam parallel computing dan bagaimana dampaknya terhadap performa?",
+    "pilihan": [
+      "A. Ketika thread berbeda mengakses variabel tidak terkait di cache line yang sama, menyebabkan cache invalidation yang tidak perlu",
+      "B. Kondisi race condition pada shared memory",
+      "C. Bug di compiler optimizations",
+      "D. Kesalahan dalam memory allocation"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Masalah cache coherence protocol",
+    "hint2": "Bisa diatasi dengan padding atau alignment",
+    "deskripsi": "False sharing terjadi ketika processor cores memperbarui variabel tidak terkait dalam cache line yang sama, memicu cache coherence traffic yang tidak perlu dan mengurangi paralelisme."
+  },
+  {
+    "pertanyaan": "Apa itu 'out-of-order execution' di CPU modern dan bagaimana hubungannya dengan 'memory barriers'?",
+    "pilihan": [
+      "A. Teknik mengeksekusi instruksi non-sequentially selama hasil akhir terlihat sequential, memory barriers membatasi reordering ini",
+      "B. Eksekusi instruksi melompati alamat memory, memory barriers memperbaikinya",
+      "C. Bug di pipeline CPU yang menyebabkan crash",
+      "D. Cara CPU mengelola virtual memory"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Dijelaskan dalam memory model prosesor",
+    "hint2": "Memory barriers seperti mfence di x86",
+    "deskripsi": "Out-of-order execution meningkatkan throughput dengan mengeksekusi instruksi saat operands tersedia, sementara memory barriers (fences) memaksa ordering constraint untuk konsistensi."
+  },
+  {
+    "pertanyaan": "Dalam konteks distributed transactions, mengapa '2-phase commit (2PC)' dianggap tidak scalable?",
+    "pilihan": [
+      "A. Karena blocking nature-nya (coordinator failure menyebabkan resource locking berkepanjangan) dan latency tambahan dari 2 round trips",
+      "B. Karena tidak mendukung ACID properties",
+      "C. Karena memerlukan shared memory antar nodes",
+      "D. Karena hanya bekerja untuk single-partition transactions"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Alternatif seperti 3PC mencoba mengurangi blocking",
+    "hint2": "Sering digantikan oleh SAGA pattern di sistem modern",
+    "deskripsi": "2PC tidak scalable karena bersifat blocking (participants menunggu keputusan coordinator yang mungkin gagal) dan memerlukan banyak synchronous communication."
+  },
+  {
+    "pertanyaan": "Apa itu 'time skew' dalam context Spanner database dan bagaimana Google mengatasinya?",
+    "pilihan": [
+      "A. Perbedaan antara clock fisik dan commit timestamp, diatasi dengan TrueTime API dan bounded clock uncertainty",
+      "B. Bug di NTP synchronization",
+      "C. Masalah indexing time-series data",
+      "D. Kondisi dimana query timeout tidak konsisten"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Spanner menjamin external consistency",
+    "hint2": "Menggunakan GPS dan atomic clocks di datacenters",
+    "deskripsi": "Spanner mengatasi time skew dengan TrueTime - API yang memberikan bounded clock uncertainty (biasanya <7ms) menggunakan hardware khusus, memungkinkan global serializable transactions."
+  },
+  {
+    "pertanyaan": "Apa keuntungan 'incremental checkpointing' dibanding full checkpointing dalam sistem fault-tolerant?",
+    "pilihan": [
+      "A. Hanya mencatat perubahan sejak checkpoint terakhir, mengurangi overhead I/O dan recovery time",
+      "B. Tidak memerlukan persistent storage",
+      "C. Menghindari kebutuhan akan logging sama sekali",
+      "D. Menggunakan lebih sedikit CPU resources"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Digunakan oleh database seperti VoltDB",
+    "hint2": "Sering dikombinasikan dengan command logging",
+    "deskripsi": "Incremental checkpointing hanya menyimpan modified pages sejak checkpoint sebelumnya, secara signifikan mengurangi I/O overhead dibanding menulis full state setiap kali."
+  },
+  {
+    "pertanyaan": "Dalam Byzantine Fault Tolerance (BFT), mengapa diperlukan 3f+1 replika untuk bertahan dari f faulty nodes?",
+    "pilihan": [
+      "A. Karena sistem harus mencapai konsensus di antara n-f nodes, dan n-f harus > f untuk mencegah faulty majority",
+      "B. Karena setiap node membutuhkan 3 backup copies",
+      "C. Karena limitasi algoritma voting",
+      "D. Karena requirement cryptographic signatures"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Asumsi node bisa gagal secara arbitrary (Byzantine)",
+    "hint2": "Untuk f=1, minimal 4 nodes diperlukan",
+    "deskripsi": "3f+1 nodes diperlukan agar honest majority (n-f > f) selalu bisa mencapai konsensus meskipun f nodes berperilaku arbitrary (Byzantine failure model)."
+  },
+  {
+    "pertanyaan": "Apa itu 'memory dependence prediction' di CPU modern dan bagaimana pengaruhnya terhadap ILP (Instruction Level Parallelism)?",
+    "pilihan": [
+      "A. Teknik memprediksi apakah memory accesses bergantung untuk spekulasi load/store reordering, meningkatkan paralelisme",
+      "B. Cara mengelola virtual memory pages",
+      "C. Protokol untuk cache coherence",
+      "D. Metode garbage collection"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Bagian dari out-of-order execution",
+    "hint2": "Memprediksi aliasing memory addresses",
+    "deskripsi": "Memory dependence prediction memungkinkan CPU mengidentifikasi load/store independen secara spekulatif, meningkatkan ILP dengan memungkinkan lebih banyak instruksi dieksekusi paralel."
+  },
+  {
+    "pertanyaan": "Dalam konteks garbage collection, apa itu 'card marking' dan masalah apa yang dipecahkannya?",
+    "pilihan": [
+      "A. Teknik untuk mengurangi scanning overhead selama young generation collection dengan mencatat area memory yang mungkin berisi references ke young gen",
+      "B. Cara mengkompres memory heap",
+      "C. Metode defragmentasi memory",
+      "D. Algoritma untuk parallel GC"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Digunakan untuk mengoptimisasi generational GC",
+    "hint2": "Membagi heap menjadi 'cards' berukuran tetap (misal 512 bytes)",
+    "deskripsi": "Card marking mengurangi young gen collection time dengan mempertahankan bitmap yang menandai heap areas (cards) yang mungkin berisi references ke young objects, menghindari full heap scan."
+  },
+  {
+    "pertanyaan": "Apa perbedaan antara 'software transactional memory (STM)' dan 'hardware transactional memory (HTM)'?",
+    "pilihan": [
+      "A. STM mengimplementasikan transaksi dalam software library, HTM menggunakan fitur CPU khusus",
+      "B. STM hanya untuk single-threaded apps, HTM untuk multi-threaded",
+      "C. STM lebih cepat tetapi kurang fleksibel daripada HTM",
+      "D. HTM tidak mendukung nested transactions"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "HTM contohnya Intel TSX/Restricted Transactional Memory",
+    "hint2": "STM biasanya lebih fleksibel tetapi overhead lebih tinggi",
+    "deskripsi": "STM diimplementasikan sepenuhnya dalam software (dengan overhead lebih tinggi), sementara HTM menggunakan CPU extensions untuk transactional execution (tetapi memiliki batasan seperti cache size limits)."
+  },
+  {
+    "pertanyaan": "Dalam konteks database, apa itu 'write skew' dan bagaimana cara mencegahnya?",
+    "pilihan": [
+      "A. Anomali dimana dua transaksi membaca overlapping dataset lalu menulis subset berbeda, dicegah dengan serializable isolation atau explicit locking",
+      "B. Bug di query optimizer",
+      "C. Kondisi index corruption",
+      "D. Masalah clock synchronization"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Bukan race condition klasik (bukan read-modify-write)",
+    "hint2": "Contoh kasus: dokter on-call dengan constraint 'minimal satu dokter tersedia'",
+    "deskripsi": "Write skew terjadi ketika transaksi concurrent membaca data yang tumpang tindih tetapi menulis ke subset disjoint, melanggar constraint global. Diperlukan isolation level kuat (serializable) atau predicate locking untuk mencegahnya."
+  },
+  {
+    "pertanyaan": "Apa itu 'speculative page fault' dalam virtual memory management modern?",
+    "pilihan": [
+      "A. Teknik dimana OS memproses page fault secara spekulatif sebelum konfirmasi permission checks untuk mengurangi latency",
+      "B. Bug yang menyebabkan segfault",
+      "C. Metode prefetching halaman memory",
+      "D. Cara mengatasi TLB thrashing"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Diperkenalkan di Linux kernel 4.x",
+    "hint2": "Parallelizes page fault handling",
+    "deskripsi": "Speculative page fault memungkinkan OS memulai page fault handling (seperti I/O) sebelum menyelesaikan semua permission checks, mengurangi latency dengan memanfaatkan paralelisme."
+  },
+  {
+    "pertanyaan": "Dalam distributed consensus, mengapa 'Paxos' dianggap lebih sulit diimplementasikan dengan benar dibanding 'Raft'?",
+    "pilihan": [
+      "A. Karena Paxos memiliki komponen terpisah (multi-decree) dengan optimisasi kompleks, sementara Raft menyederhanakan model menjadi single leader dengan log terurut",
+      "B. Karena Paxos tidak mendukung fault tolerance",
+      "C. Karena Raft menggunakan algoritma cryptographic yang lebih kuat",
+      "D. Karena Paxos hanya bekerja untuk sistem synchronous"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Paxos asli tidak menjelaskan implementasi lengkap (seperti log replication)",
+    "hint2": "Raft dirancang untuk understandability",
+    "deskripsi": "Paxos sulit karena desain modularnya (phase 1/2 terpisah) dan kurangnya spesifikasi implementasi praktis, sementara Raft menyatukan komponen dan menggunakan pendekatan lebih terstruktur (leader-based log replication)."
+  },
+  {
+    "pertanyaan": "Apa itu 'memory coloring' dalam allocator modern dan tujuannya?",
+    "pilihan": [
+      "A. Teknik partisi heap berdasarkan halaman memory untuk mengurangi cache conflict misses dengan mempertimbangkan cache associativity",
+      "B. Cara visualisasi memory usage",
+      "C. Metode enkripsi memory",
+      "D. Algoritma garbage collection"
+    ],
+    "jawaban": "A",
+    "kategori": "susah",
+    "hint": "Relevan dengan NUMA architectures",
+    "hint2": "Mengelompokkan allocation berdasarkan 'warna' (cache index mapping)",
+    "deskripsi": "Memory coloring mengorganisir alokasi memory berdasarkan cache mapping (color) untuk mencegah cache thrashing dengan memastikan akses paralel tidak bertabrakan di cache set yang sama."
+  }
+]

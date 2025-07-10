@@ -1,0 +1,810 @@
+[
+    {
+      "pertanyaan": "Apa kepanjangan dari CPU?",
+      "pilihan": ["A. Central Process Unit", "B. Central Processing Unit", "C. Central Peripheral Unit", "D. Central Protocol Unit"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Komponen utama komputer yang menjalankan instruksi.",
+      "hint2": "Disebut juga 'otak' komputer."
+    },
+    {
+      "pertanyaan": "Apa fungsi utama RAM?",
+      "pilihan": ["A. Menyimpan data permanen", "B. Menyimpan data sementara", "C. Mengontrol koneksi internet", "D. Menampilkan gambar"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Data hilang saat komputer dimatikan.",
+      "hint2": "Semakin besar kapasitasnya, semakin cepat kinerja."
+    },
+    {
+      "pertanyaan": "Apa nama perangkat untuk mencetak dokumen?",
+      "pilihan": ["A. Scanner", "B. Printer", "C. Monitor", "D. Proyektor"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Mengubah dokumen digital menjadi fisik.",
+      "hint2": "Contoh merek: Epson, HP."
+    },
+    {
+      "pertanyaan": "Apa singkatan dari 'www' dalam URL?",
+      "pilihan": ["A. World Wide Web", "B. Web Wide World", "C. Wide Web World", "D. World Web Wide"],
+      "jawaban": "A",
+      "kategori": "sangat mudah",
+      "hint": "Bagian awal alamat website.",
+      "hint2": "Ditemukan oleh Tim Berners-Lee."
+    },
+    {
+      "pertanyaan": "Sistem operasi buatan Microsoft adalah...",
+      "pilihan": ["A. macOS", "B. Linux", "C. Windows", "D. Android"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Versi terbarunya adalah Windows 11.",
+      "hint2": "Logo-nya berbentuk jendela."
+    },
+    {
+      "pertanyaan": "Perangkat untuk menggerakkan kursor di layar disebut...",
+      "pilihan": ["A. Keyboard", "B. Monitor", "C. Mouse", "D. Speaker"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Biasanya memiliki 2 tombol dan scroll wheel.",
+      "hint2": "Ada yang nirkabel (wireless)."
+    },
+    {
+      "pertanyaan": "Program untuk mengakses internet adalah...",
+      "pilihan": ["A. Microsoft Word", "B. Google Chrome", "C. Adobe Photoshop", "D. Windows Explorer"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Contoh lain: Firefox, Safari.",
+      "hint2": "Digunakan untuk membuka website."
+    },
+    {
+      "pertanyaan": "Penyimpanan permanen di komputer disebut...",
+      "pilihan": ["A. RAM", "B. CPU", "C. Hard Disk", "D. Power Supply"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Menyimpan data meski komputer mati.",
+      "hint2": "Bisa HDD atau SSD."
+    },
+    {
+      "pertanyaan": "Format file untuk teks biasa adalah...",
+      "pilihan": ["A. .exe", "B. .mp3", "C. .txt", "D. .jpg"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Dibuka dengan Notepad.",
+      "hint2": "Tidak ada format khusus."
+    },
+    {
+      "pertanyaan": "Tombol untuk menghapus karakter di belakang kursor adalah...",
+      "pilihan": ["A. Enter", "B. Shift", "C. Backspace", "D. Tab"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Berada di atas tombol 'Enter'.",
+      "hint2": "Simbolnya panah ke kiri."
+    },
+    {
+      "pertanyaan": "Jaringan komputer global disebut...",
+      "pilihan": ["A. LAN", "B. WAN", "C. Internet", "D. Bluetooth"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Menghubungkan miliaran perangkat.",
+      "hint2": "Dikenal sebagai 'dunia maya'."
+    },
+    {
+      "pertanyaan": "Fungsi tombol 'Ctrl + C' adalah...",
+      "pilihan": ["A. Menyimpan file", "B. Menyalin teks", "C. Menghapus file", "D. Membuka menu"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Pasangannya adalah 'Ctrl + V'.",
+      "hint2": "Termasuk shortcut keyboard."
+    },
+    {
+      "pertanyaan": "Perangkat untuk mengetik adalah...",
+      "pilihan": ["A. Mouse", "B. Keyboard", "C. Monitor", "D. Speaker"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Memiliki tombol huruf dan angka.",
+      "hint2": "Tata letak umum: QWERTY."
+    },
+    {
+      "pertanyaan": "Layanan email gratis dari Google adalah...",
+      "pilihan": ["A. Outlook", "B. Yahoo Mail", "C. Gmail", "D. ProtonMail"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Biasanya berakhiran '@gmail.com'.",
+      "hint2": "Termasuk produk Google."
+    },
+    {
+      "pertanyaan": "Sistem operasi mobile Apple adalah...",
+      "pilihan": ["A. Android", "B. iOS", "C. Windows Phone", "D. BlackBerry OS"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Digunakan di iPhone.",
+      "hint2": "Logo-nya huruf 'i' kecil."
+    },
+    {
+      "pertanyaan": "Perangkat untuk menampilkan gambar di komputer adalah...",
+      "pilihan": ["A. Printer", "B. Monitor", "C. Scanner", "D. Hard Disk"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Mirip layar TV.",
+      "hint2": "Jenis: LCD, LED, OLED."
+    },
+    {
+      "pertanyaan": "Format file untuk gambar adalah...",
+      "pilihan": ["A. .mp3", "B. .docx", "C. .jpg", "D. .exe"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Bisa dibuka dengan aplikasi foto.",
+      "hint2": "Format populer selain .png."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'PDF' adalah...",
+      "pilihan": ["A. Portable Document Format", "B. Personal Data File", "C. Printable Document Form", "D. Public Data Format"],
+      "jawaban": "A",
+      "kategori": "sangat mudah",
+      "hint": "Dibuat oleh Adobe.",
+      "hint2": "Biasanya dibuka dengan Adobe Reader."
+    },
+    {
+      "pertanyaan": "Perangkat untuk memindai dokumen adalah...",
+      "pilihan": ["A. Printer", "B. Scanner", "C. Monitor", "D. Proyektor"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Mengubah dokumen fisik ke digital.",
+      "hint2": "Mirip fotokopi digital."
+    },
+    {
+      "pertanyaan": "Fungsi tombol 'Enter' adalah...",
+      "pilihan": ["A. Menghapus teks", "B. Membuka menu", "C. Membuat baris baru", "D. Mengganti font"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Digunakan untuk mengirim pesan.",
+      "hint2": "Di Mac disebut 'Return'."
+    },
+    {
+      "pertanyaan": "Perangkat untuk mendengarkan suara dari komputer adalah...",
+      "pilihan": ["A. Monitor", "B. Speaker", "C. Keyboard", "D. Mouse"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Bisa internal atau eksternal.",
+      "hint2": "Contoh lain: Headphone."
+    },
+    {
+      "pertanyaan": "Sistem operasi open-source adalah...",
+      "pilihan": ["A. Windows", "B. macOS", "C. Linux", "D. iOS"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Digunakan di server dan laptop.",
+      "hint2": "Contoh: Ubuntu."
+    },
+    {
+      "pertanyaan": "Format file dokumen Microsoft Word adalah...",
+      "pilihan": ["A. .xlsx", "B. .pptx", "C. .docx", "D. .pdf"],
+      "jawaban": "C",
+      "kategori": "sangat mudah",
+      "hint": "Bisa berisi teks dan gambar.",
+      "hint2": "Default Word versi modern."
+    },
+    {
+      "pertanyaan": "Fungsi tombol 'Shift' adalah...",
+      "pilihan": ["A. Mematikan komputer", "B. Membuat huruf kapital", "C. Menghapus file", "D. Membuka menu start"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Ditekan bersamaan dengan huruf.",
+      "hint2": "Ada di kiri dan kanan keyboard."
+    },
+    {
+      "pertanyaan": "Perangkat untuk koneksi internet nirkabel adalah...",
+      "pilihan": ["A. Modem", "B. Router", "C. Ethernet Card", "D. Bluetooth Dongle"],
+      "jawaban": "B",
+      "kategori": "sangat mudah",
+      "hint": "Menyediakan akses Wi-Fi.",
+      "hint2": "Biasanya memiliki antena."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'HTML' adalah...",
+      "pilihan": ["A. Hyper Text Markup Language", "B. High Tech Modern Language", "C. Hyperlink and Text Management Language", "D. Home Tool Markup Language"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Dasar pembuatan website.",
+      "hint2": "Menggunakan tag seperti <p> atau <div>."
+    },
+    {
+      "pertanyaan": "Fungsi firewall adalah...",
+      "pilihan": ["A. Mempercepat internet", "B. Melindungi dari serangan jaringan", "C. Menyimpan data", "D. Mengedit video"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Seperti 'tembok' keamanan.",
+      "hint2": "Bisa berupa hardware/software."
+    },
+    {
+      "pertanyaan": "Bahasa pemrograman untuk website interaktif adalah...",
+      "pilihan": ["A. Python", "B. JavaScript", "C. C++", "D. Java"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Dijalankan di browser.",
+      "hint2": "Beda dengan Java."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'VPN' adalah...",
+      "pilihan": ["A. Virtual Private Network", "B. Visual Public Network", "C. Virtual Public Node", "D. Verified Private Network"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Mengenkripsi koneksi internet.",
+      "hint2": "Berguna untuk akses konten terblokir."
+    },
+    {
+      "pertanyaan": "Database berbasis tabel adalah...",
+      "pilihan": ["A. MongoDB", "B. SQL", "C. Redis", "D. Firebase"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Menggunakan perintah SELECT, INSERT.",
+      "hint2": "Contoh: MySQL, PostgreSQL."
+    },
+    {
+      "pertanyaan": "Protokol untuk mengunduh file dari internet adalah...",
+      "pilihan": ["A. HTTP", "B. FTP", "C. SMTP", "D. TCP"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Singkatan dari File Transfer Protocol.",
+      "hint2": "Port default: 21."
+    },
+    {
+      "pertanyaan": "Fungsi utama DNS adalah...",
+      "pilihan": ["A. Mengenkripsi data", "B. Menerjemahkan nama domain ke IP", "C. Menyimpan file website", "D. Membuat jaringan Wi-Fi"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Seperti 'buku telepon' internet.",
+      "hint2": "Contoh: google.com → 172.217.0.0."
+    },
+    {
+      "pertanyaan": "Bahasa pemrograman untuk analisis data adalah...",
+      "pilihan": ["A. Java", "B. Python", "C. C#", "D. PHP"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Populer di bidang sains data.",
+      "hint2": "Menggunakan library seperti Pandas."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'URL' adalah...",
+      "pilihan": ["A. Uniform Resource Locator", "B. Universal Resource Link", "C. Unified Resource Locator", "D. Universal Reference Locator"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Alamat lengkap sebuah website.",
+      "hint2": "Contoh: https://www.google.com."
+    },
+    {
+      "pertanyaan": "Fungsi 'Ctrl + Z' adalah...",
+      "pilihan": ["A. Membatalkan perintah terakhir", "B. Menyalin teks", "C. Menyimpan file", "D. Mencetak dokumen"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Shortcut untuk 'undo'.",
+      "hint2": "Berguna saat salah edit."
+    },
+    {
+      "pertanyaan": "Format file untuk video adalah...",
+      "pilihan": ["A. .mp3", "B. .mp4", "C. .jpg", "D. .docx"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Bisa diputar di pemutar video.",
+      "hint2": "Contoh lain: .avi, .mov."
+    },
+    {
+      "pertanyaan": "Sistem operasi server yang populer adalah...",
+      "pilihan": ["A. Windows 10", "B. macOS", "C. Linux", "D. iOS"],
+      "jawaban": "C",
+      "kategori": "mudah",
+      "hint": "Open-source dan stabil.",
+      "hint2": "Contoh: Ubuntu Server."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'SSD' adalah...",
+      "pilihan": ["A. Solid State Drive", "B. Super Speed Disk", "C. Secure Storage Device", "D. System Storage Drive"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Penyimpanan tanpa piringan magnetik.",
+      "hint2": "Lebih cepat dari HDD."
+    },
+    {
+      "pertanyaan": "Bahasa markup untuk styling website adalah...",
+      "pilihan": ["A. HTML", "B. CSS", "C. JavaScript", "D. Python"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Mengatur warna, font, dan layout.",
+      "hint2": "Bisa internal atau eksternal."
+    },
+    {
+      "pertanyaan": "Fungsi 'Dropbox' adalah...",
+      "pilihan": ["A. Mengedit foto", "B. Menyimpan file di cloud", "C. Membuat website", "D. Memutar musik"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Layanan penyimpanan online.",
+      "hint2": "Bisa sinkronisasi antar perangkat."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'Wi-Fi' adalah...",
+      "pilihan": ["A. Wireless Fidelity", "B. Wide Fiber", "C. Wireless Fiber", "D. Wide Fidelity"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Teknologi jaringan nirkabel.",
+      "hint2": "Biasanya menggunakan router."
+    },
+    {
+      "pertanyaan": "Protokol untuk mengirim email adalah...",
+      "pilihan": ["A. HTTP", "B. FTP", "C. SMTP", "D. TCP"],
+      "jawaban": "C",
+      "kategori": "mudah",
+      "hint": "Singkatan dari Simple Mail Transfer Protocol.",
+      "hint2": "Port default: 25."
+    },
+    {
+      "pertanyaan": "Fungsi 'Cache' adalah...",
+      "pilihan": ["A. Menyimpan data sementara untuk akses cepat", "B. Menghapus file sampah", "C. Mengenkripsi data", "D. Memperbaiki error sistem"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Digunakan browser untuk mempercepat loading.",
+      "hint2": "Bisa dihapus untuk mengosongkan ruang."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'BIOS' adalah...",
+      "pilihan": ["A. Basic Input Output System", "B. Binary Input Output Standard", "C. Basic Integrated Operating System", "D. Boot Input Output Setup"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Software yang dijalankan saat komputer dinyalakan.",
+      "hint2": "Mengatur hardware dasar."
+    },
+    {
+      "pertanyaan": "Bahasa pemrograman untuk aplikasi Android adalah...",
+      "pilihan": ["A. Swift", "B. Kotlin", "C. Ruby", "D. PHP"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Dikembangkan oleh JetBrains.",
+      "hint2": "Alternatif: Java."
+    },
+    {
+      "pertanyaan": "Fungsi 'Cookie' di browser adalah...",
+      "pilihan": ["A. Menyimpan preferensi pengguna", "B. Mempercepat internet", "C. Menghapus virus", "D. Memblokir iklan"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Contoh: menyimpan login username.",
+      "hint2": "Bisa dihapus melalui settings."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'PDF' adalah...",
+      "pilihan": ["A. Portable Document Format", "B. Personal Data File", "C. Printable Document Form", "D. Public Data Format"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Format dokumen yang konsisten.",
+      "hint2": "Dibuat oleh Adobe."
+    },
+    {
+      "pertanyaan": "Algoritma kompresi file yang populer adalah...",
+      "pilihan": ["A. AES", "B. ZIP", "C. RSA", "D. SHA-256"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Mengurangi ukuran file.",
+      "hint2": "Contoh: .zip, .rar."
+    },
+    {
+      "pertanyaan": "Fungsi 'Two-Factor Authentication' adalah...",
+      "pilihan": ["A. Mempercepat login", "B. Menambah lapisan keamanan", "C. Menyimpan password", "D. Memblokir akun"],
+      "jawaban": "B",
+      "kategori": "mudah",
+      "hint": "Membutuhkan verifikasi dua langkah.",
+      "hint2": "Contoh: kode OTP."
+    },
+    {
+      "pertanyaan": "Kepanjangan 'GPU' adalah...",
+      "pilihan": ["A. Graphics Processing Unit", "B. General Processing Unit", "C. Global Peripheral Unit", "D. Graphics Protocol Unit"],
+      "jawaban": "A",
+      "kategori": "mudah",
+      "hint": "Bertanggung jawab untuk rendering gambar.",
+      "hint2": "Contoh merek: NVIDIA, AMD."
+    },
+    {
+      "pertanyaan": "Protokol yang digunakan untuk mengirim email adalah...",
+      "pilihan": ["A. HTTP", "B. FTP", "C. SMTP", "D. TCP"],
+      "jawaban": "C",
+      "kategori": "sedang",
+      "hint": "Port defaultnya adalah 25.",
+      "hint2": "Bagian dari suite protokol TCP/IP."
+    },
+    {
+      "pertanyaan": "Algoritma enkripsi asimetris yang populer adalah...",
+      "pilihan": ["A. AES", "B. RSA", "C. DES", "D. SHA-256"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Menggunakan kunci publik dan privat.",
+      "hint2": "Ditemukan oleh Rivest, Shamir, Adleman."
+    },
+    {
+      "pertanyaan": "Apa fungsi dari ARP (Address Resolution Protocol)?",
+      "pilihan": ["A. Menerjemahkan nama domain ke IP", "B. Menerjemahkan IP ke alamat MAC", "C. Mengenkripsi data jaringan", "D. Mengirim email"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Digunakan dalam jaringan lokal (LAN).",
+      "hint2": "Menghubungkan lapisan IP dan Ethernet."
+    },
+    {
+      "pertanyaan": "Apa nama serangan yang mencuri data dengan menyamar sebagai entitas tepercaya?",
+      "pilihan": ["A. DDoS", "B. Phishing", "C. MITM", "D. SQL Injection"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Sering dilakukan via email atau website palsu.",
+      "hint2": "Korban diminta memasukkan data sensitif."
+    },
+    {
+      "pertanyaan": "Apa kepanjangan dari 'API' dalam pemrograman?",
+      "pilihan": ["A. Application Programming Interface", "B. Automated Program Interaction", "C. Advanced Programming Instruction", "D. Application Protocol Interface"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Memungkinkan komunikasi antar software.",
+      "hint2": "Contoh: API Google Maps."
+    },
+    {
+      "pertanyaan": "Apa fungsi utama dari load balancer?",
+      "pilihan": ["A. Mengenkripsi data", "B. Membagi beban trafik jaringan", "C. Menyimpan cache website", "D. Memindai virus"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Digunakan di server dengan trafik tinggi.",
+      "hint2": "Mencegah overload pada satu server."
+    },
+    {
+      "pertanyaan": "Apa nama database NoSQL yang menggunakan dokumen JSON?",
+      "pilihan": ["A. MySQL", "B. MongoDB", "C. PostgreSQL", "D. SQLite"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Tidak menggunakan tabel tradisional.",
+      "hint2": "Populer untuk aplikasi modern."
+    },
+    {
+      "pertanyaan": "Apa itu 'containerization' dalam DevOps?",
+      "pilihan": ["A. Virtualisasi seluruh OS", "B. Pengemasan aplikasi dengan dependensinya", "C. Penyimpanan data terdistribusi", "D. Proses kompilasi kode"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Contoh tool: Docker.",
+      "hint2": "Memungkinkan portabilitas aplikasi."
+    },
+    {
+      "pertanyaan": "Apa fungsi CDN (Content Delivery Network)?",
+      "pilihan": ["A. Mengamankan website dari serangan", "B. Mendistribusikan konten secara geografis", "C. Menyimpan backup data", "D. Mengelola database"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Mempercepat loading website global.",
+      "hint2": "Contoh provider: Cloudflare."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk menyembunyikan data dalam gambar?",
+      "pilihan": ["A. Enkripsi", "B. Steganografi", "C. Tokenisasi", "D. Hashing"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Beda dengan kriptografi.",
+      "hint2": "Contoh tool: OpenStego."
+    },
+    {
+      "pertanyaan": "Apa kepanjangan 'CI/CD' dalam pengembangan software?",
+      "pilihan": ["A. Continuous Integration/Continuous Deployment", "B. Code Inspection/Code Deployment", "C. Computer Interface/Computer Data", "D. Centralized Input/ Centralized Output"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Bagian dari praktik DevOps.",
+      "hint2": "Mempercepat rilis update."
+    },
+    {
+      "pertanyaan": "Apa protokol yang digunakan untuk koneksi aman ke website (HTTPS)?",
+      "pilihan": ["A. SSL", "B. FTP", "C. TCP", "D. SMTP"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Versi modernnya adalah TLS.",
+      "hint2": "Mengenkripsi data antara browser dan server."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma kompresi tanpa kehilangan data?",
+      "pilihan": ["A. JPEG", "B. MP3", "C. ZIP", "D. MPEG"],
+      "jawaban": "C",
+      "kategori": "sedang",
+      "hint": "Bisa mengembalikan file ke bentuk asli.",
+      "hint2": "Contoh format: .zip, .rar."
+    },
+    {
+      "pertanyaan": "Apa fungsi dari subnet mask?",
+      "pilihan": ["A. Membagi jaringan menjadi subjaringan", "B. Mengenkripsi paket data", "C. Menghubungkan ke internet", "D. Menyimpan alamat MAC"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Contoh: 255.255.255.0.",
+      "hint2": "Menentukan bagian network dan host dari IP."
+    },
+    {
+      "pertanyaan": "Apa itu 'zero-day vulnerability'?",
+      "pilihan": ["A. Bug yang sudah diketahui patch-nya", "B. Bug yang belum diketahui developer", "C. Bug pada sistem operasi baru", "D. Bug yang hanya ada di perangkat Apple"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Sangat berbahaya karena belum ada perbaikan.",
+      "hint2": "Sering dimanfaatkan oleh hacker."
+    },
+    {
+      "pertanyaan": "Apa nama sistem manajemen versi kode yang populer?",
+      "pilihan": ["A. Docker", "B. Git", "C. Jenkins", "D. Kubernetes"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Dikembangkan oleh Linus Torvalds.",
+      "hint2": "Platform hosting: GitHub, GitLab."
+    },
+    {
+      "pertanyaan": "Apa fungsi dari reverse proxy?",
+      "pilihan": ["A. Menyembunyikan identitas client", "B. Menyembunyikan identitas server", "C. Memblokir iklan", "D. Mengkompresi gambar"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Contoh penggunaan: load balancing.",
+      "hint2": "Berbeda dengan forward proxy."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk mengoptimalkan query database?",
+      "pilihan": ["A. Indexing", "B. Tokenisasi", "C. Hashing", "D. Enkripsi"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Mempercepat pencarian data.",
+      "hint2": "Menggunakan struktur seperti B-tree."
+    },
+    {
+      "pertanyaan": "Apa itu 'metadata'?",
+      "pilihan": ["A. Data tentang data", "B. Data terenkripsi", "C. Data mentah", "D. Data yang dihapus"],
+      "jawaban": "A",
+      "kategori": "sedang",
+      "hint": "Contoh: informasi pembuat file, ukuran file.",
+      "hint2": "Digunakan untuk mengorganisir data."
+    },
+    {
+      "pertanyaan": "Apa nama serangan yang membanjiri server dengan permintaan palsu?",
+      "pilihan": ["A. Phishing", "B. DDoS", "C. MITM", "D. SQL Injection"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Singkatan dari Distributed Denial of Service.",
+      "hint2": "Membuat layanan tidak bisa diakses."
+    },
+    {
+      "pertanyaan": "Apa fungsi utama dari WebSocket?",
+      "pilihan": ["A. Mengirim email", "B. Komunikasi real-time dua arah", "C. Menyimpan cookie", "D. Memuat halaman web statis"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Digunakan untuk aplikasi chat atau notifikasi.",
+      "hint2": "Protokol lapisan aplikasi."
+    },
+    {
+      "pertanyaan": "Apa kepanjangan 'IaaS' dalam komputasi awan?",
+      "pilihan": ["A. Internet as a Service", "B. Infrastructure as a Service", "C. Integration as a Service", "D. Interface as a Service"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Contoh layanan: AWS EC2, Google Compute Engine.",
+      "hint2": "Menyediakan sumber daya komputasi virtual."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma hashing yang digunakan untuk password?",
+      "pilihan": ["A. RSA", "B. AES", "C. bcrypt", "D. Base64"],
+      "jawaban": "C",
+      "kategori": "sedang",
+      "hint": "Dirancang untuk resistan terhadap brute force.",
+      "hint2": "Menggunakan salt untuk keamanan tambahan."
+    },
+    {
+      "pertanyaan": "Apa itu 'responsive web design'?",
+      "pilihan": ["A. Desain yang berubah berdasarkan lokasi pengguna", "B. Desain yang menyesuaikan dengan perangkat", "C. Desain dengan animasi kompleks", "D. Desain tanpa gambar"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Menggunakan CSS media queries.",
+      "hint2": "Contoh: tampilan berbeda di mobile dan desktop."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk mengamankan komunikasi Wi-Fi?",
+      "pilihan": ["A. WEP", "B. WPA2", "C. HTTP", "D. FTP"],
+      "jawaban": "B",
+      "kategori": "sedang",
+      "hint": "Lebih aman daripada WEP.",
+      "hint2": "Menggunakan enkripsi AES."
+    },
+    {
+      "pertanyaan": "Apa nama serangan yang memanfaatkan buffer overflow?",
+      "pilihan": ["A. DDoS", "B. SQL Injection", "C. Zero-day Exploit", "D. Stack Smashing"],
+      "jawaban": "D",
+      "kategori": "susah",
+      "hint": "Memanipulasi memori program.",
+      "hint2": "Bisa menyebabkan eksekusi kode arbitrer."
+    },
+    {
+      "pertanyaan": "Apa struktur data yang menggunakan prinsip LIFO?",
+      "pilihan": ["A. Queue", "B. Stack", "C. Linked List", "D. Tree"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Operasi dasar: push dan pop.",
+      "hint2": "Digunakan dalam manajemen memori."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma consensus di blockchain yang menggunakan proof of work?",
+      "pilihan": ["A. PoS", "B. PBFT", "C. PoW", "D. DPoS"],
+      "jawaban": "C",
+      "kategori": "susah",
+      "hint": "Digunakan oleh Bitcoin.",
+      "hint2": "Memerlukan komputasi intensif."
+    },
+    {
+      "pertanyaan": "Apa itu 'race condition' dalam pemrograman?",
+      "pilihan": ["A. Kondisi saat dua thread mengakses data bersamaan", "B. Error sintaksis", "C. Bug pada compiler", "D. Gangguan jaringan"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "Menghasilkan output yang tidak terduga.",
+      "hint2": "Diatasi dengan mekanisme locking."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk mengoptimalkan kinerja database dengan menyimpan query hasil?",
+      "pilihan": ["A. Indexing", "B. Sharding", "C. Caching", "D. Partitioning"],
+      "jawaban": "C",
+      "kategori": "susah",
+      "hint": "Contoh tool: Redis.",
+      "hint2": "Mengurangi beban database."
+    },
+    {
+      "pertanyaan": "Apa itu 'side-channel attack'?",
+      "pilihan": ["A. Serangan melalui jaringan samping", "B. Serangan dengan memanfaatkan kebocoran fisik (e.g., daya, waktu)", "C. Serangan pada backup data", "D. Serangan melalui email"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Contoh: analisis daya (power analysis).",
+      "hint2": "Tidak mengeksploitasi kelemahan algoritma langsung."
+    },
+    {
+      "pertanyaan": "Apa nama paradigma pemrograman yang digunakan dalam functional programming?",
+      "pilihan": ["A. OOP", "B. Imperative", "C. Declarative", "D. Procedural"],
+      "jawaban": "C",
+      "kategori": "susah",
+      "hint": "Fokus pada 'what to solve' bukan 'how to solve'.",
+      "hint2": "Contoh bahasa: Haskell, Erlang."
+    },
+    {
+      "pertanyaan": "Apa itu 'CAP theorem' dalam sistem terdistribusi?",
+      "pilihan": ["A. Teori tentang keamanan jaringan", "B. Teori yang menyatakan hanya 2 dari 3 properti (Consistency, Availability, Partition Tolerance) yang bisa dipenuhi", "C. Teori optimasi database", "D. Teori kompresi data"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Dikembangkan oleh Eric Brewer.",
+      "hint2": "Mendasari desain sistem seperti NoSQL."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma untuk routing dinamis yang menggunakan jarak hop?",
+      "pilihan": ["A. OSPF", "B. BGP", "C. RIP", "D. EIGRP"],
+      "jawaban": "C",
+      "kategori": "susah",
+      "hint": "Termasuk distance-vector routing protocol.",
+      "hint2": "Maksimum 15 hop."
+    },
+    {
+      "pertanyaan": "Apa itu 'double spending' dalam konteks cryptocurrency?",
+      "pilihan": ["A. Mengirim dua transaksi berbeda", "B. Menggunakan uang digital lebih dari sekali", "C. Menambang dua blok bersamaan", "D. Membuat dua wallet identik"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Masalah yang diatasi oleh blockchain.",
+      "hint2": "Dicegah dengan consensus mechanism."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk mengamankan koneksi SSH tanpa password?",
+      "pilihan": ["A. Two-Factor Authentication", "B. Public Key Authentication", "C. Kerberos", "D. OAuth"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Menggunakan pasangan kunci publik-privat.",
+      "hint2": "File kunci disimpan di ~/.ssh/."
+    },
+    {
+      "pertanyaan": "Apa itu 'deadlock' dalam sistem operasi?",
+      "pilihan": ["A. Kondisi saat proses saling menunggu sumber daya", "B. Error pada memori", "C. Gangguan jaringan", "D. Kegagalan hardware"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "Contoh: Proses A memegang Resource 1 dan menunggu Resource 2, sementara Proses B memegang Resource 2 dan menunggu Resource 1.",
+      "hint2": "Diatasi dengan algoritma deteksi/prevensi."
+    },
+    {
+      "pertanyaan": "Apa nama serangan yang memanfaatkan kesalahan validasi input untuk menjalankan kode SQL?",
+      "pilihan": ["A. XSS", "B. CSRF", "C. SQL Injection", "D. MITM"],
+      "jawaban": "C",
+      "kategori": "susah",
+      "hint": "Bisa mengekstrak atau menghapus data database.",
+      "hint2": "Dicegah dengan parameterized queries."
+    },
+    {
+      "pertanyaan": "Apa itu 'garbage collection' dalam pemrograman?",
+      "pilihan": ["A. Proses menghapus file sampah", "B. Proses manajemen memori otomatis", "C. Proses kompresi data", "D. Proses backup database"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Digunakan di bahasa seperti Java dan Python.",
+      "hint2": "Mengidentifikasi objek yang tidak terpakai."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma untuk kompresi gambar lossless?",
+      "pilihan": ["A. JPEG", "B. PNG", "C. MPEG", "D. GIF"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Mendukung transparansi.",
+      "hint2": "Menggunakan algoritma DEFLATE."
+    },
+    {
+      "pertanyaan": "Apa itu 'reverse engineering' dalam keamanan siber?",
+      "pilihan": ["A. Memperbaiki kode yang error", "B. Menganalisis software untuk memahami cara kerjanya", "C. Menulis dokumentasi", "D. Mengoptimalkan database"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Sering digunakan untuk analisis malware.",
+      "hint2": "Tool: IDA Pro, Ghidra."
+    },
+    {
+      "pertanyaan": "Apa nama protokol untuk transfer file yang menggunakan SSH?",
+      "pilihan": ["A. FTP", "B. SFTP", "C. TFTP", "D. HTTP"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Port default: 22.",
+      "hint2": "Lebih aman daripada FTP."
+    },
+    {
+      "pertanyaan": "Apa itu 'idempotent' dalam REST API?",
+      "pilihan": ["A. Operasi yang menghasilkan efek sama meski dijalankan berkali-kali", "B. Operasi yang menghapus data", "C. Operasi yang membutuhkan autentikasi", "D. Operasi yang mengembalikan error"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "Contoh: HTTP GET dan PUT.",
+      "hint2": "HTTP DELETE juga idempotent."
+    },
+    {
+      "pertanyaan": "Apa nama teknik untuk mengamankan data dengan mengacaknya dua kali?",
+      "pilihan": ["A. Double Encryption", "B. Hashing", "C. Salting", "D. Double Hashing"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "Meningkatkan keamanan enkripsi.",
+      "hint2": "Contoh: AES-256 diikuti RSA."
+    },
+    {
+      "pertanyaan": "Apa itu 'canary token' dalam keamanan siber?",
+      "pilihan": ["A. Token untuk autentikasi dua faktor", "B. File atau link yang memicu alert saat diakses", "C. Alat untuk cracking password", "D. Komponen hardware keamanan"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Digunakan untuk mendeteksi intrusi.",
+      "hint2": "Seperti 'tripwire' digital."
+    },
+    {
+      "pertanyaan": "Apa nama algoritma untuk memecahkan masalah 'travelling salesman'?",
+      "pilihan": ["A. Dijkstra", "B. A*", "C. Bellman-Ford", "D. Christofides"],
+      "jawaban": "D",
+      "kategori": "susah",
+      "hint": "Termasuk algoritma aproksimasi.",
+      "hint2": "Memberikan solusi suboptimal dalam waktu polinomial."
+    },
+    {
+      "pertanyaan": "Apa itu 'quine' dalam pemrograman?",
+      "pilihan": ["A. Program yang mencetak source code-nya sendiri", "B. Bug pada loop", "C. Error kompilasi", "D. Teknik debugging"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "Contoh dalam Python: `s='s=%r;print(s%%s)';print(s%s)`.",
+      "hint2": "Konsep dari teori komputasi."
+    },
+    {
+      "pertanyaan": "Apa nama serangan yang memanipulasi percakapan antara dua pihak?",
+      "pilihan": ["A. DDoS", "B. MITM (Man-in-the-Middle)", "C. Phishing", "D. SQL Injection"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Hacker menyisipkan diri di antara komunikasi.",
+      "hint2": "Dicegah dengan enkripsi end-to-end."
+    },
+    {
+      "pertanyaan": "Apa itu 'NOP sled' dalam eksploitasi buffer overflow?",
+      "pilihan": ["A. Serangkaian instruksi NOP untuk mencapai shellcode", "B. Teknik deface website", "C. Tool untuk scanning port", "D. Metode kompresi data"],
+      "jawaban": "A",
+      "kategori": "susah",
+      "hint": "NOP = No Operation.",
+      "hint2": "Meningkatkan peluang eksekusi kode jahat."
+    },
+    {
+      "pertanyaan": "Apa nama struktur data yang efisien untuk pencarian prefix string?",
+      "pilihan": ["A. Hash Table", "B. Trie", "C. Linked List", "D. Stack"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Digunakan di autocomplete dan spell check.",
+      "hint2": "Setiap node merepresentasikan karakter."
+    },
+    {
+      "pertanyaan": "Apa itu 'time complexity' O(log n) dalam algoritma?",
+      "pilihan": ["A. Waktu eksekusi konstan", "B. Waktu eksekusi bertambah secara logaritmik", "C. Waktu eksekusi linear", "D. Waktu eksekusi kuadratik"],
+      "jawaban": "B",
+      "kategori": "susah",
+      "hint": "Contoh algoritma: binary search.",
+      "hint2": "Lebih efisien daripada O(n)."
+    }
+  ]

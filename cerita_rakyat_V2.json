@@ -1,0 +1,144 @@
+{
+  "cerita_rakyat": [
+    {
+      "judul": "Malin Kundang",
+      "asal": "Sumatera Barat",
+      "cerita_lengkap": "Alkisah hiduplah seorang janda miskin dengan anak laki-lakinya bernama Malin Kundang. Karena kemiskinan, Malin memutuskan merantau dengan kapal dagang. Setelah bertahun-tahun, Malin menjadi kaya raya dan menikah dengan putri seorang saudagar. Ketika pulang kampung, Malin malu mengakui ibunya yang sudah tua dan miskin. Sang ibu yang sakit hati mengutuk Malin menjadi batu. Sekarang, batu Malin Kundang bisa dilihat di Pantai Air Manis, Padang.",
+      "pesan_moral": "Jangan durhaka kepada orang tua",
+      "tokoh": ["Malin Kundang", "Ibu Malin", "Istri Malin"]
+    },
+    {
+      "judul": "Timun Mas",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Mbok Yem adalah seorang janda tua yang ingin punya anak. Suatu hari, raksasa hijau memberinya biji timun ajaib yang kemudian melahirkan Timun Mas. Saat Timun Mas besar, raksasa datang untuk memintanya. Mbok Yem memberi Timun Mas kantong berisi biji timun, jarum, garam, dan terasi. Ketika dikejar, Timun Mas menebar isi kantong yang berubah menjadi hutan timun, lautan jarum, lautan asin, dan lumpur panas. Raksasa pun tewas dan Timun Mas selamat.",
+      "pesan_moral": "Kecerdikan dan keberanian bisa mengalahkan musuh",
+      "tokoh": ["Timun Mas", "Raksasa Hijau", "Mbok Yem"]
+    },
+    {
+      "judul": "Bawang Merah dan Bawang Putih",
+      "asal": "Riau",
+      "cerita_lengkap": "Bawang Putih yang baik hati selalu disiksa oleh ibu tiri dan saudara tirinya, Bawang Merah yang jahat. Suatu hari, baju Bawang Putih hanyut di sungai dan ditemukan oleh nenek penyihir yang memberinya hadiah labu ajaib berisi emas. Iri, Bawang Merah sengaja menghanyutkan bajunya dan mendapat labu berisi ular. Akhirnya ibu tiri dan Bawang Merah diusir dari rumah.",
+      "pesan_moral": "Kebaikan akan dibalas kebaikan, kejahatan akan mendapat hukuman",
+      "tokoh": ["Bawang Putih", "Bawang Merah", "Ibu Tiri", "Nenek Penyihir"]
+    },
+    {
+      "judul": "Si Kancil dan Buaya",
+      "asal": "Nusantara",
+      "cerita_lengkap": "Si Kancil yang cerdik ingin menyeberang sungai yang penuh buaya. Ia bilang kepada buaya bahwa Raja akan memberi mereka daging segar jika dihitung jumlahnya. Saat buaya berbaris untuk dihitung, Kancil melompati punggung mereka satu per satu sambil berhitung. Setelah sampai seberang, Kancil tertawa karena telah menipu buaya.",
+      "pesan_moral": "Kecerdikan bisa mengalahkan kekuatan",
+      "tokoh": ["Si Kancil", "Buaya"]
+    },
+    {
+      "judul": "Asal Mula Danau Toba",
+      "asal": "Sumatera Utara",
+      "cerita_lengkap": "Toba adalah pemuda miskin yang menikahi wanita cantik hasil tangkapannya yang ternyata jelmaan ikan. Mereka punya anak bernama Samosir yang suka membawa bekal berlebihan. Suatu hari, Samosir malas mengantar makan dan mengaku telah memakannya. Toba marah dan menyebut istri dan anaknya 'anak ikan'. Istri Toba yang sedih kembali menjadi ikan dan menyebabkan banjir besar yang membentuk Danau Toba dengan pulau kecil di tengahnya bernama Pulau Samosir.",
+      "pesan_moral": "Jaga perkataan dan jangan melanggar janji",
+      "tokoh": ["Toba", "Istri Toba", "Samosir"]
+    },
+    {
+      "judul": "Keong Mas",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Putri Candra Kirana dikutuk penyihir jahat menjadi keong emas karena cemburu pada kecantikannya. Keong emas ditemukan nenek tua miskin yang kemudian terkejut karena rumahnya selalu bersih dan ada makanan enak. Suatu hari nenek pura-piri pergi dan melihat Candra Kirana keluar dari keong. Penyihir jahat akhirnya dikalahkan dan kutukan terlepas. Candra Kirana menikah dengan pangeran kerajaan.",
+      "pesan_moral": "Kebaikan hati akan dibalas dengan kebahagiaan",
+      "tokoh": ["Candra Kirana", "Nenek Tua", "Penyihir Jahat", "Pangeran"]
+    },
+    {
+      "judul": "Lutung Kasarung",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Purbasari adalah putri bungsu yang diusir kakaknya, Purbararang, karena iri hati. Di hutan, Purbasari berteman dengan Lutung Kasarung yang ternyata jelmaan pangeran tampan. Purbararang mengajak adu kecantikan yang dimenangkan Purbasari. Akhirnya Purbasari menjadi ratu dan menikah dengan sang pangeran, sedangkan Purbararang diampuni.",
+      "pesan_moral": "Kebaikan dan kesabaran akan menang",
+      "tokoh": ["Purbasari", "Purbararang", "Lutung Kasarung", "Guru Minda"]
+    },
+    {
+      "judul": "Si Pitung",
+      "asal": "Jakarta",
+      "cerita_lengkap": "Si Pitung adalah jawara Betawi yang mencuri dari orang kaya untuk dibagikan ke rakyat miskin. Belanda marah dan menangkap ayah Pitung. Dengan kesaktiannya, Pitung menyelamatkan ayahnya dan terus mengusik Belanda sampai akhirnya dikhianati oleh temannya sendiri karena iming-iming hadiah.",
+      "pesan_moral": "Berjuang untuk keadilan dan tolong-menolong",
+      "tokoh": ["Si Pitung", "Ayah Pitung", "Tuan Tanah Kaya", "Belanda"]
+    },
+    {
+      "judul": "Roro Jonggrang",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Pangeran Bandung Bondowoso jatuh cinta pada Roro Jonggrang yang memberi syarat membangun 1000 candi dalam semalam. Dengan bantuan jin, Bandung Bondowoso hampir berhasil sampai Roro Jonggrang menumbuk padi membuat ayam berkokok seolah pagi. Marah karena dikelabui, Bandung Bondowoso mengutuk Roro Jonggrang menjadi arca di Candi Prambanan.",
+      "pesan_moral": "Jangan bermain dengan perasaan orang lain",
+      "tokoh": ["Roro Jonggrang", "Bandung Bondowoso", "Raja Boko"]
+    },
+    {
+      "judul": "Jaka Tarub dan 7 Bidadari",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Jaka Tarub melihat 7 bidadari mandi di telaga dan menyembunyikan selendang salah satunya, Nawang Wulan. Tanpa selendang, Nawang Wulan tidak bisa pulang ke kahyangan dan menikah dengan Jaka Tarub. Mereka punya anak bernama Nawang Sih. Ketika Nawang Wulan menemukan selendangnya yang disembunyikan, ia harus kembali ke kahyangan meninggalkan suami dan anaknya.",
+      "pesan_moral": "Jangan serakah dan menipu",
+      "tokoh": ["Jaka Tarub", "Nawang Wulan", "Nawang Sih", "6 Bidadari Lain"]
+    },
+    {
+      "judul": "Sangkuriang",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Sangkuriang tidak tahu bahwa Dayang Sumbi ibunya sendiri. Saat berburu, ia membunuh Tumang (ayahnya yang berubah menjadi anjing) dan mengambil hatinya untuk ibunya. Marah, Dayang Sumbi memukul kepala Sangkuriang hingga terlupa ingatan. Ketika dewasa, Sangkuriang jatuh cinta pada Dayang Sumbi yang memberi syarat membuat danau dan perahu semalam. Ketika hampir berhasil, Dayang Sumbi mengelabuhinya dengan kain merah di timur. Marah, Sangkuriang menendang perahu yang menjadi Gunung Tangkuban Perahu.",
+      "pesan_moral": "Segala sesuatu ada batasnya",
+      "tokoh": ["Sangkuriang", "Dayang Sumbi", "Tumang"]
+    },
+    {
+      "judul": "Ande-Ande Lumut",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Pangeran tampan bernama Ande-Ande Lumut mencari istri dengan menyamar sebagai rakyat biasa. Tiga putri mencoba menikahinya, tetapi hanya Klenting Kuning yang baik hati yang mau menyeberangi sungai dengan bantuan yuyu (kepiting) tanpa mengeluh. Akhirnya Klenting Kuning menjadi istri sang pangeran.",
+      "pesan_moral": "Sikap baik dan rendah hati akan membawa kebahagiaan",
+      "tokoh": ["Ande-Ande Lumut", "Klenting Kuning", "Yuyu", "Dua Putri Lain"]
+    },
+    {
+      "judul": "Si Kabayan",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Si Kabayan adalah tokoh lucu yang malas tapi cerdik. Suatu hari ia disuruh istrinya mencari ikan tapi malah tidur di gubuk. Ketika hujan deras, air membawa ikan-ikan masuk ke gubuk. Kabayan pulang membawa ikan banyak dan bilang dapat ikan tanpa usaha. Cerita-cerita Kabayan selalu berakhir dengan kelucuan dan kecerdikannya mengelabui orang.",
+      "pesan_moral": "Kecerdasan itu penting, tapi kemalasan tidak baik",
+      "tokoh": ["Si Kabayan", "Istri Kabayan", "Mertua Kabayan"]
+    },
+    {
+      "judul": "Legenda Batu Menangis",
+      "asal": "Kalimantan Barat",
+      "cerita_lengkap": "Seorang gadis cantik tapi manja selalu menyiksa ibunya yang tua dan miskin. Suatu hari saat ke pasar, gadis itu malu mengakui ibunya. Sang ibu berdoa dan gadis itu perlahan berubah menjadi batu sambil menangis. Batu itu sekarang dikenal sebagai Batu Menangis di Kalimantan.",
+      "pesan_moral": "Hormatilah orang tuamu",
+      "tokoh": ["Gadis Manja", "Ibu Tua"]
+    },
+    {
+      "judul": "Terjadinya Gunung Batok",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Joko Seger dan Rara Anteng saling mencintai tapi tidak bisa menikah karena syarat dari penguasa Gunung Bromo. Mereka harus melemparkan anak bungsu ke kawah. Ketika pasangan ini memiliki 25 anak, mereka tidak tega dan mengingkari janji. Gunung meletus dan anak bungsu bernama Kusuma terlempar ke kawah. Bekas makanan Kusuma menjadi Gunung Batok di samping Bromo.",
+      "pesan_moral": "Jangan membuat janji yang tidak bisa dipenuhi",
+      "tokoh": ["Joko Seger", "Rara Anteng", "Kusuma"]
+    },
+    {
+      "judul": "Asal Usul Burung Cenderawasih",
+      "asal": "Papua",
+      "cerita_lengkap": "Kweiya adalah wanita tua yang ditinggal anak-anaknya. Suatu hari ia menemukan bayi perempuan di hutan dan merawatnya. Ketika sudah besar, anak angkatnya malah malu mengakui Kweiya sebagai ibu. Kweiya yang sedih berubah menjadi burung cantik yang sekarang disebut Cenderawasih.",
+      "pesan_moral": "Jangan malu mengakui orang yang telah berjasa",
+      "tokoh": ["Kweiya", "Anak Angkat"]
+    },
+    {
+      "judul": "Legenda Telaga Warna",
+      "asal": "Jawa Barat",
+      "cerita_lengkap": "Raja dan ratu di kerajaan Pasir Batang sangat sayang pada putri mereka. Saat ulang tahun, sang putri diberi kalung indah tapi malah marah karena menginginkan hadiah lain. Kalung itu jatuh dan tanah pun menangis mengeluarkan air berwarna-warni yang membentuk Telaga Warna.",
+      "pesan_moral": "Jangan serakah dan bersyukurlah",
+      "tokoh": ["Putri Raja", "Raja", "Ratu"]
+    },
+    {
+      "judul": "Si Pahit Lidah",
+      "asal": "Bengkulu",
+      "cerita_lengkap": "Seorang pemuda bernama Si Pahit Lidah memiliki kutukan bahwa apapun yang dikatakannya menjadi kenyataan. Ketika marah, ia mengutuk orang menjadi batu, sungai menjadi keruh, dan desa menjadi danau. Menyesal, ia pergi ke hutan dan menghilang.",
+      "pesan_moral": "Kendalikan emosi dan perkataan",
+      "tokoh": ["Si Pahit Lidah", "Warga Desa"]
+    },
+    {
+      "judul": "Asal Mula Kota Surabaya",
+      "asal": "Jawa Timur",
+      "cerita_lengkap": "Dahulu ada pertempuran antara ikan Sura (hiu) dan Baya (buaya) memperebutkan mangsa. Mereka bertarung sengit sampai ke darat dan akhirnya sepakat membagi wilayah. Sura di air asin, Baya di air tawar. Tempat pertempuran itu kemudian disebut Surabaya.",
+      "pesan_moral": "Persaingan harus diselesaikan dengan bijak",
+      "tokoh": ["Ikan Sura", "Buaya Baya"]
+    },
+    {
+      "judul": "Legenda Candi Prambanan",
+      "asal": "Jawa Tengah",
+      "cerita_lengkap": "Setelah dikutuk menjadi arca, Roro Jonggrang dan pengikutnya menjadi candi-candi di Prambanan. Candi utama untuk Siwa adalah Roro Jonggrang, candi Brahma adalah Bandung Bondowoso, dan candi Wishnu adalah ayah Roro Jonggrang. Candi-candi kecil adalah pengikutnya.",
+      "pesan_moral": "Dendam hanya menghasilkan kehancuran",
+      "tokoh": ["Roro Jonggrang", "Bandung Bondowoso", "Raja Boko"]
+    }
+  ]
+}

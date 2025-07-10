@@ -1,0 +1,580 @@
+{
+  "tebak_kata": [
+    {
+      "jawaban": "Borobudur",
+      "pertanyaan": "Candi Buddha terbesar di dunia yang terletak di Jawa Tengah?",
+      "hint": "Dibangun pada masa pemerintahan wangsa Syailendra",
+      "hint2": "Termasuk dalam Situs Warisan Dunia UNESCO"
+    },
+    {
+      "jawaban": "Pancasila",
+      "pertanyaan": "Dasar negara dan ideologi bangsa Indonesia?",
+      "hint": "Lambangnya terdapat pada perisai Garuda Pancasila",
+      "hint2": "Sila pertamanya adalah Ketuhanan Yang Maha Esa"
+    },
+    {
+      "jawaban": "Rafflesia",
+      "pertanyaan": "Bunga terbesar di dunia yang tumbuh di hutan Sumatra?",
+      "hint": "Dinamai sesuai nama penemunya, Thomas Stamford Raffles",
+      "hint2": "Bunga ini mengeluarkan bau tidak sedap"
+    },
+    {
+      "jawaban": "Komodo",
+      "pertanyaan": "Hewan purba yang hanya hidup di pulau tertentu di NTT?",
+      "hint": "Merupakan kadal terbesar di dunia",
+      "hint2": "Pulau habitatnya termasuk dalam 7 keajaiban dunia baru"
+    },
+    {
+      "jawaban": "Batak",
+      "pertanyaan": "Suku asli yang berasal dari daerah sekitar Danau Toba?",
+      "hint": "Mempunyai rumah adat bernama Bolon",
+      "hint2": "Marga seperti Sitorus, Simatupang, dan Nainggolan berasal dari suku ini"
+    },
+    {
+      "jawaban": "Wayang",
+      "pertanyaan": "Seni tradisional asli Indonesia yang diakui UNESCO sebagai Warisan Budaya Dunia?",
+      "hint": "Biasa dimainkan oleh dalang",
+      "hint2": "Ada berbagai jenis seperti kulit, golek, dan orang"
+    },
+    {
+      "jawaban": "Krakatau",
+      "pertanyaan": "Gunung api yang meletus dahsyat tahun 1883 dan menyebabkan perubahan iklim global?",
+      "hint": "Terletak di Selat Sunda",
+      "hint2": "Anak gunung ini muncul setelah letusan dan bernama Anak ..."
+    },
+    {
+      "jawaban": "Rendang",
+      "pertanyaan": "Makanan tradisional Sumatra Barat yang dinobatkan sebagai makanan terenak di dunia?",
+      "hint": "Terbuat dari daging sapi dan santan",
+      "hint2": "Memiliki ciri khas warna coklat kehitaman"
+    },
+    {
+      "jawaban": "Jokowi",
+      "pertanyaan": "Presiden Indonesia ke-7 yang sebelumnya menjabat sebagai Walikota Surakarta?",
+      "hint": "Nama aslinya adalah Joko Widodo",
+      "hint2": "Dikenal dengan gaya blusukannya"
+    },
+    {
+      "jawaban": "Badak Jawa",
+      "pertanyaan": "Hewan langka yang hanya bisa ditemukan di Taman Nasional Ujung Kulon?",
+      "hint": "Salah satu spesies badak paling langka di dunia",
+      "hint2": "Memiliki cula satu"
+    },
+    {
+      "jawaban": "Prambanan",
+      "pertanyaan": "Candi Hindu terbesar di Indonesia yang terletak di perbatasan DIY-Jateng?",
+      "hint": "Didedikasikan untuk Trimurti: Brahma, Wisnu, Siwa",
+      "hint2": "Ada legenda tentang Roro Jonggrang terkait candi ini"
+    },
+    {
+      "jawaban": "Toraja",
+      "pertanyaan": "Suku di Sulawesi Selatan yang terkenal dengan upacara pemakaman Rambu Solo?",
+      "hint": "Rumah adatnya disebut Tongkonan",
+      "hint2": "Mempraktikkan tradisi mayat berjalan (Ma'nene)"
+    },
+    {
+      "jawaban": "Bajaj",
+      "pertanyaan": "Kendaraan bermotor tiga roda yang menjadi ikon transportasi Jakarta?",
+      "hint": "Berasal dari India",
+      "hint2": "Biasanya berwarna oranye atau biru"
+    },
+    {
+      "jawaban": "Tempe",
+      "pertanyaan": "Makanan tradisional dari fermentasi kedelai yang sangat populer di Indonesia?",
+      "hint": "Sering diolah menjadi tempe goreng, mendoan, atau orek",
+      "hint2": "Ditemukan secara tidak sengaja oleh masyarakat Jawa"
+    },
+    {
+      "jawaban": "Bhinneka Tunggal Ika",
+      "pertanyaan": "Semboyan negara Indonesia yang tertulis pada lambang Garuda Pancasila?",
+      "hint": "Artinya 'Berbeda-beda tetapi tetap satu'",
+      "hint2": "Diambil dari kitab Sutasoma karya Mpu Tantular"
+    },
+    {
+      "jawaban": "Angklung",
+      "pertanyaan": "Alat musik tradisional Sunda yang terbuat dari bambu?",
+      "hint": "Dimainkan dengan cara digoyangkan",
+      "hint2": "Diakui UNESCO sebagai Warisan Budaya Dunia"
+    },
+    {
+      "jawaban": "Bali",
+      "pertanyaan": "Pulau di Indonesia yang paling terkenal sebagai destinasi wisata dunia?",
+      "hint": "Disebut juga Pulau Dewata",
+      "hint2": "Mayoritas penduduknya beragama Hindu"
+    },
+    {
+      "jawaban": "Kecak",
+      "pertanyaan": "Tarian tradisional Bali yang diiringi oleh suara 'cak cak cak' dari penarinya?",
+      "hint": "Sering menceritakan episode Ramayana",
+      "hint2": "Disebut juga tari api"
+    },
+    {
+      "jawaban": "Gatotkaca",
+      "pertanyaan": "Tokoh wayang yang dikenal sebagai 'Manusia Besi' dalam pewayangan?",
+      "hint": "Putra Bimasena (Werkudara) dalam Mahabharata",
+      "hint2": "Memiliki julukan 'Otot Kawat, Tulang Besi'"
+    },
+    {
+      "jawaban": "Asmat",
+      "pertanyaan": "Suku di Papua yang terkenal dengan seni pahat patungnya?",
+      "hint": "Mendiami daerah rawa-rawa di bagian selatan Papua",
+      "hint2": "Memiliki tradisi pembuatan perisai yang unik"
+    },
+    {
+      "jawaban": "Kompas",
+      "pertanyaan": "Surat kabar nasional tertua di Indonesia yang masih terbit hingga sekarang?",
+      "hint": "Didirikan tahun 1965 oleh P.K. Ojong dan Jakob Oetama",
+      "hint2": "Bermarkas di Jakarta"
+    },
+    {
+      "jawaban": "Lombok",
+      "pertanyaan": "Pulau di Nusa Tenggara Barat yang terkenal dengan pantainya yang indah?",
+      "hint": "Memiliki gunung berapi bernama Rinjani",
+      "hint2": "Disebut juga 'Pulau Seribu Masjid'"
+    },
+    {
+      "jawaban": "Reog",
+      "pertanyaan": "Kesenian tradisional dari Ponorogo yang menggunakan topeng besar berbentuk kepala singa?",
+      "hint": "Bagian atas topengnya dihiasi bulu merak",
+      "hint2": "Ada legenda tentang Ki Ageng Kutu terkait kesenian ini"
+    },
+    {
+      "jawaban": "Toba",
+      "pertanyaan": "Danau vulkanik terbesar di dunia yang terletak di Sumatra Utara?",
+      "hint": "Terbentuk akibat letusan gunung api purba",
+      "hint2": "Di tengah danau terdapat pulau bernama Samosir"
+    },
+    {
+      "jawaban": "Saman",
+      "pertanyaan": "Tarian tradisional Aceh yang dimainkan dalam posisi duduk berbaris?",
+      "hint": "Juga dikenal sebagai Tari Seribu Tangan",
+      "hint2": "Diakui UNESCO sebagai Warisan Budaya Dunia"
+    },
+    {
+      "jawaban": "Gudeg",
+      "pertanyaan": "Makanan khas Yogyakarta yang terbuat dari nangka muda?",
+      "hint": "Biasanya disajikan dengan ayam, telur, dan sambal krecek",
+      "hint2": "Memiliki rasa manis dari santan dan gula jawa"
+    },
+    {
+      "jawaban": "Sukarno",
+      "pertanyaan": "Proklamator kemerdekaan Indonesia yang menjabat sebagai presiden pertama?",
+      "hint": "Lahir di Surabaya dengan nama Koesno Sosrodihardjo",
+      "hint2": "Dikenal dengan sebutan Bung Karno"
+    },
+    {
+      "jawaban": "Kakaban",
+      "pertanyaan": "Pulau kecil di Derawan, Kalimantan Timur yang terkenal dengan danau ubur-uburnya?",
+      "hint": "Danau di pulau ini adalah satu dari dua danau ubur-ubur di dunia",
+      "hint2": "Ubur-ubur di sini tidak menyengat karena evolusi"
+    },
+    {
+      "jawaban": "Cendrawasih",
+      "pertanyaan": "Burung endemik Papua yang terkenal dengan bulunya yang indah?",
+      "hint": "Disebut juga Bird of Paradise",
+      "hint2": "Menjadi inspirasi untuk logo PT Freeport Indonesia"
+    },
+    {
+      "jawaban": "Jember",
+      "pertanyaan": "Kabupaten di Jawa Timur yang terkenal dengan festival karnavalnya?",
+      "hint": "Memiliki ikon berupa payung besar di alun-alun",
+      "hint2": "Karnaval tahunannya disebut Jember Fashion Carnaval"
+    },
+    {
+      "jawaban": "Lumpia",
+      "pertanyaan": "Makanan khas Semarang yang merupakan adaptasi dari spring roll Tionghoa?",
+      "hint": "Biasanya berisi rebung, daging, atau udang",
+      "hint2": "Ada versi basah dan goreng"
+    },
+    {
+      "jawaban": "Mandau",
+      "pertanyaan": "Senjata tradisional khas suku Dayak dari Kalimantan?",
+      "hint": "Merupakan sejenis parang dengan ukiran khas",
+      "hint2": "Dipercaya memiliki kekuatan magis oleh suku Dayak"
+    },
+    {
+      "jawaban": "Ondel-ondel",
+      "pertanyaan": "Boneka raksasa khas Betawi yang sering tampil dalam acara tradisional?",
+      "hint": "Tingginya bisa mencapai 2,5 meter",
+      "hint2": "Dianggap sebagai penolak bala"
+    },
+    {
+      "jawaban": "Pecel",
+      "pertanyaan": "Makanan khas Jawa yang terdiri dari sayuran dengan bumbu kacang?",
+      "hint": "Mirip dengan gado-gado tetapi bumbunya lebih kental",
+      "hint2": "Biasanya disajikan dengan lontong atau nasi"
+    },
+    {
+      "jawaban": "Quran",
+      "pertanyaan": "Kitab suci umat Islam yang pertama kali diterjemahkan ke bahasa daerah di Indonesia?",
+      "hint": "Terjemahan pertama dibuat ke bahasa Jawa oleh Kiai Saleh Darat",
+      "hint2": "Penulisan terjemahan ini menggunakan huruf Arab Pegon"
+    },
+    {
+      "jawaban": "Rinjani",
+      "pertanyaan": "Gunung berapi tertinggi kedua di Indonesia yang terletak di NTB?",
+      "hint": "Memiliki danau kawah bernama Segara Anak",
+      "hint2": "Termasuk dalam Taman Nasional Gunung Rinjani"
+    },
+    {
+      "jawaban": "Sasando",
+      "pertanyaan": "Alat musik tradisional dari NTT yang dimainkan dengan dipetik?",
+      "hint": "Terbuat dari daun lontar dengan dawai",
+      "hint2": "Bentuknya seperti harpa dalam wadah setengah lingkaran"
+    },
+    {
+      "jawaban": "Tifa",
+      "pertanyaan": "Alat musik pukul khas Papua yang bentuknya menyerupai gendang?",
+      "hint": "Terbuat dari kayu dengan membran kulit hewan",
+      "hint2": "Sering dimainkan dalam upacara adat"
+    },
+    {
+      "jawaban": "Ubud",
+      "pertanyaan": "Daerah di Bali yang terkenal sebagai pusat seni dan budaya?",
+      "hint": "Memiliki banyak galeri seni dan pertunjukan tari",
+      "hint2": "Lokasi Monkey Forest yang terkenal"
+    },
+    {
+      "jawaban": "VOC",
+      "pertanyaan": "Perusahaan dagang Belanda yang pernah memonopoli perdagangan di Nusantara?",
+      "hint": "Berdiri tahun 1602 dan bubar tahun 1799",
+      "hint2": "Kepanjangannya Vereenigde Oostindische Compagnie"
+    },
+    {
+      "jawaban": "Waringin",
+      "pertanyaan": "Pohon besar yang sering dijadikan simbol dalam lambang daerah di Jawa?",
+      "hint": "Disebut juga beringin",
+      "hint2": "Melambangkan perlindungan dan persatuan"
+    },
+    {
+      "jawaban": "Xenorhina",
+      "pertanyaan": "Genus katak endemik Papua yang memiliki moncong panjang?",
+      "hint": "Termasuk dalam famili Microhylidae",
+      "hint2": "Disebut juga katak hidung panjang Papua"
+    },
+    {
+      "jawaban": "Yogyakarta",
+      "pertanyaan": "Daerah Istimewa di Indonesia yang masih mempertahankan sistem kerajaan?",
+      "hint": "Ibukotanya juga bernama sama",
+      "hint2": "Memiliki keraton sebagai pusat budaya Jawa"
+    },
+    {
+      "jawaban": "Zamrud",
+      "pertanyaan": "Taman Nasional di Kalimantan Timur yang terkenal dengan danau-danaunya?",
+      "hint": "Nama resminya Taman Nasional Danau ...",
+      "hint2": "Merupakan habitat bekantan dan pesut mahakam"
+    },
+    {
+      "jawaban": "Aceh",
+      "pertanyaan": "Provinsi paling barat di Indonesia yang memiliki status khusus sebagai daerah istimewa?",
+      "hint": "Dikenal dengan julukan Serambi Mekkah",
+      "hint2": "Ibukotanya Banda Aceh"
+    },
+    {
+      "jawaban": "Bajigur",
+      "pertanyaan": "Minuman hangat khas Sunda dari santan dan gula aren?",
+      "hint": "Biasa disajikan dengan potongan roti atau singkong",
+      "hint2": "Nama lain dari 'susu kelapa'"
+    },
+    {
+      "jawaban": "Candi Peninggalan",
+      "pertanyaan": "Candi Muaro Jambi adalah kompleks ... terluas di Indonesia?",
+      "hint": "Terletak di Provinsi Jambi",
+      "hint2": "Peninggalan Kerajaan Sriwijaya"
+    },
+    {
+      "jawaban": "Dangdut",
+      "pertanyaan": "Genre musik asli Indonesia yang dipengaruhi musik India dan Melayu?",
+      "hint": "Dipelopori oleh Rhoma Irama",
+      "hint2": "Ciri khasnya adalah penggunaan gendang dan goyangan penyanyi"
+    },
+    {
+      "jawaban": "Ebeg",
+      "pertanyaan": "Kesenian tradisional Banyumas yang melibatkan boneka kuda dari anyaman bambu?",
+      "hint": "Termasuk jenis tari perang",
+      "hint2": "Pemainnya bisa mengalami trance (kerasukan)"
+    },
+    {
+      "jawaban": "Filosofi Jawa",
+      "pertanyaan": "Konsep 'Memayu Hayuning Bawana' dalam budaya Jawa berarti?",
+      "hint": "Berhubungan dengan menjaga harmoni alam semesta",
+      "hint2": "Artinya 'memperindah keindahan dunia'"
+    },
+    {
+      "jawaban": "Gajah Mada",
+      "pertanyaan": "Mahapatih Majapahit yang mengucapkan Sumpah Palapa?",
+      "hint": "Berjanji tidak akan makan palapa sebelum Nusantara bersatu",
+      "hint2": "Nama universitas terkenal di Yogyakarta"
+    },
+    {
+      "jawaban": "Hari Pahlawan",
+      "pertanyaan": "Peringatan 10 November berkaitan dengan pertempuran di Surabaya melawan sekutu tahun 1945 disebut?",
+      "hint": "Pertempuran besar pertama setelah proklamasi",
+      "hint2": "Dipelopori oleh Bung Tomo"
+    },
+    {
+      "jawaban": "Ikan Arwana",
+      "pertanyaan": "Ikan hias asli Kalimantan yang harganya bisa mencapai ratusan juta rupiah?",
+      "hint": "Disebut juga 'dragon fish'",
+      "hint2": "Warna khasnya merah atau emas"
+    },
+    {
+      "jawaban": "Jejamuran",
+      "pertanyaan": "Permainan tradisional Jawa yang menggunakan biji sawo untuk simulasi jamur?",
+      "hint": "Biasa dimainkan oleh anak perempuan",
+      "hint2": "Nama lain 'dakon jamur'"
+    },
+    {
+      "jawaban": "Kain Ulos",
+      "pertanyaan": "Kain tenun tradisional khas suku Batak?",
+      "hint": "Sering digunakan dalam upacara adat",
+      "hint2": "Motifnya bermakna filosofis"
+    },
+    {
+      "jawaban": "Lontong Balap",
+      "pertanyaan": "Makanan khas Surabaya yang terdiri dari lontong, taoge, lentho, dan kuah kecap?",
+      "hint": "Dijual oleh pedagang yang biasa 'balapan' tarik gerobak",
+      "hint2": "Pelengkapnya adalah sambal petis"
+    },
+    {
+      "jawaban": "Masjid Istiqlal",
+      "pertanyaan": "Masjid terbesar di Asia Tenggara yang terletak di Jakarta?",
+      "hint": "Dibangun atas prakarsa Presiden Sukarno",
+      "hint2": "Arsitekturnya kontras dengan Gereja Katedral di seberangnya"
+    },
+    {
+      "jawaban": "Noken",
+      "pertanyaan": "Tas tradisional Papua yang terbuat dari serat kayu?",
+      "hint": "Dibawa dengan kepala",
+      "hint2": "Diakui UNESCO sebagai Warisan Budaya Dunia"
+    },
+    {
+      "jawaban": "Ondel-ondel",
+      "pertanyaan": "Boneka raksasa khas Betawi yang sering tampil dalam acara tradisional?",
+      "hint": "Tingginya bisa mencapai 2,5 meter",
+      "hint2": "Dianggap sebagai penolak bala"
+    },
+    {
+      "jawaban": "Papeda",
+      "pertanyaan": "Makanan pokok khas Papua dan Maluku yang terbuat dari sagu?",
+      "hint": "Teksturnya lengket seperti lem",
+      "hint2": "Biasa disantap dengan ikan kuah kuning"
+    },
+    {
+      "jawaban": "Qasidah",
+      "pertanyaan": "Seni musik bernuansa Islami yang berkembang di Jawa?",
+      "hint": "Alat musik utamanya rebana",
+      "hint2": "Liriknya berisi pujian kepada Allah"
+    },
+    {
+      "jawaban": "Rumah Gadang",
+      "pertanyaan": "Rumah adat Minangkabau dengan atap seperti tanduk kerbau?",
+      "hint": "Atapnya melengkung ke atas",
+      "hint2": "Sistem kekerabatannya matrilineal"
+    },
+    {
+      "jawaban": "Sisingaan",
+      "pertanyaan": "Kesenian tradisional Subang yang melibatkan boneka singa?",
+      "hint": "Biasa dipentaskan untuk khitanan",
+      "hint2": "Anak yang disunat diarak di atas singa"
+    },
+    {
+      "jawaban": "Tari Topeng",
+      "pertanyaan": "Tarian tradisional Cirebon yang menggunakan topeng sebagai properti utama?",
+      "hint": "Mengisahkan cerita Panji",
+      "hint2": "Ada jenis topeng berbeda untuk karakter berbeda"
+    },
+    {
+      "jawaban": "Uang Kertas",
+      "pertanyaan": "Oeang Republik Indonesia (ORI) pertama kali diterbitkan tahun 1946 dalam bentuk?",
+      "hint": "Dikeluarkan oleh Pemerintah Darurat RI di Yogyakarta",
+      "hint2": "Nilai tertingginya saat itu 100 rupiah"
+    },
+    {
+      "jawaban": "Vihara",
+      "pertanyaan": "Tempat ibadah umat Buddha yang terkenal di Jakarta adalah Vihara ... di Petak Sembilan?",
+      "hint": "Merupakan vihara tertua di Jakarta",
+      "hint2": "Nama depannya berarti 'kebajikan dan kebajikan'"
+    },
+    {
+      "jawaban": "Wayang Beber",
+      "pertanyaan": "Jenis wayang tertua yang menampilkan gambar pada gulungan kertas?",
+      "hint": "Hampir punah, hanya tersisa di Pacitan dan Wonosari",
+      "hint2": "Diceritakan dengan cara membuka gulungan"
+    },
+    {
+      "jawaban": "Xylophone",
+      "pertanyaan": "Alat musik pukul kayu dari Minahasa disebut?",
+      "hint": "Terbuat dari bilah kayu yang disusun",
+      "hint2": "Nama lokalnya 'kolintang'"
+    },
+    {
+      "jawaban": "Yamko Rambe Yamko",
+      "pertanyaan": "Lagu daerah Papua yang sering dinyanyikan dengan semangat?",
+      "hint": "Judulnya diulang tiga kali",
+      "hint2": "Biasa dinyanyikan saat upacara adat"
+    },
+    {
+      "jawaban": "Ziarah",
+      "pertanyaan": "Tradisi nyekar di Jawa dilakukan dengan cara ... ke makam leluhur?",
+      "hint": "Biasa dilakukan sebelum Ramadan",
+      "hint2": "Membawa bunga dan doa"
+    },
+    {
+      "jawaban": "Ambon",
+      "pertanyaan": "Pulau di Maluku yang terkenal dengan pantai Natsepa dan upacara Cuci Negeri?",
+      "hint": "Ibukotanya bernama sama",
+      "hint2": "Disebut juga 'Pulau Manise'"
+    },
+    {
+      "jawaban": "Batik",
+      "pertanyaan": "Seni melukis kain dengan lilin yang diakui UNESCO sebagai Warisan Budaya?",
+      "hint": "Motifnya dibuat dengan teknik canting",
+      "hint2": "Setiap 2 Oktober diperingati sebagai Hari ... Nasional"
+    },
+    {
+      "jawaban": "Cirebon",
+      "pertanyaan": "Kota di Jawa Barat yang dikenal dengan keratonnya dan udang rebon?",
+      "hint": "Memiliki tiga keraton: Kasepuhan, Kanoman, Kacirebonan",
+      "hint2": "Makanan khasnya nasi jamblang"
+    },
+    {
+      "jawaban": "Dewi Sartika",
+      "pertanyaan": "Pahlawan perempuan dari Sunda yang mendirikan sekolah untuk perempuan?",
+      "hint": "Sekolahnya bernama Sakola Kautamaan Istri",
+      "hint2": "Wajahnya ada di uang Rp10.000 lama"
+    },
+    {
+      "jawaban": "Es Doger",
+      "pertanyaan": "Minuman dingin khas Betawi dari santan, alpukat, dan sirup merah?",
+      "hint": "Diberi topping roti tawar",
+      "hint2": "Mirip es campur tetapi lebih kental"
+    },
+    {
+      "jawaban": "Floating Market",
+      "pertanyaan": "Pasar apung tradisional di Banjarmasin disebut?",
+      "hint": "Berada di sungai Barito",
+      "hint2": "Pedagangnya menjual dari perahu"
+    },
+    {
+      "jawaban": "Gandrung",
+      "pertanyaan": "Tarian tradisional Banyuwangi yang dipentaskan sebagai bentuk syukur?",
+      "hint": "Penari utamanya perempuan dengan kostum warna-warni",
+      "hint2": "Diiringi musik khas Osing"
+    },
+    {
+      "jawaban": "Hudoq",
+      "pertanyaan": "Topeng ritual suku Dayak yang digunakan dalam upacara pertanian?",
+      "hint": "Bentuknya menyeramkan dengan taring",
+      "hint2": "Dipercaya mengusir hama"
+    },
+    {
+      "jawaban": "Itik Pulang Petang",
+      "pertanyaan": "Lagu daerah Sumatra Barat yang bercerita tentang?",
+      "hint": "Judulnya menggambarkan aktivitas itik",
+      "hint2": "Dinyanyikan dalam tempo lambat"
+    },
+    {
+      "jawaban": "Jaranan",
+      "pertanyaan": "Kesenian tradisional Jawa Timur dengan properti kuda tiruan?",
+      "hint": "Pemainnya bisa mengalami trance",
+      "hint2": "Diiringi gamelan sederhana"
+    },
+    {
+      "jawaban": "Kain Tapis",
+      "pertanyaan": "Kain tenun tradisional Lampung dengan sulaman benang emas?",
+      "hint": "Biasa digunakan dalam upacara adat",
+      "hint2": "Motifnya geometris"
+    },
+    {
+      "jawaban": "Lumpang Batu",
+      "pertanyaan": "Alat tradisional untuk menumbuk padi di Sumatra Barat disebut?",
+      "hint": "Terbuat dari batu besar",
+      "hint2": "Masih digunakan di beberapa nagari"
+    },
+    {
+      "jawaban": "Makassar",
+      "pertanyaan": "Kota terbesar di Sulawesi Selatan yang dulu bernama Ujung Pandang?",
+      "hint": "Pelabuhannya bernama Paotere",
+      "hint2": "Makanan khasnya coto ..."
+    },
+    {
+      "jawaban": "Nasi Padang",
+      "pertanyaan": "Hidangan khas Sumatra Barat yang disajikan dengan banyak lauk pauk?",
+      "hint": "Dihidangkan sekaligus dalam wadah kecil",
+      "hint2": "Restorannya ada di seluruh Indonesia"
+    },
+    {
+      "jawaban": "Ojek",
+      "pertanyaan": "Transportasi tradisional Indonesia dengan motor yang membawa penumpang?",
+      "hint": "Biasanya berwarna hijau atau oranye",
+      "hint2": "Sekarang ada versi online-nya"
+    },
+    {
+      "jawaban": "Pisang Ambon",
+      "pertanyaan": "Varietas pisang yang sering digunakan untuk membuat es teler?",
+      "hint": "Rasanya manis dengan tekstur lembut",
+      "hint2": "Warna kulitnya hijau kekuningan"
+    },
+    {
+      "jawaban": "Qasidah Modern",
+      "pertanyaan": "Genre musik religi yang dipopulerkan oleh grup seperti Nasida Ria?",
+      "hint": "Menggunakan rebana elektrik",
+      "hint2": "Liriknya bernuansa dakwah"
+    },
+    {
+      "jawaban": "Rumah Lamin",
+      "pertanyaan": "Rumah adat suku Dayak di Kalimantan Timur?",
+      "hint": "Berbentuk panjang dengan tiang tinggi",
+      "hint2": "Bisa dihuni oleh beberapa keluarga"
+    },
+    {
+      "jawaban": "Sop Konro",
+      "pertanyaan": "Makanan khas Makassar berupa sup iga sapi dengan kuah coklat?",
+      "hint": "Bumbu utamanya kluwak",
+      "hint2": "Biasa disajikan dengan buras"
+    },
+    {
+      "jawaban": "Tari Piring",
+      "pertanyaan": "Tarian tradisional Minangkabau dengan properti piring?",
+      "hint": "Penari mengayunkan piring tanpa terjatuh",
+      "hint2": "Awalnya ritual syukur panen"
+    },
+    {
+      "jawaban": "Ulos",
+      "pertanyaan": "Kain tenun khas Batak yang sering diberikan dalam acara pernikahan?",
+      "hint": "Melambangkan kasih sayang",
+      "hint2": "Ada berbagai jenis seperti Ragidup dan Ragihotang"
+    },
+    {
+      "jawaban": "Vespa",
+      "pertanyaan": "Kendaraan ikonik yang menjadi transportasi utama di Pontianak?",
+      "hint": "Berasal dari Italia",
+      "hint2": "Bentuknya klasik dengan bodi melengkung"
+    },
+    {
+      "jawaban": "Wayang Kulit",
+      "pertanyaan": "Jenis wayang yang terbuat dari kulit kerbau?",
+      "hint": "Dimainkan dengan bayangan di layar putih",
+      "hint2": "Dalangnya duduk di belakang kelir"
+    },
+    {
+      "jawaban": "Xylocarp",
+      "pertanyaan": "Buah mangrove khas Indonesia yang bisa dimakan?",
+      "hint": "Contohnya adalah buah pedada",
+      "hint2": "Biasa diolah menjadi sirup"
+    },
+    {
+      "jawaban": "Yogyakarta",
+      "pertanyaan": "Kota istimewa yang masih mempertahankan sistem kesultanan?",
+      "hint": "Dikenal dengan Malioboro",
+      "hint2": "Gudeg adalah makanannya yang terkenal"
+    },
+    {
+      "jawaban": "Zapin",
+      "pertanyaan": "Tarian Melayu yang dipengaruhi budaya Arab?",
+      "hint": "Diiringi musik gambus",
+      "hint2": "Berasal dari Riau"
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+[
+  {
+    "bendera": "🇿🇼",
+    "negara": "Zimbabwe",
+    "hint": "Negara di Afrika selatan dengan air terjun Victoria"
+  },
+  {
+    "bendera": "🇿🇲",
+    "negara": "Zambia",
+    "hint": "Negara tetangga Zimbabwe di Afrika"
+  },
+  {
+    "bendera": "🇾🇪",
+    "negara": "Yaman",
+    "hint": "Negara di Semenanjung Arab dengan ibu kota Sana'a"
+  },
+  {
+    "bendera": "🇪🇭",
+    "negara": "Sahara Barat",
+    "hint": "Wilayah di Afrika Utara dengan status sengketa"
+  },
+  {
+    "bendera": "🇼🇫",
+    "negara": "Wallis dan Futuna",
+    "hint": "Wilayah Prancis di Pasifik Selatan"
+  },
+  {
+    "bendera": "🇻🇳",
+    "negara": "Vietnam",
+    "hint": "Negara di Asia Tenggara dengan ibu kota Hanoi"
+  },
+  {
+    "bendera": "🇻🇪",
+    "negara": "Venezuela",
+    "hint": "Negara di Amerika Selatan dengan cadangan minyak besar"
+  },
+  {
+    "bendera": "🇻🇦",
+    "negara": "Vatikan",
+    "hint": "Negara kota terkecil di dunia, pusat Gereja Katolik"
+  },
+  {
+    "bendera": "🇻🇺",
+    "negara": "Vanuatu",
+    "hint": "Negara kepulauan di Pasifik Selatan"
+  },
+  {
+    "bendera": "🇺🇿",
+    "negara": "Uzbekistan",
+    "hint": "Negara di Asia Tengah dengan kota bersejarah Samarkand"
+  },
+  {
+    "bendera": "🇺🇾",
+    "negara": "Uruguay",
+    "hint": "Negara kecil di Amerika Selatan dengan ibu kota Montevideo"
+  },
+  {
+    "bendera": "🏴󠁵󠁳󠁴󠁸󠁿",
+    "negara": "Texas",
+    "hint": "Negara bagian AS, bukan negara berdaulat, dikenal sebagai Lone Star State"
+  },
+  {
+    "bendera": "🇺🇸",
+    "negara": "Amerika Serikat",
+    "hint": "Negara dengan 50 negara bagian dan ibu kota Washington, D.C."
+  },
+  {
+    "bendera": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "negara": "Wales",
+    "hint": "Bagian dari Britania Raya, dikenal dengan naga merah"
+  },
+  {
+    "bendera": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "negara": "Skotlandia",
+    "hint": "Bagian dari Britania Raya, dikenal dengan kilt dan Loch Ness"
+  },
+  {
+    "bendera": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "negara": "Inggris",
+    "hint": "Bagian dari Britania Raya, ibu kota London"
+  },
+  {
+    "bendera": "🇬🇧",
+    "negara": "Britania Raya",
+    "hint": "Negara yang mencakup Inggris, Skotlandia, Wales, dan Irlandia Utara"
+  },
+  {
+    "bendera": "🇦🇪",
+    "negara": "Uni Emirat Arab",
+    "hint": "Negara di Teluk Persia dengan kota Dubai"
+  },
+  {
+    "bendera": "🇺🇦",
+    "negara": "Ukraina",
+    "hint": "Negara di Eropa Timur dengan ibu kota Kyiv"
+  },
+  {
+    "bendera": "🇺🇬",
+    "negara": "Uganda",
+    "hint": "Negara di Afrika Timur, dikenal sebagai Mutiara Afrika"
+  },
+  {
+    "bendera": "🇻🇮",
+    "negara": "Kepulauan Virgin Amerika",
+    "hint": "Wilayah AS di Karibia"
+  },
+  {
+    "bendera": "🇹🇻",
+    "negara": "Tuvalu",
+    "hint": "Negara kepulauan kecil di Pasifik"
+  },
+  {
+    "bendera": "🇹🇨",
+    "negara": "Kepulauan Turks dan Caicos",
+    "hint": "Wilayah Inggris di Karibia"
+  },
+  {
+    "bendera": "🇹🇲",
+    "negara": "Turkmenistan",
+    "hint": "Negara di Asia Tengah dengan ibu kota Ashgabat"
+  },
+  {
+    "bendera": "🇹🇷",
+    "negara": "Turki",
+    "hint": "Negara yang menghubungkan Eropa dan Asia, ibu kota Ankara"
+  },
+  {
+    "bendera": "🇹🇳",
+    "negara": "Tunisia",
+    "hint": "Negara di Afrika Utara dengan situs bersejarah Carthage"
+  },
+  {
+    "bendera": "🇹🇹",
+    "negara": "Trinidad dan Tobago",
+    "hint": "Negara kepulauan di Karibia, dikenal dengan karnaval"
+  },
+  {
+    "bendera": "🇹🇴",
+    "negara": "Tonga",
+    "hint": "Kerajaan di Pasifik Selatan"
+  },
+  {
+    "bendera": "🇹🇰",
+    "negara": "Tokelau",
+    "hint": "Wilayah Selandia Baru di Pasifik"
+  },
+  {
+    "bendera": "🇹🇬",
+    "negara": "Togo",
+    "hint": "Negara kecil di Afrika Barat"
+  },
+  {
+    "bendera": "🇹🇱",
+    "negara": "Timor Leste",
+    "hint": "Negara muda di Asia Tenggara, ibu kota Dili"
+  },
+  {
+    "bendera": "🇹🇭",
+    "negara": "Thailand",
+    "hint": "Negara di Asia Tenggara, dikenal sebagai Negeri Senyuman"
+  },
+  {
+    "bendera": "🇹🇿",
+    "negara": "Tanzania",
+    "hint": "Negara di Afrika Timur dengan Gunung Kilimanjaro"
+  },
+  {
+    "bendera": "🇹🇯",
+    "negara": "Tajikistan",
+    "hint": "Negara pegunungan di Asia Tengah"
+  },
+  {
+    "bendera": "🇹🇼",
+    "negara": "Taiwan",
+    "hint": "Pulau di Asia Timur dengan ibu kota Taipei"
+  },
+  {
+    "bendera": "🇸🇾",
+    "negara": "Suriah",
+    "hint": "Negara di Timur Tengah dengan kota bersejarah Damaskus"
+  },
+  {
+    "bendera": "🇨🇭",
+    "negara": "Swiss",
+    "hint": "Negara di Eropa dengan Pegunungan Alpen"
+  },
+  {
+    "bendera": "🇸🇪",
+    "negara": "Swedia",
+    "hint": "Negara Nordik dengan ibu kota Stockholm"
+  },
+  {
+    "bendera": "🇸🇷",
+    "negara": "Suriname",
+    "hint": "Negara kecil di Amerika Selatan, bekas koloni Belanda"
+  },
+  {
+    "bendera": "🇸🇩",
+    "negara": "Sudan",
+    "hint": "Negara di Afrika dengan Sungai Nil"
+  },
+  {
+    "bendera": "🇻🇨",
+    "negara": "Saint Vincent dan Grenadines",
+    "hint": "Negara kepulauan di Karibia"
+  },
+  {
+    "bendera": "🇵🇲",
+    "negara": "Saint Pierre dan Miquelon",
+    "hint": "Wilayah Prancis di Amerika Utara"
+  },
+  {
+    "bendera": "🇱🇨",
+    "negara": "Saint Lucia",
+    "hint": "Negara kepulauan di Karibia dengan gunung kembar Pitons"
+  },
+  {
+    "bendera": "🇰🇳",
+    "negara": "Saint Kitts dan Nevis",
+    "hint": "Negara terkecil di Amerika"
+  },
+  {
+    "bendera": "🇸🇭",
+    "negara": "Saint Helena",
+    "hint": "Wilayah Inggris di Atlantik Selatan"
+  },
+  {
+    "bendera": "🇧🇱",
+    "negara": "Saint Barthelemy",
+    "hint": "Wilayah Prancis di Karibia"
+  },
+  {
+    "bendera": "🇱🇰",
+    "negara": "Sri Lanka",
+    "hint": "Negara pulau di Samudra Hindia"
+  },
+  {
+    "bendera": "🇪🇸",
+    "negara": "Spanyol",
+    "hint": "Negara di Eropa dengan ibu kota Madrid"
+  },
+  {
+    "bendera": "🇸🇸",
+    "negara": "Sudan Selatan",
+    "hint": "Negara termuda di dunia, ibu kota Juba"
+  },
+  {
+    "bendera": "🇰🇷",
+    "negara": "Korea Selatan",
+    "hint": "Negara di Asia Timur, dikenal dengan K-pop"
+  },
+  {
+    "bendera": "🇿🇦",
+    "negara": "Afrika Selatan",
+    "hint": "Negara di ujung selatan Afrika"
+  },
+  {
+    "bendera": "🇸🇴",
+    "negara": "Somalia",
+    "hint": "Negara di Tanduk Afrika"
+  },
+  {
+    "bendera": "🇸🇧",
+    "negara": "Kepulauan Solomon",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇬🇸",
+    "negara": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+    "hint": "Wilayah Inggris di Atlantik Selatan"
+  },
+  {
+    "bendera": "🇸🇮",
+    "negara": "Slovenia",
+    "hint": "Negara di Eropa Tengah dengan Danau Bled"
+  },
+  {
+    "bendera": "🇸🇰",
+    "negara": "Slovakia",
+    "hint": "Negara di Eropa Tengah dengan ibu kota Bratislava"
+  },
+  {
+    "bendera": "🇸🇽",
+    "negara": "Sint Maarten",
+    "hint": "Wilayah Belanda di Karibia"
+  },
+  {
+    "bendera": "🇸🇬",
+    "negara": "Singapura",
+    "hint": "Negara kota di Asia Tenggara"
+  },
+  {
+    "bendera": "🇸🇱",
+    "negara": "Sierra Leone",
+    "hint": "Negara di Afrika Barat dengan ibu kota Freetown"
+  },
+  {
+    "bendera": "🇸🇨",
+    "negara": "Seychelles",
+    "hint": "Negara kepulauan di Samudra Hindia"
+  },
+  {
+    "bendera": "🇷🇸",
+    "negara": "Serbia",
+    "hint": "Negara di Balkan dengan ibu kota Beograd"
+  },
+  {
+    "bendera": "🇸🇳",
+    "negara": "Senegal",
+    "hint": "Negara di Afrika Barat dengan ibu kota Dakar"
+  },
+  {
+    "bendera": "🇸🇦",
+    "negara": "Arab Saudi",
+    "hint": "Negara di Timur Tengah, rumah bagi Mekah"
+  },
+  {
+    "bendera": "🇸🇹",
+    "negara": "Sao Tome dan Principe",
+    "hint": "Negara kepulauan di Teluk Guinea"
+  },
+  {
+    "bendera": "🇸🇲",
+    "negara": "San Marino",
+    "hint": "Negara kecil di dalam Italia"
+  },
+  {
+    "bendera": "🇼🇸",
+    "negara": "Samoa",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇷🇼",
+    "negara": "Rwanda",
+    "hint": "Negara di Afrika Timur, dikenal sebagai Negeri Seribu Bukit"
+  },
+  {
+    "bendera": "🇷🇺",
+    "negara": "Rusia",
+    "hint": "Negara terbesar di dunia, ibu kota Moskow"
+  },
+  {
+    "bendera": "🇷🇴",
+    "negara": "Rumania",
+    "hint": "Negara di Eropa Timur dengan kastil Dracula"
+  },
+  {
+    "bendera": "🇷🇪",
+    "negara": "Reunion",
+    "hint": "Wilayah Prancis di Samudra Hindia"
+  },
+  {
+    "bendera": "🇶🇦",
+    "negara": "Qatar",
+    "hint": "Negara kaya di Teluk Persia, ibu kota Doha"
+  },
+  {
+    "bendera": "🇵🇷",
+    "negara": "Puerto Riko",
+    "hint": "Wilayah AS di Karibia"
+  },
+  {
+    "bendera": "🇵🇹",
+    "negara": "Portugal",
+    "hint": "Negara di Eropa Barat dengan ibu kota Lisboa"
+  },
+  {
+    "bendera": "🇵🇱",
+    "negara": "Polandia",
+    "hint": "Negara di Eropa Tengah dengan ibu kota Warsawa"
+  },
+  {
+    "bendera": "🇵🇳",
+    "negara": "Kepulauan Pitcairn",
+    "hint": "Wilayah Inggris di Pasifik"
+  },
+  {
+    "bendera": "🇵🇭",
+    "negara": "Filipina",
+    "hint": "Negara kepulauan di Asia Tenggara"
+  },
+  {
+    "bendera": "🇵🇪",
+    "negara": "Peru",
+    "hint": "Negara di Amerika Selatan dengan Machu Picchu"
+  },
+  {
+    "bendera": "🇵🇾",
+    "negara": "Paraguay",
+    "hint": "Negara di Amerika Selatan tanpa garis pantai"
+  },
+  {
+    "bendera": "🇵🇬",
+    "negara": "Papua Nugini",
+    "hint": "Negara di Oseania dengan ibu kota Port Moresby"
+  },
+  {
+    "bendera": "🇵🇦",
+    "negara": "Panama",
+    "hint": "Negara dengan kanal terkenal"
+  },
+  {
+    "bendera": "🇵🇸",
+    "negara": "Palestina",
+    "hint": "Negara dengan status pengamat PBB, ibu kota Ramallah"
+  },
+  {
+    "bendera": "🇵🇼",
+    "negara": "Palau",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇵🇰",
+    "negara": "Pakistan",
+    "hint": "Negara di Asia Selatan dengan ibu kota Islamabad"
+  },
+  {
+    "bendera": "🇴🇲",
+    "negara": "Oman",
+    "hint": "Negara di Semenanjung Arab dengan ibu kota Muscat"
+  },
+  {
+    "bendera": "🇳🇴",
+    "negara": "Norwegia",
+    "hint": "Negara Nordik dengan fjord indah"
+  },
+  {
+    "bendera": "🇲🇵",
+    "negara": "Kepulauan Mariana Utara",
+    "hint": "Wilayah AS di Pasifik"
+  },
+  {
+    "bendera": "🇲🇰",
+    "negara": "Makedonia Utara",
+    "hint": "Negara di Balkan dengan ibu kota Skopje"
+  },
+  {
+    "bendera": "🇰🇵",
+    "negara": "Korea Utara",
+    "hint": "Negara di Asia Timur dengan ibu kota Pyongyang"
+  },
+  {
+    "bendera": "🇳🇫",
+    "negara": "Kepulauan Norfolk",
+    "hint": "Wilayah Australia di Pasifik"
+  },
+  {
+    "bendera": "🇳🇺",
+    "negara": "Niue",
+    "hint": "Negara kecil di Pasifik, terkait dengan Selandia Baru"
+  },
+  {
+    "bendera": "🇳🇬",
+    "negara": "Nigeria",
+    "hint": "Negara terpadat di Afrika"
+  },
+  {
+    "bendera": "🇳🇪",
+    "negara": "Niger",
+    "hint": "Negara di Afrika Barat dengan ibu kota Niamey"
+  },
+  {
+    "bendera": "🇳🇮",
+    "negara": "Nikaragua",
+    "hint": "Negara di Amerika Tengah dengan ibu kota Managua"
+  },
+  {
+    "bendera": "🇳🇿",
+    "negara": "Selandia Baru",
+    "hint": "Negara di Oseania dengan ibu kota Wellington"
+  },
+  {
+    "bendera": "🇳🇨",
+    "negara": "Kaledonia Baru",
+    "hint": "Wilayah Prancis di Pasifik"
+  },
+  {
+    "bendera": "🇳🇱",
+    "negara": "Belanda",
+    "hint": "Negara di Eropa dengan ibu kota Amsterdam"
+  },
+  {
+    "bendera": "🇳🇵",
+    "negara": "Nepal",
+    "hint": "Negara dengan Gunung Everest"
+  },
+  {
+    "bendera": "🇳🇷",
+    "negara": "Nauru",
+    "hint": "Negara pulau terkecil di dunia"
+  },
+  {
+    "bendera": "🇳🇦",
+    "negara": "Namibia",
+    "hint": "Negara di Afrika dengan Gurun Namib"
+  },
+  {
+    "bendera": "🇲🇲",
+    "negara": "Myanmar",
+    "hint": "Negara di Asia Tenggara dengan ibu kota Naypyidaw"
+  },
+  {
+    "bendera": "🇲🇿",
+    "negara": "Mozambik",
+    "hint": "Negara di Afrika Timur dengan pantai panjang"
+  },
+  {
+    "bendera": "🇲🇦",
+    "negara": "Maroko",
+    "hint": "Negara di Afrika Utara dengan kota Marrakesh"
+  },
+  {
+    "bendera": "🇲🇸",
+    "negara": "Montserrat",
+    "hint": "Wilayah Inggris di Karibia"
+  },
+  {
+    "bendera": "🇲🇪",
+    "negara": "Montenegro",
+    "hint": "Negara di Balkan dengan ibu kota Podgorica"
+  },
+  {
+    "bendera": "🇲🇳",
+    "negara": "Mongolia",
+    "hint": "Negara di Asia dengan ibu kota Ulan Bator"
+  },
+  {
+    "bendera": "🇲🇨",
+    "negara": "Monako",
+    "hint": "Negara kecil di Eropa, dikenal dengan Monte Carlo"
+  },
+  {
+    "bendera": "🇲🇩",
+    "negara": "Moldova",
+    "hint": "Negara di Eropa Timur dengan ibu kota Chișinău"
+  },
+  {
+    "bendera": "🇫🇲",
+    "negara": "Mikronesia",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇲🇽",
+    "negara": "Meksiko",
+    "hint": "Negara di Amerika Utara dengan piramida Aztec"
+  },
+  {
+    "bendera": "🇾🇹",
+    "negara": "Mayotte",
+    "hint": "Wilayah Prancis di Samudra Hindia"
+  },
+  {
+    "bendera": "🇲🇺",
+    "negara": "Mauritius",
+    "hint": "Negara pulau di Samudra Hindia"
+  },
+  {
+    "bendera": "🇲🇷",
+    "negara": "Mauritania",
+    "hint": "Negara di Afrika Barat dengan ibu kota Nouakchott"
+  },
+  {
+    "bendera": "🇲🇶",
+    "negara": "Martinik",
+    "hint": "Wilayah Prancis di Karibia"
+  },
+  {
+    "bendera": "🇲🇭",
+    "negara": "Kepulauan Marshall",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇲🇹",
+    "negara": "Malta",
+    "hint": "Negara pulau di Mediterania"
+  },
+  {
+    "bendera": "🇲🇱",
+    "negara": "Mali",
+    "hint": "Negara di Afrika Barat dengan kota Timbuktu"
+  },
+  {
+    "bendera": "🇲🇻",
+    "negara": "Maladewa",
+    "hint": "Negara kepulauan di Samudra Hindia"
+  },
+  {
+    "bendera": "🇲🇾",
+    "negara": "Malaysia",
+    "hint": "Negara di Asia Tenggara dengan Menara Kembar Petronas"
+  },
+  {
+    "bendera": "🇲🇼",
+    "negara": "Malawi",
+    "hint": "Negara di Afrika dengan Danau Malawi"
+  },
+  {
+    "bendera": "🇲🇬",
+    "negara": "Madagaskar",
+    "hint": "Pulau besar di Afrika dengan flora dan fauna unik"
+  },
+  {
+    "bendera": "🇲🇴",
+    "negara": "Makau",
+    "hint": "Wilayah khusus Tiongkok, dikenal dengan kasino"
+  },
+  {
+    "bendera": "🇱🇺",
+    "negara": "Luksemburg",
+    "hint": "Negara kecil di Eropa dengan ibu kota Luksemburg"
+  },
+  {
+    "bendera": "🇱🇹",
+    "negara": "Lituania",
+    "hint": "Negara Baltik dengan ibu kota Vilnius"
+  },
+  {
+    "bendera": "🇱🇮",
+    "negara": "Liechtenstein",
+    "hint": "Negara kecil di antara Swiss dan Austria"
+  },
+  {
+    "bendera": "🇱🇾",
+    "negara": "Libya",
+    "hint": "Negara di Afrika Utara dengan ibu kota Tripoli"
+  },
+  {
+    "bendera": "🇱🇷",
+    "negara": "Liberia",
+    "hint": "Negara di Afrika Barat, didirikan oleh mantan budak AS"
+  },
+  {
+    "bendera": "🇱🇸",
+    "negara": "Lesotho",
+    "hint": "Kerajaan di dalam Afrika Selatan"
+  },
+  {
+    "bendera": "🇱🇧",
+    "negara": "Lebanon",
+    "hint": "Negara di Timur Tengah dengan pohon cedar"
+  },
+  {
+    "bendera": "🇱🇻",
+    "negara": "Latvia",
+    "hint": "Negara Baltik dengan ibu kota Riga"
+  },
+  {
+    "bendera": "🇱🇦",
+    "negara": "Laos",
+    "hint": "Negara di Asia Tenggara tanpa garis pantai"
+  },
+  {
+    "bendera": "🇰🇬",
+    "negara": "Kirgisistan",
+    "hint": "Negara di Asia Tengah dengan ibu kota Bishkek"
+  },
+  {
+    "bendera": "🇰🇼",
+    "negara": "Kuwait",
+    "hint": "Negara kaya minyak di Teluk Persia"
+  },
+  {
+    "bendera": "🇽🇰",
+    "negara": "Kosovo",
+    "hint": "Negara di Balkan dengan pengakuan terbatas"
+  },
+  {
+    "bendera": "🇰🇮",
+    "negara": "Kiribati",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇰🇪",
+    "negara": "Kenya",
+    "hint": "Negara di Afrika Timur dengan safari savana"
+  },
+  {
+    "bendera": "🇰🇿",
+    "negara": "Kazakhstan",
+    "hint": "Negara luas di Asia Tengah"
+  },
+  {
+    "bendera": "🇯🇴",
+    "negara": "Yordania",
+    "hint": "Negara di Timur Tengah dengan kota Petra"
+  },
+  {
+    "bendera": "🇯🇪",
+    "negara": "Jersey",
+    "hint": "Wilayah dependensi Inggris di Kepulauan Channel"
+  },
+  {
+    "bendera": "🇯🇵",
+    "negara": "Jepang",
+    "hint": "Negara di Asia Timur dengan budaya samurai"
+  },
+  {
+    "bendera": "🇯🇲",
+    "negara": "Jamaika",
+    "hint": "Negara di Karibia, dikenal dengan reggae"
+  },
+  {
+    "bendera": "🇮🇹",
+    "negara": "Italia",
+    "hint": "Negara di Eropa dengan Colosseum"
+  },
+  {
+    "bendera": "🇮🇱",
+    "negara": "Israel",
+    "hint": "Negara di Timur Tengah dengan ibu kota Yerusalem"
+  },
+  {
+    "bendera": "🇮🇲",
+    "negara": "Pulau Man",
+    "hint": "Wilayah dependensi Inggris di Laut Irlandia"
+  },
+  {
+    "bendera": "🇮🇪",
+    "negara": "Irlandia",
+    "hint": "Negara di Eropa dengan ibu kota Dublin"
+  },
+  {
+    "bendera": "🇮🇶",
+    "negara": "Irak",
+    "hint": "Negara di Timur Tengah dengan Sungai Tigris"
+  },
+  {
+    "bendera": "🇮🇷",
+    "negara": "Iran",
+    "hint": "Negara di Timur Tengah dengan sejarah Persia"
+  },
+  {
+    "bendera": "🇮🇩",
+    "negara": "Indonesia",
+    "hint": "Negara kepulauan terbesar di dunia"
+  },
+  {
+    "bendera": "🇮🇳",
+    "negara": "India",
+    "hint": "Negara di Asia Selatan dengan Taj Mahal"
+  },
+  {
+    "bendera": "🇮🇸",
+    "negara": "Islandia",
+    "hint": "Negara Nordik dengan aurora borealis"
+  },
+  {
+    "bendera": "🇭🇺",
+    "negara": "Hongaria",
+    "hint": "Negara di Eropa Tengah dengan ibu kota Budapest"
+  },
+  {
+    "bendera": "🇭🇰",
+    "negara": "Hong Kong",
+    "hint": "Wilayah khusus Tiongkok dengan cakrawala modern"
+  },
+  {
+    "bendera": "🇭🇳",
+    "negara": "Honduras",
+    "hint": "Negara di Amerika Tengah dengan reruntuhan Maya"
+  },
+  {
+    "bendera": "🇭🇹",
+    "negara": "Haiti",
+    "hint": "Negara di Karibia, berbagi pulau dengan Republik Dominika"
+  },
+  {
+    "bendera": "🇬🇾",
+    "negara": "Guyana",
+    "hint": "Negara di Amerika Selatan dengan hutan hujan"
+  },
+  {
+    "bendera": "🇬🇼",
+    "negara": "Guinea-Bissau",
+    "hint": "Negara kecil di Afrika Barat"
+  },
+  {
+    "bendera": "🇬🇳",
+    "negara": "Guinea",
+    "hint": "Negara di Afrika Barat dengan ibu kota Conakry"
+  },
+  {
+    "bendera": "🇬🇬",
+    "negara": "Guernsey",
+    "hint": "Wilayah dependensi Inggris di Kepulauan Channel"
+  },
+  {
+    "bendera": "🇬🇹",
+    "negara": "Guatemala",
+    "hint": "Negara di Amerika Tengah dengan warisan Maya"
+  },
+  {
+    "bendera": "🇬🇺",
+    "negara": "Guam",
+    "hint": "Wilayah AS di Pasifik"
+  },
+  {
+    "bendera": "🇬🇵",
+    "negara": "Guadeloupe",
+    "hint": "Wilayah Prancis di Karibia"
+  },
+  {
+    "bendera": "🇬🇩",
+    "negara": "Grenada",
+    "hint": "Negara kepulauan di Karibia, dikenal sebagai Pulau Rempah"
+  },
+  {
+    "bendera": "🇬🇱",
+    "negara": "Greenland",
+    "hint": "Wilayah Denmark di Arktik"
+  },
+  {
+    "bendera": "🇬🇷",
+    "negara": "Yunani",
+    "hint": "Negara di Eropa dengan Parthenon"
+  },
+  {
+    "bendera": "🇬🇮",
+    "negara": "Gibraltar",
+    "hint": "Wilayah Inggris di ujung Spanyol"
+  },
+  {
+    "bendera": "🇬🇭",
+    "negara": "Ghana",
+    "hint": "Negara di Afrika Barat dengan sejarah kemerdekaan"
+  },
+  {
+    "bendera": "🇩🇪",
+    "negara": "Jerman",
+    "hint": "Negara di Eropa dengan ibu kota Berlin"
+  },
+  {
+    "bendera": "🇬🇪",
+    "negara": "Georgia",
+    "hint": "Negara di Kaukasus dengan ibu kota Tbilisi"
+  },
+  {
+    "bendera": "🇬🇲",
+    "negara": "Gambia",
+    "hint": "Negara terkecil di Afrika daratan"
+  },
+  {
+    "bendera": "🇬🇦",
+    "negara": "Gabon",
+    "hint": "Negara di Afrika Tengah dengan hutan tropis"
+  },
+  {
+    "bendera": "🇹🇫",
+    "negara": "Wilayah Selatan dan Antartika Prancis",
+    "hint": "Wilayah Prancis di Antartika"
+  },
+  {
+    "bendera": "🇵🇫",
+    "negara": "Polinesia Prancis",
+    "hint": "Wilayah Prancis di Pasifik dengan Tahiti"
+  },
+  {
+    "bendera": "🇬🇫",
+    "negara": "Guyana Prancis",
+    "hint": "Wilayah Prancis di Amerika Selatan"
+  },
+  {
+    "bendera": "🇫🇷",
+    "negara": "Prancis",
+    "hint": "Negara di Eropa dengan Menara Eiffel"
+  },
+  {
+    "bendera": "🇫🇮",
+    "negara": "Finlandia",
+    "hint": "Negara Nordik dengan ribuan danau"
+  },
+  {
+    "bendera": "🇫🇯",
+    "negara": "Fiji",
+    "hint": "Negara kepulauan di Pasifik"
+  },
+  {
+    "bendera": "🇫🇴",
+    "negara": "Kepulauan Faroe",
+    "hint": "Wilayah Denmark di Atlantik Utara"
+  },
+  {
+    "bendera": "🇫🇰",
+    "negara": "Kepulauan Falkland",
+    "hint": "Wilayah Inggris di Atlantik Selatan"
+  },
+  {
+    "bendera": "🇪🇺",
+    "negara": "Uni Eropa",
+    "hint": "Bukan negara, melainkan organisasi Eropa"
+  },
+  {
+    "bendera": "🇪🇹",
+    "negara": "Ethiopia",
+    "hint": "Negara di Afrika Timur dengan sejarah kuno"
+  },
+  {
+    "bendera": "🇸🇿",
+    "negara": "Eswatini",
+    "hint": "Kerajaan kecil di Afrika Selatan"
+  },
+  {
+    "bendera": "🇪🇪",
+    "negara": "Estonia",
+    "hint": "Negara Baltik dengan ibu kota Tallinn"
+  },
+  {
+    "bendera": "🇪🇷",
+    "negara": "Eritrea",
+    "hint": "Negara di Tanduk Afrika"
+  },
+  {
+    "bendera": "🇬🇶",
+    "negara": "Guinea Khatulistiwa",
+    "hint": "Negara kecil di Afrika Tengah"
+  },
+  {
+    "bendera": "🇸🇻",
+    "negara": "El Salvador",
+    "hint": "Negara kecil di Amerika Tengah"
+  },
+  {
+    "bendera": "🇪🇬",
+    "negara": "Mesir",
+    "hint": "Negara dengan piramida Giza"
+  },
+  {
+    "bendera": "🇪🇨",
+    "negara": "Ekuador",
+    "hint": "Negara dengan Kepulauan Galapagos"
+  },
+  {
+    "bendera": "🇩🇴",
+    "negara": "Republik Dominika",
+    "hint": "Negara di Karibia, berbagi pulau dengan Haiti"
+  },
+  {
+    "bendera": "🇩🇲",
+    "negara": "Dominika",
+    "hint": "Negara kepulauan di Karibia"
+  },
+  {
+    "bendera": "🇩🇯",
+    "negara": "Djibouti",
+    "hint": "Negara kecil di Tanduk Afrika"
+  },
+  {
+    "bendera": "🇩🇰",
+    "negara": "Denmark",
+    "hint": "Negara Nordik dengan ibu kota Kopenhagen"
+  },
+  {
+    "bendera": "🇨🇿",
+    "negara": "Ceko",
+    "hint": "Negara di Eropa Tengah dengan kastil Praha"
+  },
+  {
+    "bendera": "🇨🇾",
+    "negara": "Siprus",
+    "hint": "Negara pulau di Mediterania"
+  },
+  {
+    "bendera": "🇨🇼",
+    "negara": "Curaçao",
+    "hint": "Wilayah Belanda di Karibia"
+  },
+  {
+    "bendera": "🇨🇺",
+    "negara": "Kuba",
+    "hint": "Negara di Karibia dengan ibu kota Havana"
+  },
+  {
+    "bendera": "🇭🇷",
+    "negara": "Kroasia",
+    "hint": "Negara di Balkan dengan pantai Dalmatia"
+  },
+  {
+    "bendera": "🇨🇮",
+    "negara": "Pantai Gading",
+    "hint": "Negara di Afrika Barat dengan kakao"
+  },
+  {
+    "bendera": "🇨🇷",
+    "negara": "Kosta Rika",
+    "hint": "Negara di Amerika Tengah dengan ekowisata"
+  },
+  {
+    "bendera": "🇨🇰",
+    "negara": "Kepulauan Cook",
+    "hint": "Negara terkait Selandia Baru di Pasifik"
+  },
+  {
+    "bendera": "🇨🇩",
+    "negara": "Republik Demokratik Kongo",
+    "hint": "Negara besar di Afrika Tengah"
+  },
+  {
+    "bendera": "🇨🇬",
+    "negara": "Republik Kongo",
+    "hint": "Negara di Afrika Tengah, tetangga DRC"
+  },
+  {
+    "bendera": "🇰🇲",
+    "negara": "Komoro",
+    "hint": "Negara kepulauan di Samudra Hindia"
+  },
+  {
+    "bendera": "🇨🇴",
+    "negara": "Kolombia",
+    "hint": "Negara di Amerika Selatan dengan kopi"
+  },
+  {
+    "bendera": "🇨🇨",
+    "negara": "Kepulauan Cocos (Keeling)",
+    "hint": "Wilayah Australia di Samudra Hindia"
+  },
+  {
+    "bendera": "🇨🇽",
+    "negara": "Pulau Natal",
+    "hint": "Wilayah Australia di Samudra Hindia"
+  },
+  {
+    "bendera": "🇨🇳",
+    "negara": "Tiongkok",
+    "hint": "Negara terpadat di dunia dengan Tembok Besar"
+  },
+  {
+    "bendera": "🇨🇱",
+    "negara": "Chili",
+    "hint": "Negara panjang di Amerika Selatan"
+  },
+  {
+    "bendera": "🇮🇴",
+    "negara": "Wilayah Samudra Hindia Britania",
+    "hint": "Wilayah Inggris dengan Pulau Diego Garcia"
+  },
+  {
+    "bendera": "🇹🇩",
+    "negara": "Chad",
+    "hint": "Negara di Afrika Tengah dengan Danau Chad"
+  },
+  {
+    "bendera": "🇨🇫",
+    "negara": "Republik Afrika Tengah",
+    "hint": "Negara di Afrika Tengah dengan ibu kota Bangui"
+  },
+  {
+    "bendera": "🇰🇾",
+    "negara": "Kepulauan Cayman",
+    "hint": "Wilayah Inggris di Karibia"
+  },
+  {
+    "bendera": "🇧🇶",
+    "negara": "Bonaire, Sint Eustatius, dan Saba",
+    "hint": "Wilayah Belanda di Karibia"
+  },
+  {
+    "bendera": "🇨🇻",
+    "negara": "Tanjung Verde",
+    "hint": "Negara kepulauan di Atlantik"
+  },
+  {
+    "bendera": "🇮🇨",
+    "negara": "Kepulauan Canary",
+    "hint": "Wilayah Spanyol di Atlantik"
+  },
+  {
+    "bendera": "🇨🇦",
+    "negara": "Kanada",
+    "hint": "Negara di Amerika Utara dengan daun maple"
+  },
+  {
+    "bendera": "🇨🇲",
+    "negara": "Kamerun",
+    "hint": "Negara di Afrika Tengah dengan Gunung Kamerun"
+  },
+  {
+    "bendera": "🇰🇭",
+    "negara": "Kamboja",
+    "hint": "Negara di Asia Tenggara dengan Angkor Wat"
+  },
+  {
+    "bendera": "🇧🇮",
+    "negara": "Burundi",
+    "hint": "Negara kecil di Afrika Timur"
+  },
+  {
+    "bendera": "🇧🇫",
+    "negara": "Burkina Faso",
+    "hint": "Negara di Afrika Barat dengan ibu kota Ouagadougou"
+  },
+  {
+    "bendera": "🇧🇬",
+    "negara": "Bulgaria",
+    "hint": "Negara di Balkan dengan ibu kota Sofia"
+  },
+  {
+    "bendera": "🇧🇳",
+    "negara": "Brunei",
+    "hint": "Negara kecil di Asia Tenggara dengan kekayaan minyak"
+  },
+  {
+    "bendera": "🇻🇬",
+    "negara": "Kepulauan Virgin Inggris",
+    "hint": "Wilayah Inggris di Karibia"
+  },
+  {
+    "bendera": "🇧🇷",
+    "negara": "Brasil",
+    "hint": "Negara terbesar di Amerika Selatan"
+  },
+  {
+    "bendera": "🇧🇼",
+    "negara": "Botswana",
+    "hint": "Negara di Afrika dengan Delta Okavango"
+  },
+  {
+    "bendera": "🇧🇦",
+    "negara": "Bosnia dan Herzegovina",
+    "hint": "Negara di Balkan dengan ibu kota Sarajevo"
+  },
+  {
+    "bendera": "🇧🇴",
+    "negara": "Bolivia",
+    "hint": "Negara di Amerika Selatan dengan ibu kota La Paz"
+  },
+  {
+    "bendera": "🇧🇹",
+    "negara": "Bhutan",
+    "hint": "Kerajaan di Himalaya dengan kebahagiaan nasional"
+  },
+  {
+    "bendera": "🇧🇲",
+    "negara": "Bermuda",
+    "hint": "Wilayah Inggris di Atlantik"
+  },
+  {
+    "bendera": "🇧🇯",
+    "negara": "Benin",
+    "hint": "Negara di Afrika Barat dengan ibu kota Porto-Novo"
+  },
+  {
+    "bendera": "🇧🇿",
+    "negara": "Belize",
+    "hint": "Negara di Amerika Tengah dengan terumbu karang"
+  },
+  {
+    "bendera": "🇧🇪",
+    "negara": "Belgia",
+    "hint": "Negara di Eropa dengan ibu kota Brussel"
+  },
+  {
+    "bendera": "🇧🇾",
+    "negara": "Belarus",
+    "hint": "Negara di Eropa Timur dengan ibu kota Minsk"
+  },
+  {
+    "bendera": "🇧🇧",
+    "negara": "Barbados",
+    "hint": "Negara kepulauan di Karibia"
+  },
+  {
+    "bendera": "🇧🇩",
+    "negara": "Bangladesh",
+    "hint": "Negara di Asia Selatan dengan Sungai Ganges"
+  },
+  {
+    "bendera": "🇧🇭",
+    "negara": "Bahrain",
+    "hint": "Negara pulau di Teluk Persia"
+  },
+  {
+    "bendera": "🇧🇸",
+    "negara": "Bahama",
+    "hint": "Negara kepulauan di Atlantik"
+  },
+  {
+    "bendera": "🇦🇿",
+    "negara": "Azerbaijan",
+    "hint": "Negara di Kaukasus dengan ibu kota Baku"
+  },
+  {
+    "bendera": "🇦🇹",
+    "negara": "Austria",
+    "hint": "Negara di Eropa dengan musik klasik"
+  },
+  {
+    "bendera": "🇦🇺",
+    "negara": "Australia",
+    "hint": "Negara di Oseania dengan kanguru"
+  },
+  {
+    "bendera": "🇦🇼",
+    "negara": "Aruba",
+    "hint": "Wilayah Belanda di Karibia"
+  },
+  {
+    "bendera": "🇦🇲",
+    "negara": "Armenia",
+    "hint": "Negara di Kaukasus dengan Gunung Ararat"
+  },
+  {
+    "bendera": "🇦🇷",
+    "negara": "Argentina",
+    "hint": "Negara di Amerika Selatan dengan tango"
+  },
+  {
+    "bendera": "🇦🇬",
+    "negara": "Antigua dan Barbuda",
+    "hint": "Negara kepulauan di Karibia"
+  },
+  {
+    "bendera": "🇦🇶",
+    "negara": "Antartika",
+    "hint": "Benua tanpa negara berdaulat"
+  },
+  {
+    "bendera": "🇦🇮",
+    "negara": "Anguilla",
+    "hint": "Wilayah Inggris di Karibia"
+  },
+  {
+    "bendera": "🇦🇴",
+    "negara": "Angola",
+    "hint": "Negara di Afrika dengan ibu kota Luanda"
+  },
+  {
+    "bendera": "🇦🇩",
+    "negara": "Andorra",
+    "hint": "Negara kecil di Pegunungan Pyrenees"
+  },
+  {
+    "bendera": "🇦🇸",
+    "negara": "Samoa Amerika",
+    "hint": "Wilayah AS di Pasifik"
+  },
+  {
+    "bendera": "🇩🇿",
+    "negara": "Aljazair",
+    "hint": "Negara terbesar di Afrika"
+  },
+  {
+    "bendera": "🇦🇱",
+    "negara": "Albania",
+    "hint": "Negara di Balkan dengan ibu kota Tirana"
+  },
+  {
+    "bendera": "🇦🇽",
+    "negara": "Kepulauan Åland",
+    "hint": "Wilayah otonom Finlandia"
+  },
+  {
+    "bendera": "🇦🇫",
+    "negara": "Afghanistan",
+    "hint": "Negara di Asia Tengah dengan ibu kota Kabul"
+  },
+  {
+    "bendera": "🇺🇳",
+    "negara": "Perserikatan Bangsa-Bangsa",
+    "hint": "Bukan negara, melainkan organisasi internasional"
+  }
+]

@@ -1,0 +1,610 @@
+{
+  "kuis_sejarah_indonesia": [
+    {
+      "pertanyaan": "Siapa proklamator kemerdekaan Indonesia?",
+      "jawaban": "Soekarno dan Hatta",
+      "hint": "Duo ini membacakan teks proklamasi pada 17 Agustus 1945",
+      "hint2": "Foto mereka sering muncul di uang kertas rupiah"
+    },
+    {
+      "pertanyaan": "Dokumen apa yang ditandatangani Belanda sebagai pengakuan kedaulatan RI?",
+      "jawaban": "Konferensi Meja Bundar",
+      "hint": "Terjadi tahun 1949 di Den Haag",
+      "hint2": "Singkatannya KMB"
+    },
+    {
+      "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah...",
+      "jawaban": "Kutai",
+      "hint": "Berdiri di Kalimantan Timur abad ke-4",
+      "hint2": "Prasasti pertamanya menggunakan huruf Pallawa"
+    },
+    {
+      "pertanyaan": "Peristiwa 10 November 1945 diperingati sebagai hari...",
+      "jawaban": "Hari Pahlawan",
+      "hint": "Terjadi di Surabaya melawan sekutu",
+      "hint2": "Dipelopori oleh Bung Tomo"
+    },
+    {
+      "pertanyaan": "Siapa pendiri organisasi Budi Utomo?",
+      "jawaban": "Dr. Sutomo dan Wahidin Sudirohusodo",
+      "hint": "Organisasi ini berdiri tahun 1908",
+      "hint2": "Dianggap sebagai pelopor Kebangkitan Nasional"
+    },
+    {
+      "pertanyaan": "Perang terbesar melawan Belanda di Aceh dipimpin oleh...",
+      "jawaban": "Teuku Umar dan Cut Nyak Dien",
+      "hint": "Berlangsung selama 30 tahun (1873-1904)",
+      "hint2": "Salah satunya adalah suami-istri"
+    },
+    {
+      "pertanyaan": "Kerajaan maritim terbesar di Sumatra abad ke-7 adalah...",
+      "jawaban": "Sriwijaya",
+      "hint": "Berpusat di Palembang",
+      "hint2": "Disebut dalam prasasti Kedukan Bukit"
+    },
+    {
+      "pertanyaan": "Peristiwa pembumihangusan Bandung disebut...",
+      "jawaban": "Bandung Lautan Api",
+      "hint": "Terjadi tanggal 23 Maret 1946",
+      "hint2": "Diabadikan dalam lagu 'Halo-Halo Bandung'"
+    },
+    {
+      "pertanyaan": "Siapa pencipta lagu Indonesia Raya?",
+      "jawaban": "W.R. Supratman",
+      "hint": "Pertama dikumandangkan di Kongres Pemuda II",
+      "hint2": "Lahir di Jatinegara, 9 Maret 1903"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam pertama di Jawa adalah...",
+      "jawaban": "Demak",
+      "hint": "Didirikan oleh Raden Patah",
+      "hint2": "Masjidnya terkenal dengan soko tatal"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakui kedaulatan RI tahun 1949 adalah...",
+      "jawaban": "Konferensi Meja Bundar",
+      "hint": "Diselenggarakan di Den Haag",
+      "hint2": "Belanda mengakui RIS bukan RI"
+    },
+    {
+      "pertanyaan": "Pemberontakan PKI Madiun terjadi tahun...",
+      "jawaban": "1948",
+      "hint": "Dipimpin oleh Musso",
+      "hint2": "Ditumpas oleh Divisi Siliwangi"
+    },
+    {
+      "pertanyaan": "Siapa tokoh perumus Pancasila?",
+      "jawaban": "Ir. Soekarno",
+      "hint": "Disampaikan dalam sidang BPUPKI 1 Juni 1945",
+      "hint2": "Disebut juga sebagai Hari Lahir Pancasila"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Borobudur adalah...",
+      "jawaban": "Syailendra",
+      "hint": "Berdiri di Jawa Tengah abad ke-8",
+      "hint2": "Menganut agama Buddha Mahayana"
+    },
+    {
+      "pertanyaan": "Peristiwa penculikan Soekarno-Hatta ke Rengasdengklok bertujuan untuk...",
+      "jawaban": "Mempercepat proklamasi",
+      "hint": "Dilakukan oleh golongan muda",
+      "hint2": "Terjadi tanggal 16 Agustus 1945"
+    },
+    {
+      "pertanyaan": "Organisasi pergerakan nasional yang didirikan oleh Douwes Dekker adalah...",
+      "jawaban": "Indische Partij",
+      "hint": "Berdiri tahun 1912",
+      "hint2": "Bersama dr. Tjipto Mangunkusumo dan Suwardi Suryaningrat"
+    },
+    {
+      "pertanyaan": "Sumpah yang diucapkan Gajah Mada disebut...",
+      "jawaban": "Sumpah Palapa",
+      "hint": "Tercatat dalam kitab Pararaton",
+      "hint2": "Berisi janji tidak makan palapa sebelum Nusantara bersatu"
+    },
+    {
+      "pertanyaan": "Perang Diponegoro terjadi tahun...",
+      "jawaban": "1825-1830",
+      "hint": "Disebut juga Perang Jawa",
+      "hint2": "Menghabiskan kas Belanda"
+    },
+    {
+      "pertanyaan": "Pertempuran 10 November dipicu oleh insiden...",
+      "jawaban": "Bendera di Hotel Yamato",
+      "hint": "Arek-arek Surabaya merobek bendera Belanda",
+      "hint2": "Terjadi tanggal 19 September 1945"
+    },
+    {
+      "pertanyaan": "Kerajaan Hindu terbesar di Jawa Timur adalah...",
+      "jawaban": "Majapahit",
+      "hint": "Mencapai puncak di era Hayam Wuruk",
+      "hint2": "Patihnya yang terkenal Gajah Mada"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Aceh adalah...",
+      "jawaban": "Perjanjian Singapura",
+      "hint": "Ditandatangani tahun 1873",
+      "hint2": "Belanda mengakui kedaulatan Aceh"
+    },
+    {
+      "pertanyaan": "Pertempuran Ambarawa melibatkan pasukan TKR di bawah pimpinan...",
+      "jawaban": "Kolonel Soedirman",
+      "hint": "Terjadi November-Desember 1945",
+      "hint2": "Diperingati sebagai Hari Infanteri"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Ciaruteun adalah...",
+      "jawaban": "Tarumanagara",
+      "hint": "Berdiri di Jawa Barat abad ke-5",
+      "hint2": "Raja terkenalnya Purnawarman"
+    },
+    {
+      "pertanyaan": "Pemberontakan APRA tahun 1950 dipimpin oleh...",
+      "jawaban": "Raymond Westerling",
+      "hint": "Terjadi di Bandung",
+      "hint2": "APRA singkatan dari Angkatan Perang Ratu Adil"
+    },
+    {
+      "pertanyaan": "Siapa sultan terakhir Kerajaan Banten?",
+      "jawaban": "Sultan Ageng Tirtayasa",
+      "hint": "Memerintah abad ke-17",
+      "hint2": "Melawan VOC dengan strategi gerilya"
+    },
+    {
+      "pertanyaan": "Peristiwa Serangan Umum 1 Maret terjadi di...",
+      "jawaban": "Yogyakarta",
+      "hint": "Tahun 1949",
+      "hint2": "Dipimpin oleh Letkol Soeharto"
+    },
+    {
+      "pertanyaan": "Organisasi wanita pertama di Indonesia adalah...",
+      "jawaban": "Putri Mardika",
+      "hint": "Berdiri tahun 1912",
+      "hint2": "Bergerak di bidang pendidikan perempuan"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam pertama di Sulawesi adalah...",
+      "jawaban": "Gowa-Tallo",
+      "hint": "Raja terkenalnya Sultan Hasanuddin",
+      "hint2": "Dijuluki Ayam Jantan dari Timur"
+    },
+    {
+      "pertanyaan": "Perjanjian yang menandai berakhirnya konfrontasi Indonesia-Malaysia adalah...",
+      "jawaban": "Perjanjian Bangkok",
+      "hint": "Ditandatangani 11 Agustus 1966",
+      "hint2": "Atas prakarsa Adam Malik"
+    },
+    {
+      "pertanyaan": "Pertempuran Laut Aru terjadi tahun...",
+      "jawaban": "1962",
+      "hint": "Melibatkan kapal RI Macan Tutul",
+      "hint2": "Komodor Yos Sudarso gugur"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Prambanan adalah...",
+      "jawaban": "Mataram Kuno",
+      "hint": "Berdiri di Jawa Tengah abad ke-8",
+      "hint2": "Menganut agama Hindu"
+    },
+    {
+      "pertanyaan": "Pemberontakan DI/TII di Jawa Barat dipimpin oleh...",
+      "jawaban": "Sekarmadji Maridjan Kartosuwirjo",
+      "hint": "Terjadi 1949-1962",
+      "hint2": "Basisnya di Gunung Cepu"
+    },
+    {
+      "pertanyaan": "Siapa pendiri organisasi Sarekat Islam?",
+      "jawaban": "H.O.S. Tjokroaminoto",
+      "hint": "Awalnya bernama Sarekat Dagang Islam",
+      "hint2": "Didirikan tahun 1912"
+    },
+    {
+      "pertanyaan": "Kerajaan yang menguasai Selat Malaka pada abad ke-15 adalah...",
+      "jawaban": "Malaka",
+      "hint": "Raja pertamanya Parameswara",
+      "hint2": "Jatuh ke Portugis tahun 1511"
+    },
+    {
+      "pertanyaan": "Peristiwa kudeta G30S/PKI terjadi tahun...",
+      "jawaban": "1965",
+      "hint": "Menewaskan 6 jenderal",
+      "hint2": "Dipimpin Letkol Untung"
+    },
+    {
+      "pertanyaan": "Pertempuran Surabaya dimulai setelah tewasnya...",
+      "jawaban": "Brigadir Mallaby",
+      "hint": "Pemimpin pasukan Inggris",
+      "hint2": "Terbunuh 30 Oktober 1945"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Talang Tuo adalah...",
+      "jawaban": "Sriwijaya",
+      "hint": "Ditulis tahun 684 M",
+      "hint2": "Berisi tentang pembuatan taman Sriksetra"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Padri adalah...",
+      "jawaban": "Perjanjian Plakat Panjang",
+      "hint": "Ditandatangani tahun 1837",
+      "hint2": "Tuanku Imam Bonjol ditangkap"
+    },
+    {
+      "pertanyaan": "Organisasi Tri Koro Dharmo kemudian berubah menjadi...",
+      "jawaban": "Jong Java",
+      "hint": "Didirikan tahun 1915",
+      "hint2": "Organisasi pemuda pertama"
+    },
+    {
+      "pertanyaan": "Kerajaan yang mempersatukan Nusantara menurut sumpah Gajah Mada adalah...",
+      "jawaban": "Majapahit",
+      "hint": "Puncak kejayaan abad ke-14",
+      "hint2": "Patihnya Gajah Mada"
+    },
+    {
+      "pertanyaan": "Pemberontakan Andi Azis terjadi di...",
+      "jawaban": "Makassar",
+      "hint": "Tahun 1950",
+      "hint2": "Menolak masuknya TNI ke Sulawesi"
+    },
+    {
+      "pertanyaan": "Siapa penulis buku \"Max Havelaar\" yang mengkritik tanam paksa?",
+      "jawaban": "Multatuli",
+      "hint": "Nama pena Eduard Douwes Dekker",
+      "hint2": "Buku terbit tahun 1860"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Kota Kapur adalah...",
+      "jawaban": "Sriwijaya",
+      "hint": "Ditemukan di Bangka",
+      "hint2": "Berisi kutukan untuk pembangkang"
+    },
+    {
+      "pertanyaan": "Peristiwa Bandung Lautan Api terjadi tanggal...",
+      "jawaban": "23 Maret 1946",
+      "hint": "Atas perintah Kolonel A.H. Nasution",
+      "hint2": "Strategi bumi hangus"
+    },
+    {
+      "pertanyaan": "Organisasi pemuda yang menggelar Kongres Pemuda II adalah...",
+      "jawaban": "Perhimpunan Pelajar Pelajar Indonesia",
+      "hint": "Diselenggarakan 27-28 Oktober 1928",
+      "hint2": "Melahirkan Sumpah Pemuda"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam di Kalimantan yang terkenal dengan perang Banjarnya adalah...",
+      "jawaban": "Banjar",
+      "hint": "Dipimpin Pangeran Antasari",
+      "hint2": "Perang terjadi 1859-1905"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakui kedaulatan RI atas Irian Barat adalah...",
+      "jawaban": "Perjanjian New York",
+      "hint": "Ditandatangani 15 Agustus 1962",
+      "hint2": "Atas prakarsa Ellsworth Bunker"
+    },
+    {
+      "pertanyaan": "Pertempuran Medan Area terjadi tahun...",
+      "jawaban": "1945-1947",
+      "hint": "Melawan Sekutu dan NICA",
+      "hint2": "Dipicu insiden perobekan bendera"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Singasari adalah...",
+      "jawaban": "Singasari",
+      "hint": "Didirikan Ken Arok",
+      "hint2": "Raja terakhir Kertanegara"
+    },
+    {
+      "pertanyaan": "Pemberontakan RMS dipimpin oleh...",
+      "jawaban": "Christiaan Soumokil",
+      "hint": "Terjadi di Maluku tahun 1950",
+      "hint2": "RMS singkatan dari Republik Maluku Selatan"
+    },
+    {
+      "pertanyaan": "Siapa tokoh perempuan yang memimpin pasukan melawan Belanda di Aceh?",
+      "jawaban": "Cut Nyak Dien",
+      "hint": "Istri Teuku Umar",
+      "hint2": "Ditangkap dan diasingkan ke Sumedang"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Tugu adalah...",
+      "jawaban": "Tarumanagara",
+      "hint": "Berisi tentang penggalian sungai",
+      "hint2": "Prasasti terpanjang dari kerajaan ini"
+    },
+    {
+      "pertanyaan": "Peristiwa pembantaian Westerling terjadi di...",
+      "jawaban": "Sulawesi Selatan",
+      "hint": "Tahun 1946-1947",
+      "hint2": "Korban mencapai 40.000 jiwa"
+    },
+    {
+      "pertanyaan": "Organisasi yang menerbitkan surat kabar \"Oetoesan Hindia\" adalah...",
+      "jawaban": "Sarekat Islam",
+      "hint": "Dipimpin H.O.S. Tjokroaminoto",
+      "hint2": "Berdiri tahun 1912"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam di Sumatera yang menentang Portugis adalah...",
+      "jawaban": "Aceh",
+      "hint": "Di era Sultan Iskandar Muda",
+      "hint2": "Berkembang abad ke-16"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Diponegoro adalah...",
+      "jawaban": "Perjanjian Imogiri",
+      "hint": "Ditandatangani 1830",
+      "hint2": "Pangeran Diponegoro ditangkap"
+    },
+    {
+      "pertanyaan": "Pertempuran Lima Hari Lima Malam terjadi di...",
+      "jawaban": "Palembang",
+      "hint": "Januari 1947",
+      "hint2": "Melawan Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Jago adalah...",
+      "jawaban": "Singasari",
+      "hint": "Dibangun untuk Anusapati",
+      "hint2": "Terletak di Malang"
+    },
+    {
+      "pertanyaan": "Pemberontakan PRRI/Permesta didukung oleh...",
+      "jawaban": "Amerika Serikat",
+      "hint": "Terjadi 1958-1961",
+      "hint2": "PRRI singkatan dari Pemerintah Revolusioner Republik Indonesia"
+    },
+    {
+      "pertanyaan": "Siapa penulis buku \"Indonesia Menggugat\"?",
+      "jawaban": "Ir. Soekarno",
+      "hint": "Ditulis saat di penjara Bandung",
+      "hint2": "Pidato pembelaan di pengadilan Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Kebon Kopi adalah...",
+      "jawaban": "Tarumanagara",
+      "hint": "Berisi gambar telapak kaki gajah",
+      "hint2": "Ditemukan di Bogor"
+    },
+    {
+      "pertanyaan": "Peristiwa krisis politik tahun 1959 disebut...",
+      "jawaban": "Dekrit Presiden 5 Juli",
+      "hint": "Membubarkan Konstituante",
+      "hint2": "Kembali ke UUD 1945"
+    },
+    {
+      "pertanyaan": "Organisasi pemuda dari Sumatra bernama...",
+      "jawaban": "Jong Sumatranen Bond",
+      "hint": "Didirikan 1917",
+      "hint2": "Tokohnya Muhammad Yamin"
+    },
+    {
+      "pertanyaan": "Kerajaan yang menguasai perdagangan rempah di Maluku adalah...",
+      "jawaban": "Ternate dan Tidore",
+      "hint": "Berdiri abad ke-13",
+      "hint2": "Disebut \"Spice Islands\" oleh Eropa"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Batak adalah...",
+      "jawaban": "Perjanjian Poncan Simsim",
+      "hint": "Tahun 1907",
+      "hint2": "Sisingamangaraja XII gugur"
+    },
+    {
+      "pertanyaan": "Pertempuran Margarana dipimpin oleh...",
+      "jawaban": "I Gusti Ngurah Rai",
+      "hint": "Terjadi 20 November 1946",
+      "hint2": "Strategi puputan (perang habis-habisan)"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Muara Takus adalah...",
+      "jawaban": "Sriwijaya",
+      "hint": "Terletak di Riau",
+      "hint2": "Satu-satunya candi Buddha di Sumatra"
+    },
+    {
+      "pertanyaan": "Pemberontakan PKI tahun 1926 terjadi di...",
+      "jawaban": "Banten dan Sumatra Barat",
+      "hint": "Dipimpin Alimin dan Musso",
+      "hint2": "Menjadi alasan pembuangan ke Digul"
+    },
+    {
+      "pertanyaan": "Siapa tokoh yang mencetuskan nama \"Indonesia\"?",
+      "jawaban": "James Richardson Logan",
+      "hint": "Dalam Journal of the Indian Archipelago (1850)",
+      "hint2": "Diadopsi oleh Perhimpunan Indonesia di Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Canggal adalah...",
+      "jawaban": "Mataram Kuno",
+      "hint": "Berangka tahun 732 M",
+      "hint2": "Ditemukan di Magelang"
+    },
+    {
+      "pertanyaan": "Peristiwa krisis moneter yang memicu Reformasi 1998 dimulai tahun...",
+      "jawaban": "1997",
+      "hint": "Nilai rupiah anjlok",
+      "hint2": "Awalnya dari Thailand"
+    },
+    {
+      "pertanyaan": "Organisasi pemuda dari Sulawesi bernama...",
+      "jawaban": "Jong Celebes",
+      "hint": "Didirikan tahun 1918",
+      "hint2": "Anggotanya Sam Ratulangi"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam di Jawa yang menentang VOC adalah...",
+      "jawaban": "Banten",
+      "hint": "Di era Sultan Ageng Tirtayasa",
+      "hint2": "Basis perdagangan lada"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakui kedaulatan RI atas Papua adalah...",
+      "jawaban": "Perjanjian New York",
+      "hint": "Ditandatangani 1962",
+      "hint2": "Dilanjutkan dengan PEPERA 1969"
+    },
+    {
+      "pertanyaan": "Pertempuran Surabaya dimulai setelah tewasnya...",
+      "jawaban": "Brigadir Mallaby",
+      "hint": "Pemimpin pasukan Inggris",
+      "hint2": "Terbunuh 30 Oktober 1945"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Plaosan adalah...",
+      "jawaban": "Mataram Kuno",
+      "hint": "Didirikan Rakai Pikatan",
+      "hint2": "Perpaduan Hindu-Buddha"
+    },
+    {
+      "pertanyaan": "Pemberontakan RMS dipimpin oleh...",
+      "jawaban": "Christiaan Soumokil",
+      "hint": "Terjadi di Maluku tahun 1950",
+      "hint2": "RMS singkatan dari Republik Maluku Selatan"
+    },
+    {
+      "pertanyaan": "Siapa tokoh perempuan yang memimpin pasukan melawan Belanda di Aceh?",
+      "jawaban": "Cut Nyak Dien",
+      "hint": "Istri Teuku Umar",
+      "hint2": "Ditangkap dan diasingkan ke Sumedang"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Tugu adalah...",
+      "jawaban": "Tarumanagara",
+      "hint": "Berisi tentang penggalian sungai",
+      "hint2": "Prasasti terpanjang dari kerajaan ini"
+    },
+    {
+      "pertanyaan": "Peristiwa pembantaian Westerling terjadi di...",
+      "jawaban": "Sulawesi Selatan",
+      "hint": "Tahun 1946-1947",
+      "hint2": "Korban mencapai 40.000 jiwa"
+    },
+    {
+      "pertanyaan": "Organisasi yang menerbitkan surat kabar \"Oetoesan Hindia\" adalah...",
+      "jawaban": "Sarekat Islam",
+      "hint": "Dipimpin H.O.S. Tjokroaminoto",
+      "hint2": "Berdiri tahun 1912"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam di Sumatera yang menentang Portugis adalah...",
+      "jawaban": "Aceh",
+      "hint": "Di era Sultan Iskandar Muda",
+      "hint2": "Berkembang abad ke-16"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Diponegoro adalah...",
+      "jawaban": "Perjanjian Imogiri",
+      "hint": "Ditandatangani 1830",
+      "hint2": "Pangeran Diponegoro ditangkap"
+    },
+    {
+      "pertanyaan": "Pertempuran Lima Hari Lima Malam terjadi di...",
+      "jawaban": "Palembang",
+      "hint": "Januari 1947",
+      "hint2": "Melawan Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Jago adalah...",
+      "jawaban": "Singasari",
+      "hint": "Dibangun untuk Anusapati",
+      "hint2": "Terletak di Malang"
+    },
+    {
+      "pertanyaan": "Pemberontakan PRRI/Permesta didukung oleh...",
+      "jawaban": "Amerika Serikat",
+      "hint": "Terjadi 1958-1961",
+      "hint2": "PRRI singkatan dari Pemerintah Revolusioner Republik Indonesia"
+    },
+    {
+      "pertanyaan": "Siapa penulis buku \"Indonesia Menggugat\"?",
+      "jawaban": "Ir. Soekarno",
+      "hint": "Ditulis saat di penjara Bandung",
+      "hint2": "Pidato pembelaan di pengadilan Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Kebon Kopi adalah...",
+      "jawaban": "Tarumanagara",
+      "hint": "Berisi gambar telapak kaki gajah",
+      "hint2": "Ditemukan di Bogor"
+    },
+    {
+      "pertanyaan": "Peristiwa krisis politik tahun 1959 disebut...",
+      "jawaban": "Dekrit Presiden 5 Juli",
+      "hint": "Membubarkan Konstituante",
+      "hint2": "Kembali ke UUD 1945"
+    },
+    {
+      "pertanyaan": "Organisasi pemuda dari Sumatra bernama...",
+      "jawaban": "Jong Sumatranen Bond",
+      "hint": "Didirikan 1917",
+      "hint2": "Tokohnya Muhammad Yamin"
+    },
+    {
+      "pertanyaan": "Kerajaan yang menguasai perdagangan rempah di Maluku adalah...",
+      "jawaban": "Ternate dan Tidore",
+      "hint": "Berdiri abad ke-13",
+      "hint2": "Disebut \"Spice Islands\" oleh Eropa"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakhiri Perang Batak adalah...",
+      "jawaban": "Perjanjian Poncan Simsim",
+      "hint": "Tahun 1907",
+      "hint2": "Sisingamangaraja XII gugur"
+    },
+    {
+      "pertanyaan": "Pertempuran Margarana dipimpin oleh...",
+      "jawaban": "I Gusti Ngurah Rai",
+      "hint": "Terjadi 20 November 1946",
+      "hint2": "Strategi puputan (perang habis-habisan)"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan candi Muara Takus adalah...",
+      "jawaban": "Sriwijaya",
+      "hint": "Terletak di Riau",
+      "hint2": "Satu-satunya candi Buddha di Sumatra"
+    },
+    {
+      "pertanyaan": "Pemberontakan PKI tahun 1926 terjadi di...",
+      "jawaban": "Banten dan Sumatra Barat",
+      "hint": "Dipimpin Alimin dan Musso",
+      "hint2": "Menjadi alasan pembuangan ke Digul"
+    },
+    {
+      "pertanyaan": "Siapa tokoh yang mencetuskan nama \"Indonesia\"?",
+      "jawaban": "James Richardson Logan",
+      "hint": "Dalam Journal of the Indian Archipelago (1850)",
+      "hint2": "Diadopsi oleh Perhimpunan Indonesia di Belanda"
+    },
+    {
+      "pertanyaan": "Kerajaan yang meninggalkan prasasti Canggal adalah...",
+      "jawaban": "Mataram Kuno",
+      "hint": "Berangka tahun 732 M",
+      "hint2": "Ditemukan di Magelang"
+    },
+    {
+      "pertanyaan": "Peristiwa krisis moneter yang memicu Reformasi 1998 dimulai tahun...",
+      "jawaban": "1997",
+      "hint": "Nilai rupiah anjlok",
+      "hint2": "Awalnya dari Thailand"
+    },
+    {
+      "pertanyaan": "Organisasi pemuda dari Sulawesi bernama...",
+      "jawaban": "Jong Celebes",
+      "hint": "Didirikan tahun 1918",
+      "hint2": "Anggotanya Sam Ratulangi"
+    },
+    {
+      "pertanyaan": "Kerajaan Islam di Jawa yang menentang VOC adalah...",
+      "jawaban": "Banten",
+      "hint": "Di era Sultan Ageng Tirtayasa",
+      "hint2": "Basis perdagangan lada"
+    },
+    {
+      "pertanyaan": "Perjanjian yang mengakui kedaulatan RI atas Papua adalah...",
+      "jawaban": "Perjanjian New York",
+      "hint": "Ditandatangani 1962",
+      "hint2": "Dilanjutkan dengan PEPERA 1969"
+    }
+  ]
+}
